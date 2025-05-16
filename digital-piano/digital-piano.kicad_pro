@@ -431,7 +431,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "DigitalPiano.kicad_pro",
+    "filename": "digital-piano.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -577,7 +577,7 @@
   "sheets": [
     [
       "aa27de7e-02ac-4425-b77a-ffd46d02b76f",
-      "ルート"
+      "Root"
     ]
   ],
   "text_variables": {}
