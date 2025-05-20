@@ -3242,7 +3242,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "ALPS"
+		(property "MF" ""
 			(at 232.41 114.3 0)
 			(effects
 				(font
@@ -3252,7 +3252,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "\n                        \n                            Switch Tactile N.O. SPST Button J-Bend 0.05A 16VDC 2.55N SMD Automotive T/R\n                        \n"
+		(property "Description_1" ""
 			(at 232.41 114.3 0)
 			(effects
 				(font
@@ -3262,7 +3262,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "None"
+		(property "Package" ""
 			(at 232.41 114.3 0)
 			(effects
 				(font
@@ -3272,7 +3272,7 @@
 				(hide yes)
 			)
 		)
-		(property "Price" "None"
+		(property "Price" ""
 			(at 232.41 114.3 0)
 			(effects
 				(font
@@ -3282,7 +3282,7 @@
 				(hide yes)
 			)
 		)
-		(property "Check_prices" "https://www.snapeda.com/parts/SKRPACE010/ALPS/view-part/?ref=eda"
+		(property "Check_prices" ""
 			(at 232.41 114.3 0)
 			(effects
 				(font
@@ -3292,7 +3292,7 @@
 				(hide yes)
 			)
 		)
-		(property "STANDARD" "Maniufacturer Recommendations"
+		(property "STANDARD" ""
 			(at 232.41 114.3 0)
 			(effects
 				(font
@@ -3302,7 +3302,7 @@
 				(hide yes)
 			)
 		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/SKRPACE010/ALPS/view-part/?ref=snap"
+		(property "SnapEDA_Link" ""
 			(at 232.41 114.3 0)
 			(effects
 				(font
@@ -3312,7 +3312,7 @@
 				(hide yes)
 			)
 		)
-		(property "MP" "SKRPACE010"
+		(property "MP" ""
 			(at 232.41 114.3 0)
 			(effects
 				(font
@@ -3322,7 +3322,7 @@
 				(hide yes)
 			)
 		)
-		(property "Availability" "In Stock"
+		(property "Availability" ""
 			(at 232.41 114.3 0)
 			(effects
 				(font
@@ -3332,7 +3332,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "ALPS"
+		(property "MANUFACTURER" ""
 			(at 232.41 114.3 0)
 			(effects
 				(font
