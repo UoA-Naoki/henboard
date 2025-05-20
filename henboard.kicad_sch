@@ -6095,7 +6095,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "RF_Module:ESP32-S3-WROOM-1"
 			(at 251.46 101.6 0)
 			(effects
 				(font
@@ -7265,7 +7265,7 @@
 				)
 			)
 		)
-		(property "Footprint" "5077CR-16SMC2-BK-TR:NELTRON_5077CR-16SMC2-BK-TR"
+		(property "Footprint" "5077CR-16SMC2-BK-TR:5077CR-16SMC2-BK-TR"
 			(at 36.83 125.73 0)
 			(effects
 				(font
@@ -7574,7 +7574,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SKRPACE010:SW_SKRPACE010"
+		(property "Footprint" "SKRPACE010:SKRPACE010"
 			(at 34.29 41.91 0)
 			(effects
 				(font
@@ -8594,7 +8594,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LDL1117S33R:SOT230P700X180-4N"
+		(property "Footprint" "LDL1117S33R:LDL1117S33R"
 			(at 109.22 33.02 0)
 			(effects
 				(font
@@ -9028,7 +9028,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SKRPACE010:SW_SKRPACE010"
+		(property "Footprint" "SKRPACE010:SKRPACE010"
 			(at 64.77 41.91 0)
 			(effects
 				(font
@@ -9486,7 +9486,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm"
 			(at 152.4 116.84 0)
 			(effects
 				(font
