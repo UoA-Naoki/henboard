@@ -1532,132 +1532,132 @@
 		)
 	)
 	(junction
-		(at 40.64 71.12)
+		(at 86.36 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "2939ce8e-9888-4797-94e7-054319d146e6")
+		(uuid "109188cb-675f-45d3-8efd-8d47c50c462d")
 	)
 	(junction
-		(at 80.01 71.12)
+		(at 46.99 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "b3d115a9-7a90-4ffc-be9e-f7cc3a5f2980")
+		(uuid "6ad95298-79d1-4bde-9b54-9637abd901c4")
 	)
 	(no_connect
-		(at 80.01 106.68)
-		(uuid "0b42834d-2a21-442f-8f2b-532ad6adf47d")
+		(at 86.36 116.84)
+		(uuid "011a7ece-0c6d-4346-bb6a-f37f11d838f0")
 	)
 	(no_connect
-		(at 40.64 104.14)
-		(uuid "0ba47c4b-647b-463a-8f2d-02d201882178")
+		(at 86.36 91.44)
+		(uuid "0a8c8e83-c2b8-4b77-a93a-cd7ca356e396")
 	)
 	(no_connect
-		(at 80.01 104.14)
-		(uuid "14a1c178-dc9f-4105-abb0-1c48baea8ac8")
+		(at 46.99 119.38)
+		(uuid "0ae63e88-cad6-41bc-aeb6-37c54b314068")
 	)
 	(no_connect
-		(at 80.01 114.3)
-		(uuid "2e8331af-d731-4a1d-af95-508d9da2cbbc")
+		(at 86.36 81.28)
+		(uuid "264e1001-6404-4758-b2f7-ca9721277725")
 	)
 	(no_connect
-		(at 80.01 88.9)
-		(uuid "3181fd34-4b2f-4e72-885d-bebf452cbb38")
+		(at 86.36 93.98)
+		(uuid "3026d864-9a57-4689-a05d-64e80d31b903")
 	)
 	(no_connect
-		(at 80.01 119.38)
-		(uuid "321d70e6-2557-45ab-9bc0-bde23f572f92")
+		(at 243.84 109.22)
+		(uuid "3e31533f-87f2-44eb-ba2e-3ebd2804f13d")
 	)
 	(no_connect
-		(at 40.64 76.2)
-		(uuid "33023d47-0f76-4955-adf9-cdd70647d6fa")
+		(at 86.36 83.82)
+		(uuid "3f39d0e1-c2a6-4090-899a-953c95bd3da0")
 	)
 	(no_connect
-		(at 80.01 116.84)
-		(uuid "4697265c-c52f-4a75-9a2e-fb1e8c5dfd23")
+		(at 86.36 111.76)
+		(uuid "44dfe1b1-1f07-491b-b952-a90bfb05c3d1")
 	)
 	(no_connect
-		(at 80.01 73.66)
-		(uuid "524d3b8d-7b4e-49d3-a086-4e79cc97b4d2")
+		(at 46.99 101.6)
+		(uuid "47622498-80f7-42f2-95f5-816b87dd6626")
 	)
 	(no_connect
-		(at 80.01 111.76)
-		(uuid "5761bd29-29e6-476b-80d3-735a7e151c19")
+		(at 233.68 102.87)
+		(uuid "5501b841-a37b-477f-b79f-2548670e7a19")
 	)
 	(no_connect
-		(at 80.01 86.36)
-		(uuid "58991be6-aba8-4271-b289-7a376acf2ba6")
+		(at 243.84 97.79)
+		(uuid "61a3795e-46a4-4329-9b31-967f4e2c33ce")
 	)
 	(no_connect
-		(at 237.49 77.47)
-		(uuid "6617a857-574a-4fad-aca3-9b6754c5a0ae")
+		(at 243.84 86.36)
+		(uuid "6ff7963b-082a-4a04-9f1f-ed339adaf7a7")
 	)
 	(no_connect
-		(at 80.01 96.52)
-		(uuid "703a476f-f9ba-469e-a0b2-0b8ab6f54c7b")
+		(at 233.68 91.44)
+		(uuid "7621d7d0-9a15-4bd8-a43f-018968f089fd")
 	)
 	(no_connect
-		(at 237.49 111.76)
-		(uuid "77af75c8-fc93-4d7d-bbb8-0fc7e312ca79")
+		(at 86.36 99.06)
+		(uuid "85e64d50-3033-4d1e-8862-6eb7d5fcfea8")
 	)
 	(no_connect
-		(at 80.01 109.22)
-		(uuid "7951a0e3-8c4c-4557-be79-ebd00e959656")
+		(at 86.36 106.68)
+		(uuid "89bed7e0-5afc-4aa3-b2be-123bdd7df0ad")
 	)
 	(no_connect
-		(at 80.01 76.2)
-		(uuid "843d5150-4968-4de7-a1d4-321d4a82bfb0")
+		(at 86.36 114.3)
+		(uuid "8b9da7ae-c876-4f85-881d-9a48da47c95b")
 	)
 	(no_connect
-		(at 227.33 105.41)
-		(uuid "8a61fc01-928c-41b0-a1bd-3285f4b85061")
+		(at 86.36 96.52)
+		(uuid "90bc227a-5888-4239-be42-e7d394dd13c0")
 	)
 	(no_connect
-		(at 80.01 91.44)
-		(uuid "94cc9460-434a-49bd-b32a-c83ba0af130b")
+		(at 86.36 109.22)
+		(uuid "90d00226-c633-4023-b5de-a0ebb6200219")
 	)
 	(no_connect
-		(at 80.01 101.6)
-		(uuid "9cd6669e-9143-44eb-b205-d608be522cef")
+		(at 86.36 101.6)
+		(uuid "922759a2-28bf-442e-b4f1-505924688de7")
 	)
 	(no_connect
-		(at 80.01 93.98)
-		(uuid "a8d932c5-2ec7-42df-9755-ae604e7c0137")
+		(at 86.36 88.9)
+		(uuid "981395d7-37c0-4743-a2c0-fe52b4a6d2b9")
 	)
 	(no_connect
-		(at 80.01 83.82)
-		(uuid "a99d7902-de77-48ce-b0a7-b4e60c46a05e")
+		(at 46.99 73.66)
+		(uuid "99c329f3-acb7-495e-a496-a86ee5c314cc")
 	)
 	(no_connect
-		(at 237.49 100.33)
-		(uuid "ab79ae3a-49af-4394-9b7a-7f8b8a195276")
+		(at 86.36 86.36)
+		(uuid "b0b86026-4f77-49d8-8bfd-d96d23827634")
 	)
 	(no_connect
-		(at 227.33 93.98)
-		(uuid "c129384d-26a0-4945-83f1-f204816d293f")
+		(at 243.84 74.93)
+		(uuid "c14608ff-d621-4e6c-b73e-cb0f6fe3887a")
 	)
 	(no_connect
-		(at 227.33 116.84)
-		(uuid "de8f5c7b-bf55-41ff-a25c-6e51a8b67aad")
+		(at 86.36 104.14)
+		(uuid "c30efe4b-bdc8-4f43-8d5a-9b9d8228a69b")
 	)
 	(no_connect
-		(at 227.33 82.55)
-		(uuid "e0326716-b820-4134-ab03-1514d63bb291")
+		(at 233.68 80.01)
+		(uuid "dc19eada-ad8d-4648-84a2-8df3ed189763")
 	)
 	(no_connect
-		(at 237.49 88.9)
-		(uuid "e98361ef-2a14-448f-9b96-8e6312fff53c")
+		(at 86.36 73.66)
+		(uuid "e47caeee-2863-4c3a-8791-53f9269d116a")
 	)
 	(no_connect
-		(at 80.01 99.06)
-		(uuid "f514b26e-a117-4d40-965a-2263b0b3e016")
+		(at 233.68 114.3)
+		(uuid "efab87f4-dd84-416d-a7f6-f71941c9851f")
 	)
 	(no_connect
-		(at 40.64 121.92)
-		(uuid "f9e05142-0640-4ba6-9d61-783e3ac886b5")
+		(at 86.36 71.12)
+		(uuid "fcc14942-c251-4f7a-8834-b559f32fc6f8")
 	)
 	(global_label "SELECT4"
 		(shape input)
-		(at 227.33 111.76 180)
+		(at 46.99 93.98 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1665,75 +1665,9 @@
 			)
 			(justify right)
 		)
-		(uuid "02a71470-667b-427a-a76f-df9cd2f74797")
+		(uuid "00cb6dc6-8f64-4b53-949c-018c306d70eb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 216.3621 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SELECT2"
-		(shape input)
-		(at 40.64 91.44 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "1a95a831-0b2d-4d31-b9d5-52ef98a103fe")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 29.6721 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH2"
-		(shape input)
-		(at 80.01 81.28 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "290e8cf0-1b30-4fe1-b93c-46ae5a6a357e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 90.4338 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH3"
-		(shape input)
-		(at 140.97 102.87 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "3382296b-5602-4d03-a78e-4857b07ceccd")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 140.97 113.2938 90)
+			(at 36.0221 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1745,7 +1679,7 @@
 	)
 	(global_label "SELECT3"
 		(shape input)
-		(at 227.33 100.33 180)
+		(at 46.99 91.44 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1753,119 +1687,9 @@
 			)
 			(justify right)
 		)
-		(uuid "394dcd67-4710-4836-bad1-bfe59b76a62a")
+		(uuid "02107ee6-7425-4cb1-8a01-e97b7e890908")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 216.3621 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH4"
-		(shape input)
-		(at 40.64 78.74 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "3e465a96-39dd-4ee7-9449-bcb04c754e26")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 30.2162 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH1"
-		(shape input)
-		(at 80.01 78.74 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "468a48ed-b9a3-4554-bf3a-4f2ed7a84cde")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 90.4338 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH11"
-		(shape input)
-		(at 40.64 111.76 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "572a29aa-bfda-45c4-8bae-5be15cdd54cb")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 29.0067 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH9"
-		(shape input)
-		(at 40.64 106.68 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "59a159d6-569b-4228-901d-2f80a1368957")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 30.2162 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH10"
-		(shape input)
-		(at 40.64 109.22 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "5be4dbc3-1548-4192-8037-8c974335a9a3")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 29.0067 109.22 0)
+			(at 36.0221 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1877,7 +1701,7 @@
 	)
 	(global_label "TOUCH12"
 		(shape input)
-		(at 40.64 114.3 180)
+		(at 46.99 111.76 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1885,9 +1709,9 @@
 			)
 			(justify right)
 		)
-		(uuid "64c0e102-8168-480d-b1b6-0e406ddd6dcc")
+		(uuid "0dae8050-4a3c-4338-92e9-0c3b4a30206d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 29.0067 114.3 0)
+			(at 35.3567 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1899,7 +1723,95 @@
 	)
 	(global_label "TOUCH4"
 		(shape input)
-		(at 143.51 86.36 90)
+		(at 46.99 76.2 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0e316df8-c4b0-45db-b160-8a8d7fd4392f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 36.5662 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH10"
+		(shape input)
+		(at 46.99 106.68 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0e917f21-1f9f-4efd-a56a-f9cff3671896")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 35.3567 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH8"
+		(shape input)
+		(at 46.99 96.52 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0fef953d-10a7-4b4c-875f-3c3301ee7c9f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 36.5662 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH9"
+		(shape input)
+		(at 46.99 104.14 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "108f5133-95f1-4250-8d20-0cd3033d8f74")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 36.5662 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH1"
+		(shape input)
+		(at 86.36 76.2 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1907,9 +1819,53 @@
 			)
 			(justify left)
 		)
-		(uuid "6d4c2dda-be37-4c39-a7f0-24cbee43b106")
+		(uuid "1376101b-a5e9-4c63-a91d-9fa85ea51cb2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 143.51 75.9362 90)
+			(at 96.7838 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SELECT1"
+		(shape input)
+		(at 46.99 86.36 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2af8a96a-0f81-4802-b074-1688c0767887")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 36.0221 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH9"
+		(shape input)
+		(at 160.02 83.82 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2b29704b-29f2-4d60-9e78-0aa85302705e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 160.02 73.3962 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1921,7 +1877,7 @@
 	)
 	(global_label "SELECT4"
 		(shape input)
-		(at 40.64 96.52 180)
+		(at 233.68 109.22 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1929,119 +1885,9 @@
 			)
 			(justify right)
 		)
-		(uuid "6fb7f3a4-f940-44ec-9aba-907c076c7369")
+		(uuid "2f7457d3-f772-44df-8425-1da287f9143f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 29.6721 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH3"
-		(shape input)
-		(at 40.64 101.6 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "7b84caa2-4d16-4867-8aff-06ae4e906e7b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 30.2162 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SELECT1"
-		(shape input)
-		(at 40.64 88.9 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "8290a97c-f04d-48a9-8e18-849caf22ff4b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 29.6721 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH8"
-		(shape input)
-		(at 40.64 99.06 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "87c33215-ce02-4aa1-980d-e1bd11db9a31")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 30.2162 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH14"
-		(shape input)
-		(at 40.64 119.38 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "8c92a970-15fc-4599-88af-8d2cc4fe2eaa")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 29.0067 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SELECT3"
-		(shape input)
-		(at 40.64 93.98 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "9ad25792-8074-4abb-998c-4e47e17e3619")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 29.6721 93.98 0)
+			(at 222.7121 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2053,7 +1899,7 @@
 	)
 	(global_label "TOUCH10"
 		(shape input)
-		(at 156.21 102.87 270)
+		(at 162.56 100.33 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2061,119 +1907,9 @@
 			)
 			(justify right)
 		)
-		(uuid "9cac3cd7-b041-47f7-82fd-ea1f5a1aee16")
+		(uuid "516ac878-1377-42ff-aa8d-bfc7212b54f5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 156.21 114.5033 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH9"
-		(shape input)
-		(at 153.67 86.36 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "a0d54bba-40f1-4c4b-9b54-aa4a1a0dfe46")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 153.67 75.9362 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH13"
-		(shape input)
-		(at 40.64 116.84 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "ae5d228d-a29d-4baf-a5ce-979fb9d8a51d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 29.0067 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH12"
-		(shape input)
-		(at 160.02 102.87 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "afe1621d-c6c3-400d-a87b-4455286b4a8c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 160.02 114.5033 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH5"
-		(shape input)
-		(at 40.64 81.28 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "b7835458-df0b-4e56-b860-91b818f651e9")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 30.2162 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SELECT2"
-		(shape input)
-		(at 227.33 88.9 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "baeb0b89-9799-4194-9613-5314eed8c632")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 216.3621 88.9 0)
+			(at 162.56 111.9633 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2185,7 +1921,7 @@
 	)
 	(global_label "TOUCH1"
 		(shape input)
-		(at 137.16 102.87 270)
+		(at 143.51 100.33 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2193,229 +1929,9 @@
 			)
 			(justify right)
 		)
-		(uuid "c805468d-f323-4eaf-94da-f33e0d1d8ecf")
+		(uuid "5300c701-6bf2-4ee8-8da1-610a62842241")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 137.16 113.2938 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH8"
-		(shape input)
-		(at 152.4 102.87 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "cd37bfe5-1f8d-4033-b890-a2f20f02679f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 152.4 113.2938 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH2"
-		(shape input)
-		(at 139.7 86.36 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "d3be0940-beaa-4f16-a18d-5e10af5d242a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 139.7 75.9362 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH13"
-		(shape input)
-		(at 165.1 102.87 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "d9f773dc-8c3c-4170-983d-76df6f54dccd")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 165.1 114.5033 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH7"
-		(shape input)
-		(at 149.86 86.36 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "e8cb7418-a654-42fb-a0b7-c0481918614f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 149.86 75.9362 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH6"
-		(shape input)
-		(at 40.64 83.82 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "ec3e97c9-bd2b-4854-bb75-f7c0122a3fb6")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 30.2162 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH6"
-		(shape input)
-		(at 148.59 102.87 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "f9c8735a-99a8-4979-9099-39ff4ca3fa0e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 148.59 113.2938 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH7"
-		(shape input)
-		(at 40.64 86.36 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "fbdd270b-3a55-41f5-ad32-e252763e445b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 30.2162 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH11"
-		(shape input)
-		(at 157.48 86.36 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "fcebe44c-5e23-4200-bd8b-c200dd690f12")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 157.48 74.7267 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH5"
-		(shape input)
-		(at 144.78 102.87 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "fe334bd8-45e3-4a80-b16f-be8a1cb787f7")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 144.78 113.2938 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SELECT1"
-		(shape input)
-		(at 227.33 77.47 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "fe86288f-8723-4fdb-9bc8-dde766d9c757")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 216.3621 77.47 0)
+			(at 143.51 110.7538 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2427,7 +1943,29 @@
 	)
 	(global_label "TOUCH14"
 		(shape input)
-		(at 165.1 86.36 90)
+		(at 46.99 116.84 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5ff0fee4-258b-4469-b945-edb21058d994")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 35.3567 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH11"
+		(shape input)
+		(at 163.83 83.82 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2435,9 +1973,9 @@
 			)
 			(justify left)
 		)
-		(uuid "fff7d1a3-cb38-46b5-8580-86f254f77042")
+		(uuid "625a21ea-6abc-47ce-9da7-66ccab989730")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 165.1 74.7267 90)
+			(at 163.83 72.1867 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2447,557 +1985,480 @@
 			)
 		)
 	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x01")
-		(at 152.4 97.79 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+	(global_label "TOUCH5"
+		(shape input)
+		(at 151.13 100.33 270)
 		(fields_autoplaced yes)
-		(uuid "04e86538-922a-4c0b-8090-e5c7f3ef0f21")
-		(property "Reference" "J10"
-			(at 154.94 99.0601 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
+		(effects
+			(font
+				(size 1.27 1.27)
 			)
+			(justify right)
 		)
-		(property "Value" "Conn_01x01"
-			(at 154.94 96.5201 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SparkFun-Switch:Pad-CapacitiveTouch"
-			(at 152.4 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 152.4 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 152.4 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9618a70e-9d6a-43e4-8ee4-9ef8a7c7ab01")
-		)
-		(instances
-			(project "DigitalPiano"
-				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
-					(reference "J10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x01")
-		(at 165.1 97.79 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "055dcac9-16c9-456b-8bf9-4ff41491bf33")
-		(property "Reference" "J16"
-			(at 167.64 99.0601 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x01"
-			(at 167.64 96.5201 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SparkFun-Switch:Pad-CapacitiveTouch"
-			(at 165.1 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 165.1 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 165.1 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "220477ee-0c4c-40fd-a69c-2ee675a4b8e5")
-		)
-		(instances
-			(project "DigitalPiano"
-				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
-					(reference "J16")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 237.49 105.41 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "20f80495-cfe1-4e51-8bde-aa4ad9f78e33")
-		(property "Reference" "#PWR09"
-			(at 243.84 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 241.3 105.4099 90)
+		(uuid "74a31ee8-a75e-4a97-a18c-072ce985b8dc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 151.13 110.7538 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
-		(property "Footprint" ""
-			(at 237.49 105.41 0)
+	)
+	(global_label "TOUCH8"
+		(shape input)
+		(at 158.75 100.33 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7cc475c6-baf5-4d69-8391-66fa98c335cc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 158.75 110.7538 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 237.49 105.41 0)
+	)
+	(global_label "TOUCH6"
+		(shape input)
+		(at 46.99 81.28 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8256c1bf-9e21-44f5-9122-ea1a6de986b9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 36.5662 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 237.49 105.41 0)
+	)
+	(global_label "TOUCH12"
+		(shape input)
+		(at 166.37 100.33 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "82f8a23b-4b4c-43a4-85f2-2a2be4d03068")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 166.37 111.9633 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 				(hide yes)
 			)
 		)
-		(pin "1"
-			(uuid "cdcae0e2-d86d-4d7a-b709-7343878f025a")
+	)
+	(global_label "TOUCH2"
+		(shape input)
+		(at 146.05 83.82 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
 		)
-		(instances
-			(project "DigitalPiano"
-				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
-					(reference "#PWR09")
-					(unit 1)
+		(uuid "84da588c-fd09-4f6e-a417-fe55b9100233")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 146.05 73.3962 90)
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH2"
+		(shape input)
+		(at 86.36 78.74 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "87f3f0ef-11cd-4721-b6e4-ea0cfbaa9b6d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 96.7838 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SELECT2"
+		(shape input)
+		(at 233.68 86.36 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "891e777b-dfba-4b44-b9db-f82eb38bdbfd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 222.7121 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH5"
+		(shape input)
+		(at 46.99 78.74 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "99a3c4f4-3f3c-4d04-8288-3f9b43d26096")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 36.5662 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH4"
+		(shape input)
+		(at 149.86 83.82 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9e740385-610a-46d4-9917-04e1d2246a2f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 149.86 73.3962 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH6"
+		(shape input)
+		(at 154.94 100.33 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a3bf1f21-19ed-46f3-a7ee-0ad0b8da931a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 154.94 110.7538 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH7"
+		(shape input)
+		(at 156.21 83.82 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a488d8f4-4693-42df-bd9c-452a73607d59")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 156.21 73.3962 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SELECT1"
+		(shape input)
+		(at 233.68 74.93 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a4e59cd8-1b91-45f8-90e2-b46a4a09fa40")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 222.7121 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH3"
+		(shape input)
+		(at 147.32 100.33 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a94b52ca-4e96-4f6f-912b-69935c21fe75")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 147.32 110.7538 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH3"
+		(shape input)
+		(at 46.99 99.06 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a9694201-6791-4493-af94-64d67116bbee")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 36.5662 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SELECT3"
+		(shape input)
+		(at 233.68 97.79 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b4821d9a-d0d1-4057-b174-4e24c8030d6d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 222.7121 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH11"
+		(shape input)
+		(at 46.99 109.22 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "bebe1535-43a9-48f2-b23e-b67675551fce")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 35.3567 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SELECT2"
+		(shape input)
+		(at 46.99 88.9 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e2ada03b-c5d5-4f15-aa31-c00f5a0f5509")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 36.0221 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH13"
+		(shape input)
+		(at 46.99 114.3 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ef53aa09-062f-4ed1-a848-d2a00cf95b45")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 35.3567 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH13"
+		(shape input)
+		(at 171.45 100.33 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "efa83abf-f09e-4124-8ed8-bd36aad9a347")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 171.45 111.9633 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH14"
+		(shape input)
+		(at 171.45 83.82 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f6c9dda5-5447-4fd1-9b6b-c1166a4541da")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 171.45 72.1867 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH7"
+		(shape input)
+		(at 46.99 83.82 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f845380d-8a54-4b9c-9de5-4649df1d55c8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 36.5662 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
 			)
 		)
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
-		(at 137.16 97.79 270)
-		(mirror x)
+		(at 156.21 88.9 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "247e96ac-0dad-4961-b7e0-f8fe4e80e8a8")
-		(property "Reference" "J3"
-			(at 139.7 99.0601 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x01"
-			(at 139.7 96.5201 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SparkFun-Switch:Pad-CapacitiveTouch"
-			(at 137.16 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 137.16 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 137.16 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "921108c8-ade5-4b9f-b486-41da5c65bc1b")
-		)
-		(instances
-			(project "DigitalPiano"
-				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
-					(reference "J3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x01")
-		(at 160.02 97.79 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "28f190f7-66aa-4741-ba7b-316a987d083f")
-		(property "Reference" "J14"
-			(at 162.56 99.0601 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x01"
-			(at 162.56 96.5201 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SparkFun-Switch:Pad-CapacitiveTouch"
-			(at 160.02 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 160.02 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 160.02 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "301a591c-6a61-4f78-a9b5-876260d262a0")
-		)
-		(instances
-			(project "DigitalPiano"
-				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
-					(reference "J14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:PWR_FLAG")
-		(at 40.64 71.12 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2a066c8a-9d22-4656-85e8-3e8327abcbfa")
-		(property "Reference" "#FLG01"
-			(at 40.64 69.215 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "PWR_FLAG"
-			(at 40.64 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 40.64 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 40.64 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 40.64 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d6a0ca4d-4165-45a3-8b15-9aac5911baa2")
-		)
-		(instances
-			(project "DigitalPiano"
-				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
-					(reference "#FLG01")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x01")
-		(at 153.67 91.44 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4baaeb24-194c-40c3-8048-dbae24095eef")
-		(property "Reference" "J11"
-			(at 156.21 90.1699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x01"
-			(at 156.21 92.7099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SparkFun-Switch:Pad-CapacitiveTouch"
-			(at 153.67 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 153.67 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 153.67 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "190ab4b9-47a1-434c-bdf8-8bbc65834c6f")
-		)
-		(instances
-			(project "DigitalPiano"
-				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
-					(reference "J11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 40.64 71.12 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4ecc81cc-09e0-4d81-b272-0bf5a32a8439")
-		(property "Reference" "#PWR01"
-			(at 44.45 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 36.83 71.1199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 40.64 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 40.64 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 40.64 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d3683c97-b905-4959-b7ac-cc5708567da1")
-		)
-		(instances
-			(project "DigitalPiano"
-				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
-					(reference "#PWR01")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x01")
-		(at 149.86 91.44 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "560da739-1d0e-43cc-aac3-6b1c8b5e86a7")
+		(uuid "09e8c191-3cf2-482c-9db0-72fb38f7442d")
 		(property "Reference" "J9"
-			(at 152.4 90.1699 90)
+			(at 158.75 87.6299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3006,7 +2467,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01"
-			(at 152.4 92.7099 90)
+			(at 158.75 90.1699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3014,8 +2475,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-Switch:Pad-CapacitiveTouch"
-			(at 149.86 91.44 0)
+		(property "Footprint" "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
+			(at 156.21 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3024,7 +2485,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 149.86 91.44 0)
+			(at 156.21 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3033,7 +2494,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 149.86 91.44 0)
+			(at 156.21 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3042,10 +2503,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "3f0d7379-339d-43c8-a526-6409cea4030f")
+			(uuid "b3e9b5e8-fb99-4fa3-9025-5b4e76dabbff")
 		)
 		(instances
-			(project "DigitalPiano"
+			(project "digital-piano"
 				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
 					(reference "J9")
 					(unit 1)
@@ -3054,394 +2515,17 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x01")
-		(at 144.78 97.79 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5d22f00f-5a1d-407a-9a8f-67da3d9df02e")
-		(property "Reference" "J7"
-			(at 147.32 99.0601 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x01"
-			(at 147.32 96.5201 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SparkFun-Switch:Pad-CapacitiveTouch"
-			(at 144.78 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 144.78 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 144.78 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "02d82a0a-aa71-4b05-afea-4a7fb65aa56c")
-		)
-		(instances
-			(project "DigitalPiano"
-				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
-					(reference "J7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 40.64 73.66 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "64eba845-eeb2-4378-bc15-3ef9a445f022")
-		(property "Reference" "#PWR02"
-			(at 44.45 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 36.83 73.6599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 40.64 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 40.64 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 40.64 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "570efd81-bb9f-4e66-951d-c346d5749180")
-		)
-		(instances
-			(project "DigitalPiano"
-				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
-					(reference "#PWR02")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SKRPACE010:SKRPACE010")
-		(at 232.41 114.3 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7297d4de-2cc4-4144-8549-146b46c2e932")
-		(property "Reference" "S4"
-			(at 232.41 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SKRPACE010"
-			(at 232.41 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "SKRPACE010:SKRPACE010"
-			(at 232.41 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 232.41 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 232.41 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" ""
-			(at 232.41 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" ""
-			(at 232.41 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" ""
-			(at 232.41 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" ""
-			(at 232.41 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" ""
-			(at 232.41 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" ""
-			(at 232.41 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" ""
-			(at 232.41 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" ""
-			(at 232.41 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" ""
-			(at 232.41 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" ""
-			(at 232.41 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4b7a0ff0-e0c2-4cfa-816b-7ab59c159b94")
-		)
-		(pin "2"
-			(uuid "a08e18c8-9a2d-4ea3-87bd-1ef1423132a3")
-		)
-		(pin "4"
-			(uuid "af8fbc43-b869-42bc-8342-2e87775a3ae4")
-		)
-		(pin "3"
-			(uuid "8009c5cb-71dd-4a1d-9d28-a958110b4388")
-		)
-		(instances
-			(project "DigitalPiano"
-				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
-					(reference "S4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x01")
-		(at 165.1 91.44 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "731f76ff-285c-4fdd-b9eb-bda003e0ee62")
-		(property "Reference" "J15"
-			(at 167.64 90.1699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x01"
-			(at 167.64 92.7099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SparkFun-Switch:Pad-CapacitiveTouch"
-			(at 165.1 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 165.1 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 165.1 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "29b0d455-7512-452f-8aaf-fab2a7857372")
-		)
-		(instances
-			(project "DigitalPiano"
-				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
-					(reference "J15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
-		(at 80.01 71.12 90)
+		(at 86.36 68.58 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "7ca6895f-25f2-4e7e-ba3e-86c27c5fefa5")
+		(uuid "0de57134-886d-4162-a49d-6bec7d83c4fb")
 		(property "Reference" "#PWR04"
-			(at 86.36 71.12 0)
+			(at 92.71 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3450,7 +2534,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 83.82 71.1199 90)
+			(at 90.17 68.5799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3459,7 +2543,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 80.01 71.12 0)
+			(at 86.36 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3468,7 +2552,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 80.01 71.12 0)
+			(at 86.36 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3477,7 +2561,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 80.01 71.12 0)
+			(at 86.36 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3486,10 +2570,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "7c32395f-91f2-4e05-9cde-2885c0cbe78a")
+			(uuid "ec76b20d-227f-4638-ae37-dd27d1ea1967")
 		)
 		(instances
-			(project "DigitalPiano"
+			(project "digital-piano"
 				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
 					(reference "#PWR04")
 					(unit 1)
@@ -3498,286 +2582,17 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x01")
-		(at 157.48 91.44 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "83e90620-c7fd-432f-84d5-115ba3301c8e")
-		(property "Reference" "J13"
-			(at 160.02 90.1699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x01"
-			(at 160.02 92.7099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SparkFun-Switch:Pad-CapacitiveTouch"
-			(at 157.48 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 157.48 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 157.48 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f2eb5f41-602a-48cc-aff9-679bbe298db6")
-		)
-		(instances
-			(project "DigitalPiano"
-				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
-					(reference "J13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
-		(at 80.01 124.46 90)
+		(at 243.84 114.3 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "a0753a6d-7d7f-40ff-91d2-66c2bbb15a96")
-		(property "Reference" "#PWR06"
-			(at 86.36 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 83.82 124.4599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 80.01 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 80.01 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 80.01 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b8375155-ec0e-4954-98d6-b664a177a086")
-		)
-		(instances
-			(project "DigitalPiano"
-				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
-					(reference "#PWR06")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x01")
-		(at 140.97 97.79 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a7c1050f-bf92-4bcd-8cc3-75150c818db3")
-		(property "Reference" "J5"
-			(at 143.51 99.0601 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x01"
-			(at 143.51 96.5201 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SparkFun-Switch:Pad-CapacitiveTouch"
-			(at 140.97 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 140.97 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 140.97 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "cba8b183-c269-4b0c-9419-caa9c98eca32")
-		)
-		(instances
-			(project "DigitalPiano"
-				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
-					(reference "J5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 40.64 124.46 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a919b38c-edb7-4e7f-b02b-f5bd5bd3d0db")
-		(property "Reference" "#PWR03"
-			(at 34.29 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 36.83 124.4599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 40.64 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 40.64 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 40.64 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b802195c-f815-48d6-8bf9-326feb7606cd")
-		)
-		(instances
-			(project "DigitalPiano"
-				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
-					(reference "#PWR03")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 237.49 116.84 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b2c767ef-304f-48ef-bad0-d90feb2971f8")
+		(uuid "0ea6d184-e99d-44e4-8fc4-734edd005131")
 		(property "Reference" "#PWR010"
-			(at 243.84 116.84 0)
+			(at 250.19 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3786,7 +2601,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 241.3 116.8399 90)
+			(at 247.65 114.2999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3795,7 +2610,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 237.49 116.84 0)
+			(at 243.84 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3804,7 +2619,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 237.49 116.84 0)
+			(at 243.84 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3813,7 +2628,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 237.49 116.84 0)
+			(at 243.84 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3822,10 +2637,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "7a98e966-7e91-4c77-832c-8d27540c3582")
+			(uuid "7d125e13-5a2a-4cb0-a2db-4c79eb6b8faf")
 		)
 		(instances
-			(project "DigitalPiano"
+			(project "digital-piano"
 				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
 					(reference "#PWR010")
 					(unit 1)
@@ -3834,502 +2649,17 @@
 		)
 	)
 	(symbol
-		(lib_id "SKRPACE010:SKRPACE010")
-		(at 232.41 91.44 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b58679e1-fcf6-46ae-b4cd-933cbca12179")
-		(property "Reference" "S2"
-			(at 232.41 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SKRPACE010"
-			(at 232.41 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "SKRPACE010:SKRPACE010"
-			(at 232.41 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 232.41 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 232.41 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" "ALPS"
-			(at 232.41 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "\n                        \n                            Switch Tactile N.O. SPST Button J-Bend 0.05A 16VDC 2.55N SMD Automotive T/R\n                        \n"
-			(at 232.41 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "None"
-			(at 232.41 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 232.41 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/SKRPACE010/ALPS/view-part/?ref=eda"
-			(at 232.41 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Maniufacturer Recommendations"
-			(at 232.41 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/SKRPACE010/ALPS/view-part/?ref=snap"
-			(at 232.41 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "SKRPACE010"
-			(at 232.41 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 232.41 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "ALPS"
-			(at 232.41 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c0070beb-26df-4dc1-a9d8-5f4c9a689aa6")
-		)
-		(pin "2"
-			(uuid "0ae7ca78-2c15-4f3b-9cb9-a78c54606e0e")
-		)
-		(pin "4"
-			(uuid "67c09358-cf31-4757-9b18-21d3df922807")
-		)
-		(pin "3"
-			(uuid "4784eabe-7b78-44e3-b51a-849f1aa450df")
-		)
-		(instances
-			(project "DigitalPiano"
-				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
-					(reference "S2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 237.49 82.55 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ba338055-fbbe-42bd-839b-b716fd1afd5f")
-		(property "Reference" "#PWR07"
-			(at 243.84 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 241.3 82.5499 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 237.49 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 237.49 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 237.49 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c63c0de9-34af-46bd-9a54-261597597dd2")
-		)
-		(instances
-			(project "DigitalPiano"
-				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
-					(reference "#PWR07")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SKRPACE010:SKRPACE010")
-		(at 232.41 80.01 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c22f8a93-d290-474b-98c3-d6e7a577e4e4")
-		(property "Reference" "S1"
-			(at 232.41 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SKRPACE010"
-			(at 232.41 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "SKRPACE010:SKRPACE010"
-			(at 232.41 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 232.41 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 232.41 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" "ALPS"
-			(at 232.41 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "\n                        \n                            Switch Tactile N.O. SPST Button J-Bend 0.05A 16VDC 2.55N SMD Automotive T/R\n                        \n"
-			(at 232.41 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "None"
-			(at 232.41 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 232.41 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/SKRPACE010/ALPS/view-part/?ref=eda"
-			(at 232.41 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Maniufacturer Recommendations"
-			(at 232.41 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/SKRPACE010/ALPS/view-part/?ref=snap"
-			(at 232.41 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "SKRPACE010"
-			(at 232.41 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 232.41 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "ALPS"
-			(at 232.41 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "99001515-d990-4090-982f-af215818a4fa")
-		)
-		(pin "2"
-			(uuid "1df91c2e-aba1-42fa-8ab8-89569f6976ec")
-		)
-		(pin "4"
-			(uuid "b3b1575c-b42f-4b14-8531-e27128122dbe")
-		)
-		(pin "3"
-			(uuid "027fd6ec-5cc2-486b-b053-b3a9592e0482")
-		)
-		(instances
-			(project ""
-				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
-					(reference "S1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x01")
-		(at 148.59 97.79 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c2afa384-c51a-49b8-881f-d9bdcb2e4115")
-		(property "Reference" "J8"
-			(at 151.13 99.0601 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x01"
-			(at 151.13 96.5201 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SparkFun-Switch:Pad-CapacitiveTouch"
-			(at 148.59 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 148.59 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 148.59 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e17c18de-8ef1-4086-bcac-d7afdcc1fbac")
-		)
-		(instances
-			(project "DigitalPiano"
-				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
-					(reference "J8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector_Generic:Conn_01x22")
-		(at 45.72 96.52 0)
+		(at 52.07 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "c4f95d66-77ab-48a1-ac5b-73841a24dfb0")
+		(uuid "0fbe5320-185b-47c2-9a03-5780a7c35882")
 		(property "Reference" "J1"
-			(at 48.26 96.5199 0)
+			(at 54.61 93.9799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4338,7 +2668,7 @@
 			)
 		)
 		(property "Value" "Conn_01x22"
-			(at 48.26 99.0599 0)
+			(at 54.61 96.5199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4347,7 +2677,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x22_P2.54mm_Vertical"
-			(at 45.72 96.52 0)
+			(at 52.07 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4356,7 +2686,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 45.72 96.52 0)
+			(at 52.07 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4365,7 +2695,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x22, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 45.72 96.52 0)
+			(at 52.07 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4374,73 +2704,73 @@
 			)
 		)
 		(pin "14"
-			(uuid "6079289c-11dd-45d6-b1b8-5a7144f22b3d")
+			(uuid "9cc645dd-9343-4087-b5fc-910ef083ed37")
 		)
 		(pin "12"
-			(uuid "a3b4d744-1541-4e44-84e5-2192b7e6aee8")
+			(uuid "5dfa9605-4261-4f3e-9268-dc5ecbd3ae06")
 		)
 		(pin "16"
-			(uuid "df033fce-8cab-47c5-8f04-084ec9b8b2a4")
+			(uuid "7249db9f-e56c-4d1d-bdc0-e34c85582615")
 		)
 		(pin "11"
-			(uuid "050f69dc-4ca5-41b2-ba8d-1e2efc5b7bd2")
+			(uuid "b24a9030-4747-41c3-acdf-5c40a46e574a")
 		)
 		(pin "10"
-			(uuid "e6cda196-14d5-4bbb-a7e5-fa72425943e8")
+			(uuid "6c81a9f3-0fcf-4c50-bfaa-cc2645f3b85f")
 		)
 		(pin "13"
-			(uuid "840e5654-8ad6-4565-b33c-2fcfb66f0784")
+			(uuid "626c1767-2347-45d5-ac18-32d970ef6dfa")
 		)
 		(pin "15"
-			(uuid "cf1b3686-f487-4cf5-909b-6202dde7922b")
+			(uuid "b651ded7-e26c-4cee-943b-baabe55298fb")
 		)
 		(pin "17"
-			(uuid "954a353f-06ff-443f-a0fe-18b6b4dd2ca4")
+			(uuid "76c8a95f-e739-4019-a01d-d47a1484ce0b")
 		)
 		(pin "18"
-			(uuid "ee52bfab-7f76-43fb-a212-6da0fe1094da")
+			(uuid "033afbce-fb0b-480e-9be6-b4f5d4c44dab")
 		)
 		(pin "19"
-			(uuid "57e9192d-2f1c-499d-875b-93004578cc4f")
+			(uuid "4fe4730a-bdac-45c9-adc1-fba5b2667c96")
 		)
 		(pin "2"
-			(uuid "2992a225-6f1a-40d2-a4ba-3044c546978a")
+			(uuid "115ec35d-daeb-46d2-a465-3e6ad0bde4b9")
 		)
 		(pin "20"
-			(uuid "d07f810d-d215-4741-aece-44851c01915b")
+			(uuid "0c9799fe-6f82-4876-b4f7-1e00809c8295")
 		)
 		(pin "21"
-			(uuid "0e7a2e2c-ebd7-458a-a07f-23a446f51ec4")
+			(uuid "d167a3f1-00f8-43d6-afd4-81ab7155f6f1")
 		)
 		(pin "22"
-			(uuid "810d3239-5ad5-4ff3-a981-fd46ad048d10")
+			(uuid "9993033e-d6ec-4631-af91-e2b83d48a979")
 		)
 		(pin "3"
-			(uuid "94295415-fa11-4f82-ba28-c5341ece5c72")
+			(uuid "21a6c86f-ffe5-4ab8-a75f-f64ffab5785c")
 		)
 		(pin "4"
-			(uuid "cb46609b-fafb-4d24-b577-14eb8e2228ea")
+			(uuid "6b13e341-f00e-4218-91ac-acde2c1e64a9")
 		)
 		(pin "5"
-			(uuid "a911caa0-16f9-4070-afd1-03cc6f0d151e")
+			(uuid "1afb9bf3-a6bb-46c7-94ee-055f19ae7a32")
 		)
 		(pin "6"
-			(uuid "8746bfaa-c5ee-4ad1-9305-0d8c612a6ecc")
+			(uuid "d00b634e-a200-4b40-b4f0-2a8bb60cc925")
 		)
 		(pin "7"
-			(uuid "39ded2b1-c81d-4112-bc7b-e6846c776c4a")
+			(uuid "b3f01109-f692-4a37-b9cb-47aaf3fb113c")
 		)
 		(pin "8"
-			(uuid "3c516bb1-9a9d-45f9-8f43-a512c4aa3718")
+			(uuid "73045a9a-8411-4c09-b362-225aea554db5")
 		)
 		(pin "9"
-			(uuid "f378525a-99ba-4689-90f3-1d454b5b1eb1")
+			(uuid "45e95f0b-dedc-480c-a709-cfb8c723497a")
 		)
 		(pin "1"
-			(uuid "42549b2f-e01e-404f-858a-8ffaadfec039")
+			(uuid "6e616efb-d22b-4129-8296-a734b35630b7")
 		)
 		(instances
-			(project "DigitalPiano"
+			(project "digital-piano"
 				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
 					(reference "J1")
 					(unit 1)
@@ -4449,148 +2779,17 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x22")
-		(at 74.93 96.52 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c72e24d6-bfd5-433f-b757-cbc15cfc133e")
-		(property "Reference" "J2"
-			(at 72.39 96.5199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x22"
-			(at 72.39 99.0599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x22_P2.54mm_Vertical"
-			(at 74.93 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 74.93 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x22, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 74.93 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "14"
-			(uuid "f3a923f5-71e4-4abf-bb42-763fc130cee7")
-		)
-		(pin "12"
-			(uuid "28a1bd39-f28a-42d3-8571-dd01c441f85c")
-		)
-		(pin "16"
-			(uuid "02fecb1c-2b2a-4ec2-a157-e2f82eb15dd7")
-		)
-		(pin "11"
-			(uuid "3e32e56f-5b55-4c16-9570-8d9f008c8d8b")
-		)
-		(pin "10"
-			(uuid "2274541e-1290-4746-87ca-e61572295d9c")
-		)
-		(pin "13"
-			(uuid "31824cfe-eb85-4978-bdb2-870832916a77")
-		)
-		(pin "15"
-			(uuid "916804ed-2704-4a67-8a91-50de101cd150")
-		)
-		(pin "17"
-			(uuid "3f0efaa4-c4de-48ae-ae92-8b5bce04a324")
-		)
-		(pin "18"
-			(uuid "f70f405b-932a-47fe-9e26-0050a8883f07")
-		)
-		(pin "19"
-			(uuid "d8eef111-d113-453e-ad78-5254b93bdde2")
-		)
-		(pin "2"
-			(uuid "759bd22b-ff49-46b4-92b9-235a0a949093")
-		)
-		(pin "20"
-			(uuid "f6de2c52-5df8-49d0-81ef-b5e765f51f41")
-		)
-		(pin "21"
-			(uuid "f4fc990e-9ecb-42d4-bae7-5b7c7e22baf9")
-		)
-		(pin "22"
-			(uuid "6760b98a-b1c1-4f61-a878-9c6bfa042336")
-		)
-		(pin "3"
-			(uuid "cf1a0c43-80bb-4479-a947-19a7c42fd555")
-		)
-		(pin "4"
-			(uuid "09df51c0-1d2c-4202-b3f1-3115aeb89402")
-		)
-		(pin "5"
-			(uuid "363db503-8f5a-4c55-bce8-0d72a7000481")
-		)
-		(pin "6"
-			(uuid "44bdf6b9-3441-41a0-8223-1d4dbef1d82d")
-		)
-		(pin "7"
-			(uuid "c675cdaf-c823-4a86-8791-bdf6d4650cf0")
-		)
-		(pin "8"
-			(uuid "ddfcee39-1937-471d-99f2-f96bb2ca40ef")
-		)
-		(pin "9"
-			(uuid "3a6b055a-6ce8-4807-beb0-f96b0af3ce06")
-		)
-		(pin "1"
-			(uuid "9539b2b3-87cf-4b96-8091-0ab632491364")
-		)
-		(instances
-			(project "DigitalPiano"
-				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
-					(reference "J2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
-		(at 156.21 97.79 270)
-		(mirror x)
+		(at 160.02 88.9 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "c75574d9-a319-49c3-815f-f35e90638312")
-		(property "Reference" "J12"
-			(at 158.75 99.0601 90)
+		(uuid "1c7581e1-6656-4d2e-9057-2af622bad154")
+		(property "Reference" "J11"
+			(at 162.56 87.6299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4599,7 +2798,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01"
-			(at 158.75 96.5201 90)
+			(at 162.56 90.1699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4607,8 +2806,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-Switch:Pad-CapacitiveTouch"
-			(at 156.21 97.79 0)
+		(property "Footprint" "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
+			(at 160.02 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4617,7 +2816,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 156.21 97.79 0)
+			(at 160.02 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4626,7 +2825,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 156.21 97.79 0)
+			(at 160.02 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4635,187 +2834,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "47eb2706-2751-47ba-8888-4d66ee6a9f29")
+			(uuid "2e327d23-559b-40fe-87d3-3cd1f5d571d5")
 		)
 		(instances
-			(project "DigitalPiano"
+			(project "digital-piano"
 				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
-					(reference "J12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SKRPACE010:SKRPACE010")
-		(at 232.41 102.87 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "cc22767f-f604-4dea-ab23-bdc641cff41f")
-		(property "Reference" "S3"
-			(at 232.41 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SKRPACE010"
-			(at 232.41 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "SKRPACE010:SKRPACE010"
-			(at 232.41 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 232.41 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 232.41 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" "ALPS"
-			(at 232.41 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "\n                        \n                            Switch Tactile N.O. SPST Button J-Bend 0.05A 16VDC 2.55N SMD Automotive T/R\n                        \n"
-			(at 232.41 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "None"
-			(at 232.41 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 232.41 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/SKRPACE010/ALPS/view-part/?ref=eda"
-			(at 232.41 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Maniufacturer Recommendations"
-			(at 232.41 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/SKRPACE010/ALPS/view-part/?ref=snap"
-			(at 232.41 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "SKRPACE010"
-			(at 232.41 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 232.41 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "ALPS"
-			(at 232.41 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "95c937ef-fe29-4b26-a67f-d4dbbc310d37")
-		)
-		(pin "2"
-			(uuid "84cffe30-6aab-4f79-8572-ed9a6d1914b6")
-		)
-		(pin "4"
-			(uuid "c0363536-a470-4096-b8cc-a10207548d70")
-		)
-		(pin "3"
-			(uuid "0c369d17-3705-410a-b6f9-c0fee223771c")
-		)
-		(instances
-			(project "DigitalPiano"
-				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
-					(reference "S3")
+					(reference "J11")
 					(unit 1)
 				)
 			)
@@ -4823,16 +2847,16 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 80.01 71.12 0)
+		(at 86.36 68.58 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "d22b569c-a4fa-483a-9c23-6b49f1ace518")
+		(uuid "297cb430-b46c-4e1a-8fc3-4373e61e3fab")
 		(property "Reference" "#FLG02"
-			(at 80.01 69.215 0)
+			(at 86.36 66.675 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4841,7 +2865,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 80.01 66.04 0)
+			(at 86.36 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4849,7 +2873,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 80.01 71.12 0)
+			(at 86.36 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4858,7 +2882,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 80.01 71.12 0)
+			(at 86.36 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4867,7 +2891,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 80.01 71.12 0)
+			(at 86.36 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4876,10 +2900,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "5ecb8fcd-b4de-4f9c-b268-a16a6716e460")
+			(uuid "3e7fe98b-93ba-4ca0-9f9f-004883c435ef")
 		)
 		(instances
-			(project "DigitalPiano"
+			(project "digital-piano"
 				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
 					(reference "#FLG02")
 					(unit 1)
@@ -4889,16 +2913,17 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
-		(at 143.51 91.44 270)
+		(at 143.51 95.25 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "da398299-4dc0-4901-8c0d-9786a4a5e185")
-		(property "Reference" "J6"
-			(at 146.05 90.1699 90)
+		(uuid "359d9a52-bee9-4e96-804e-6f99bc96651a")
+		(property "Reference" "J3"
+			(at 146.05 96.5201 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4907,7 +2932,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01"
-			(at 146.05 92.7099 90)
+			(at 146.05 93.9801 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4915,8 +2940,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-Switch:Pad-CapacitiveTouch"
-			(at 143.51 91.44 0)
+		(property "Footprint" "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
+			(at 143.51 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4925,7 +2950,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 143.51 91.44 0)
+			(at 143.51 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4934,7 +2959,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 143.51 91.44 0)
+			(at 143.51 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4943,10 +2968,1099 @@
 			)
 		)
 		(pin "1"
-			(uuid "d01479aa-7c83-4d66-b4e7-4f854dc48749")
+			(uuid "65aeb641-bf9f-4a86-9b6b-1b45fbd4adca")
 		)
 		(instances
-			(project "DigitalPiano"
+			(project "digital-piano"
+				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
+					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 162.56 95.25 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3a7d58c4-67b8-455f-936c-bf48abcea6b3")
+		(property "Reference" "J12"
+			(at 165.1 96.5201 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 165.1 93.9801 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
+			(at 162.56 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 162.56 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 162.56 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "392009e6-9f36-4614-beb3-5a0a804883a6")
+		)
+		(instances
+			(project "digital-piano"
+				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
+					(reference "J12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 171.45 88.9 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "404ba870-0833-4004-99dc-4495b166c2f3")
+		(property "Reference" "J15"
+			(at 173.99 87.6299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 173.99 90.1699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
+			(at 171.45 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 171.45 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 171.45 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b3cb3ad9-2b07-410e-a7b1-c9368267a0d4")
+		)
+		(instances
+			(project "digital-piano"
+				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
+					(reference "J15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 46.99 68.58 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "441e106e-42d4-48a7-8dc1-b8c83e075118")
+		(property "Reference" "#FLG01"
+			(at 46.99 66.675 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 46.99 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 46.99 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 46.99 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 46.99 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ccd7cf6e-230c-431b-93cc-96da5155f45a")
+		)
+		(instances
+			(project "digital-piano"
+				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
+					(reference "#FLG01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 166.37 95.25 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5fa8599c-a397-4e69-8f82-e161e3011f00")
+		(property "Reference" "J14"
+			(at 168.91 96.5201 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 168.91 93.9801 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
+			(at 166.37 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 166.37 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 166.37 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2cefbafa-5a75-46bb-8002-7bf3c231441d")
+		)
+		(instances
+			(project "digital-piano"
+				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
+					(reference "J14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 163.83 88.9 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5ff48260-8eab-4ba5-905b-89c0b1f6ff6b")
+		(property "Reference" "J13"
+			(at 166.37 87.6299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 166.37 90.1699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
+			(at 163.83 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 163.83 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 163.83 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b07b94ab-f652-4770-8a6b-b536b64e4a2a")
+		)
+		(instances
+			(project "digital-piano"
+				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
+					(reference "J13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 46.99 71.12 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6ebc8e8c-ef8a-4bd4-ba14-a75c61d8116a")
+		(property "Reference" "#PWR02"
+			(at 50.8 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 43.18 71.1199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 46.99 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 46.99 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 46.99 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c12b1c15-3bdb-4952-b793-3d1cb213fb82")
+		)
+		(instances
+			(project "digital-piano"
+				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
+					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 46.99 68.58 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "742cd598-e70a-42cd-be5e-741d1c71c8eb")
+		(property "Reference" "#PWR01"
+			(at 50.8 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 43.18 68.5799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 46.99 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 46.99 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 46.99 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "63292d73-a09b-49e2-98e9-2a1f39f81d5a")
+		)
+		(instances
+			(project "digital-piano"
+				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
+					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SKRPACE010:SKRPACE010")
+		(at 238.76 88.9 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "77c1bd24-f34e-44c6-8fed-5dbb729254d9")
+		(property "Reference" "S2"
+			(at 238.76 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SKRPACE010"
+			(at 238.76 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SKRPACE010:SKRPACE010"
+			(at 238.76 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 238.76 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 238.76 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "ALPS"
+			(at 238.76 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\n                        \n                            Switch Tactile N.O. SPST Button J-Bend 0.05A 16VDC 2.55N SMD Automotive T/R\n                        \n"
+			(at 238.76 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 238.76 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 238.76 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/SKRPACE010/ALPS/view-part/?ref=eda"
+			(at 238.76 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Maniufacturer Recommendations"
+			(at 238.76 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/SKRPACE010/ALPS/view-part/?ref=snap"
+			(at 238.76 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "SKRPACE010"
+			(at 238.76 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 238.76 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "ALPS"
+			(at 238.76 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "93946837-86a0-47dd-ab15-24358668725e")
+		)
+		(pin "2"
+			(uuid "ab21ccde-49ea-43b3-b913-e2aeca50bce3")
+		)
+		(pin "4"
+			(uuid "a3ee688c-a5b9-49ec-85a9-198f45e0c5f5")
+		)
+		(pin "3"
+			(uuid "f3669e07-5795-4a10-b287-9a9730f1ee68")
+		)
+		(instances
+			(project "digital-piano"
+				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
+					(reference "S2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 243.84 91.44 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7ed7e1bd-e756-48fb-aeef-11051b5e9c9e")
+		(property "Reference" "#PWR08"
+			(at 250.19 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 247.65 91.4399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 243.84 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 243.84 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 243.84 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cdf2a697-5c95-42ef-ae74-b762139eb83e")
+		)
+		(instances
+			(project "digital-piano"
+				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
+					(reference "#PWR08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 146.05 88.9 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "82303373-8291-4156-9185-559f1e5c4f15")
+		(property "Reference" "J4"
+			(at 148.59 87.6299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 148.59 90.1699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
+			(at 146.05 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 146.05 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 146.05 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "dc20d132-c794-4320-9cbb-4bb6d6c889fe")
+		)
+		(instances
+			(project "digital-piano"
+				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
+					(reference "J4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 154.94 95.25 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "86a4fc9f-ba65-4f46-895a-c40a1b4fe2af")
+		(property "Reference" "J8"
+			(at 157.48 96.5201 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 157.48 93.9801 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
+			(at 154.94 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 154.94 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 154.94 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "425af915-4a7e-47e5-b234-e96e3d726abc")
+		)
+		(instances
+			(project "digital-piano"
+				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
+					(reference "J8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SKRPACE010:SKRPACE010")
+		(at 238.76 111.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8fc3756b-05b0-4787-8ba8-49db83875ed6")
+		(property "Reference" "S4"
+			(at 238.76 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SKRPACE010"
+			(at 238.76 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SKRPACE010:SKRPACE010"
+			(at 238.76 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 238.76 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 238.76 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 238.76 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" ""
+			(at 238.76 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 238.76 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
+			(at 238.76 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" ""
+			(at 238.76 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
+			(at 238.76 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" ""
+			(at 238.76 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
+			(at 238.76 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" ""
+			(at 238.76 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 238.76 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "19103033-cab7-42c0-9d9b-921b7a9085e9")
+		)
+		(pin "2"
+			(uuid "3d77ac50-afaa-42aa-b2f5-07f6a57bbe2b")
+		)
+		(pin "4"
+			(uuid "63f8bc5d-fe63-4239-a6c1-dba538cb215d")
+		)
+		(pin "3"
+			(uuid "327b71e9-d885-4a03-b559-2bb8bff8ad12")
+		)
+		(instances
+			(project "digital-piano"
+				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
+					(reference "S4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 149.86 88.9 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9d589613-782c-4a1e-956e-04e580ac381b")
+		(property "Reference" "J6"
+			(at 152.4 87.6299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 152.4 90.1699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
+			(at 149.86 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 149.86 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 149.86 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3efb4fa0-bc10-49d2-b208-bab96f04c9f9")
+		)
+		(instances
+			(project "digital-piano"
 				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
 					(reference "J6")
 					(unit 1)
@@ -4956,16 +4070,17 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
-		(at 139.7 91.44 270)
+		(at 158.75 95.25 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "ec25911c-e3f4-4abe-b94f-b90ce0e19702")
-		(property "Reference" "J4"
-			(at 142.24 90.1699 90)
+		(uuid "a2e4b47c-8dcb-4f97-b5a8-5660987b4f91")
+		(property "Reference" "J10"
+			(at 161.29 96.5201 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4974,7 +4089,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01"
-			(at 142.24 92.7099 90)
+			(at 161.29 93.9801 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4982,8 +4097,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-Switch:Pad-CapacitiveTouch"
-			(at 139.7 91.44 0)
+		(property "Footprint" "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
+			(at 158.75 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4992,7 +4107,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 139.7 91.44 0)
+			(at 158.75 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5001,7 +4116,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 139.7 91.44 0)
+			(at 158.75 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5010,12 +4125,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "d08ebd61-f8ec-4b7b-9963-96e9576b4e38")
+			(uuid "12d07c53-3129-4ceb-8887-c504617debd5")
 		)
 		(instances
-			(project "DigitalPiano"
+			(project "digital-piano"
 				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
-					(reference "J4")
+					(reference "J10")
 					(unit 1)
 				)
 			)
@@ -5023,16 +4138,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 237.49 93.98 90)
+		(at 243.84 80.01 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "ed877238-b0c1-4e9b-8d2e-23f2c059f286")
-		(property "Reference" "#PWR08"
-			(at 243.84 93.98 0)
+		(uuid "a3b82d3e-c14d-4435-a184-2db2227cbc8f")
+		(property "Reference" "#PWR07"
+			(at 250.19 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5041,7 +4156,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 241.3 93.9799 90)
+			(at 247.65 80.0099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5050,7 +4165,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 237.49 93.98 0)
+			(at 243.84 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5059,7 +4174,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 237.49 93.98 0)
+			(at 243.84 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5068,7 +4183,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 237.49 93.98 0)
+			(at 243.84 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5077,12 +4192,255 @@
 			)
 		)
 		(pin "1"
-			(uuid "43a86681-ccc8-43a1-940a-97f789f42da7")
+			(uuid "aee18667-b610-47ec-89bb-c894825e9b25")
 		)
 		(instances
-			(project "DigitalPiano"
+			(project "digital-piano"
 				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
-					(reference "#PWR08")
+					(reference "#PWR07")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 171.45 95.25 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a452c712-0e70-4d95-bfc5-58b04adcdf4e")
+		(property "Reference" "J16"
+			(at 173.99 96.5201 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 173.99 93.9801 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
+			(at 171.45 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 171.45 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 171.45 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d670ce2b-9368-4954-a0ef-b266593fe02c")
+		)
+		(instances
+			(project "digital-piano"
+				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
+					(reference "J16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SKRPACE010:SKRPACE010")
+		(at 238.76 100.33 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c4bacc64-e8fd-4bf2-bc77-9c5034ecd77b")
+		(property "Reference" "S3"
+			(at 238.76 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SKRPACE010"
+			(at 238.76 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SKRPACE010:SKRPACE010"
+			(at 238.76 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 238.76 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 238.76 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "ALPS"
+			(at 238.76 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\n                        \n                            Switch Tactile N.O. SPST Button J-Bend 0.05A 16VDC 2.55N SMD Automotive T/R\n                        \n"
+			(at 238.76 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 238.76 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 238.76 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/SKRPACE010/ALPS/view-part/?ref=eda"
+			(at 238.76 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Maniufacturer Recommendations"
+			(at 238.76 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/SKRPACE010/ALPS/view-part/?ref=snap"
+			(at 238.76 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "SKRPACE010"
+			(at 238.76 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 238.76 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "ALPS"
+			(at 238.76 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7dd1d75e-a4d5-4b08-bf28-eac73e7a333c")
+		)
+		(pin "2"
+			(uuid "5c5fac0c-ae8f-4575-badf-af01d5b9b883")
+		)
+		(pin "4"
+			(uuid "ee971d28-d77c-46c6-b146-b5014de18268")
+		)
+		(pin "3"
+			(uuid "23387092-81f3-4fd0-b156-c9cdb69e8161")
+		)
+		(instances
+			(project "digital-piano"
+				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
+					(reference "S3")
 					(unit 1)
 				)
 			)
@@ -5090,15 +4448,234 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 80.01 121.92 90)
+		(at 86.36 119.38 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "fff793a7-12d3-475e-8c46-f10aee037fdd")
+		(uuid "c6a86765-7c6f-497b-9b8e-7e70a79e9a99")
 		(property "Reference" "#PWR05"
+			(at 92.71 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 90.17 119.3799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 86.36 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 86.36 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 86.36 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6bf7efb8-7e7e-4dca-bfae-30a94acd91cd")
+		)
+		(instances
+			(project "digital-piano"
+				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
+					(reference "#PWR05")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 243.84 102.87 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c8ac08a2-fb2f-4684-b2f4-f4433261d14b")
+		(property "Reference" "#PWR09"
+			(at 250.19 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 247.65 102.8699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 243.84 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 243.84 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 243.84 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "13ad5b15-fa2c-460b-9ab3-091fd17df99a")
+		)
+		(instances
+			(project "digital-piano"
+				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
+					(reference "#PWR09")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 46.99 121.92 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ca5b6984-0411-4ede-84f2-060cf3651a16")
+		(property "Reference" "#PWR03"
+			(at 40.64 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 43.18 121.9199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 46.99 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 46.99 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 46.99 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "737f0529-7c82-4eac-971f-4e0eac080563")
+		)
+		(instances
+			(project "digital-piano"
+				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
+					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 86.36 121.92 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d2d02f39-906f-4141-b523-c8088e3baf6f")
+		(property "Reference" "#PWR06"
+			(at 92.71 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 90.17 121.9199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
 			(at 86.36 121.92 0)
 			(effects
 				(font
@@ -5107,26 +4684,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
-			(at 83.82 121.9199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 80.01 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Datasheet" ""
-			(at 80.01 121.92 0)
+			(at 86.36 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5135,7 +4694,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 80.01 121.92 0)
+			(at 86.36 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5144,12 +4703,453 @@
 			)
 		)
 		(pin "1"
-			(uuid "b9cbd092-96c8-43aa-b37b-31309901d4f9")
+			(uuid "6d313aa5-8cda-4e51-8eda-e6ccb3df4824")
 		)
 		(instances
-			(project "DigitalPiano"
+			(project "digital-piano"
 				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
-					(reference "#PWR05")
+					(reference "#PWR06")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 151.13 95.25 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dd90a55c-a2f5-44b7-b5ca-229db44726f7")
+		(property "Reference" "J7"
+			(at 153.67 96.5201 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 153.67 93.9801 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
+			(at 151.13 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 151.13 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 151.13 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "71b5948d-87cb-424e-8aa4-878a3d3f1015")
+		)
+		(instances
+			(project "digital-piano"
+				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
+					(reference "J7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 147.32 95.25 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e3c13512-17fe-4368-89d9-d0d64f4aaaf7")
+		(property "Reference" "J5"
+			(at 149.86 96.5201 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 149.86 93.9801 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
+			(at 147.32 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 147.32 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 147.32 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4905b0d6-1760-43f0-ae8c-84f02236d282")
+		)
+		(instances
+			(project "digital-piano"
+				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
+					(reference "J5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SKRPACE010:SKRPACE010")
+		(at 238.76 77.47 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f0bbb47b-af94-4898-af23-7ecae6cec368")
+		(property "Reference" "S1"
+			(at 238.76 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SKRPACE010"
+			(at 238.76 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SKRPACE010:SKRPACE010"
+			(at 238.76 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 238.76 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 238.76 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "ALPS"
+			(at 238.76 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\n                        \n                            Switch Tactile N.O. SPST Button J-Bend 0.05A 16VDC 2.55N SMD Automotive T/R\n                        \n"
+			(at 238.76 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 238.76 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 238.76 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/SKRPACE010/ALPS/view-part/?ref=eda"
+			(at 238.76 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Maniufacturer Recommendations"
+			(at 238.76 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/SKRPACE010/ALPS/view-part/?ref=snap"
+			(at 238.76 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "SKRPACE010"
+			(at 238.76 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 238.76 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "ALPS"
+			(at 238.76 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8bfdee5f-0663-481f-88ed-3105eea401c1")
+		)
+		(pin "2"
+			(uuid "a4bd91de-3aba-48cb-b3bf-ad95377306ed")
+		)
+		(pin "4"
+			(uuid "5ea424c5-c4b4-4d1a-a8d0-d1f30aaa7d19")
+		)
+		(pin "3"
+			(uuid "8186ad1e-7bc3-4711-a6a4-a0ea4fc4da38")
+		)
+		(instances
+			(project "digital-piano"
+				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
+					(reference "S1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x22")
+		(at 81.28 93.98 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fbe16484-a5b6-483f-952b-9c29b9504d45")
+		(property "Reference" "J2"
+			(at 78.74 93.9799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x22"
+			(at 78.74 96.5199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x22_P2.54mm_Vertical"
+			(at 81.28 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 81.28 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x22, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 81.28 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "14"
+			(uuid "89c4a9f4-5f0f-47c1-826c-b4d4baa1033d")
+		)
+		(pin "12"
+			(uuid "4e227f5c-3b64-4993-83f7-55e8af60cb3d")
+		)
+		(pin "16"
+			(uuid "0a8bc277-87d9-4703-9947-11529a26889b")
+		)
+		(pin "11"
+			(uuid "a9ddf89b-c356-4333-818d-761f3040f136")
+		)
+		(pin "10"
+			(uuid "d8bb491b-822b-4631-af4a-d7c99e2a5dcd")
+		)
+		(pin "13"
+			(uuid "3014b088-0b27-44a7-94d5-a1f97ccce01e")
+		)
+		(pin "15"
+			(uuid "8cb6fa58-dd6e-47bf-8407-5074a4a2bc2c")
+		)
+		(pin "17"
+			(uuid "f5ddcf3e-48f4-4a9f-a3ef-f67e6a3ade91")
+		)
+		(pin "18"
+			(uuid "e73169e9-b635-40cd-b854-649012bb8a7c")
+		)
+		(pin "19"
+			(uuid "17565cb5-b56e-4e41-bf5f-01b089cc88d5")
+		)
+		(pin "2"
+			(uuid "1a3a4da1-941c-4c21-a32c-5db8e4fd0aff")
+		)
+		(pin "20"
+			(uuid "63a3e6e3-9cf7-4b7e-a8e8-6f7ef35cf54d")
+		)
+		(pin "21"
+			(uuid "b31cf0ba-fa6f-4ac6-86a4-7ae8c42f8b67")
+		)
+		(pin "22"
+			(uuid "6e2ee0dd-0b58-41d8-9440-5899b155b866")
+		)
+		(pin "3"
+			(uuid "cdd5ce36-0c27-4890-bae5-bcf06ff531c5")
+		)
+		(pin "4"
+			(uuid "f7c49c46-1d1d-4e56-a967-cb5a1ac0ba35")
+		)
+		(pin "5"
+			(uuid "fc65b9f7-6adb-4e41-8983-70a2b2f93d8c")
+		)
+		(pin "6"
+			(uuid "eb736611-cd30-4d2e-8ef4-65834057637c")
+		)
+		(pin "7"
+			(uuid "4b6dcd04-68a7-403d-abfd-c0fd10c58245")
+		)
+		(pin "8"
+			(uuid "39101f0a-92fe-441d-8405-d4f9d42f5287")
+		)
+		(pin "9"
+			(uuid "3e5d81d9-71ef-4de8-817b-4a30e26824e1")
+		)
+		(pin "1"
+			(uuid "c4c00c8e-9de0-4003-8271-3f1b63b5a514")
+		)
+		(instances
+			(project "digital-piano"
+				(path "/aa27de7e-02ac-4425-b77a-ffd46d02b76f"
+					(reference "J2")
 					(unit 1)
 				)
 			)
