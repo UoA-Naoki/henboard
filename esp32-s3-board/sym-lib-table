@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "5077CR-16SMC2-BK-TR")(type "KiCad")(uri "${KIPRJMOD}/../lib/symbol/5077CR-16SMC2-BK-TR.kicad_sym")(options "")(descr ""))
+  (lib (name "CP2102N-Axx-xQFN28")(type "KiCad")(uri "${KIPRJMOD}/../lib/symbol/CP2102N-Axx-xQFN28.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32-S3-WROOM-1")(type "KiCad")(uri "${KIPRJMOD}/../lib/symbol/ESP32-S3-WROOM-1.kicad_sym")(options "")(descr ""))
+  (lib (name "LDL1117S33R")(type "KiCad")(uri "${KIPRJMOD}/../lib/symbol/LDL1117S33R.kicad_sym")(options "")(descr ""))
+  (lib (name "SKRPACE010")(type "KiCad")(uri "${KIPRJMOD}/../lib/symbol/SKRPACE010.kicad_sym")(options "")(descr ""))
+)
