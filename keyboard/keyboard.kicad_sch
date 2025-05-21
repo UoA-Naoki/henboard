@@ -834,6 +834,390 @@
 				)
 			)
 		)
+		(symbol "SKRPACE010:SKRPACE010"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "S"
+				(at -2.5431 5.0863 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "SKRPACE010"
+				(at -2.5442 -5.0884 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MF" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Description_1" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Package" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Price" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Check_prices" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "STANDARD" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SnapEDA_Link" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MP" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Availability" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MANUFACTURER" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "SKRPACE010_0_0"
+				(circle
+					(center 0 -1.016)
+					(radius 0.254)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 2.54) (xy 5.08 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 -2.54) (xy 0 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 2.54) (xy 0 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.016 0) (xy -1.778 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.016 0) (xy -1.016 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.016 1.016) (xy -1.016 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -2.54) (xy 2.54 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -1.016) (xy 0 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0.762) (xy 0 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 2.54 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 -2.54) (xy -5.08 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 0.762)
+					(radius 0.254)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "SKRPACE010_1_0"
+				(pin passive line
+					(at -5.08 2.54 0)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 2.54 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -2.54 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "power:+3V3"
 			(power)
 			(pin_numbers hide)
@@ -1148,314 +1532,132 @@
 		)
 	)
 	(junction
-		(at 86.36 60.96)
+		(at 53.34 64.77)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "3096eff4-cb32-45cb-ba09-57455602b525")
+		(uuid "86a80709-c1d1-4471-ad9f-c0c53ba36b39")
 	)
 	(junction
-		(at 125.73 60.96)
+		(at 92.71 64.77)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "f959c137-6ba5-412e-8bc6-8b7f20fa5c22")
+		(uuid "a018bf41-c3b4-4161-9109-5f697b30b623")
 	)
 	(no_connect
-		(at 86.36 78.74)
-		(uuid "0f9628fe-7641-4d5e-a40d-41ba0dbe5453")
+		(at 92.71 102.87)
+		(uuid "02e9936a-2ecc-40d5-8e85-3a7a286019f8")
 	)
 	(no_connect
-		(at 125.73 109.22)
-		(uuid "19476093-af88-4ce8-a63b-fd44aa37f336")
+		(at 92.71 67.31)
+		(uuid "081d88e6-0144-400b-b926-fd9cb4697680")
 	)
 	(no_connect
-		(at 86.36 66.04)
-		(uuid "394353a8-8cc2-4f63-b3c4-c60b0b3347ff")
+		(at 92.71 87.63)
+		(uuid "0fb04093-d4cc-43b2-b054-3dc36502ac22")
 	)
 	(no_connect
-		(at 86.36 81.28)
-		(uuid "3972a786-b78e-4095-ac83-42bf543ded9c")
+		(at 92.71 100.33)
+		(uuid "129dd004-9504-42da-824d-e5dd41fbab3f")
 	)
 	(no_connect
-		(at 125.73 96.52)
-		(uuid "439cdb52-ceac-47b7-86ae-6b69f4c8391e")
+		(at 92.71 113.03)
+		(uuid "348e7062-c3c9-449e-8738-4aaba8a89725")
 	)
 	(no_connect
-		(at 125.73 76.2)
-		(uuid "51a8d562-8f56-4b00-9786-f5c41bc56141")
+		(at 240.03 99.06)
+		(uuid "36dd0926-1f77-418c-a44c-31c95377fe96")
 	)
 	(no_connect
-		(at 125.73 91.44)
-		(uuid "5706f693-488e-4d3f-b66b-94b658e9f4ae")
+		(at 92.71 92.71)
+		(uuid "5cc93b38-6037-4eca-a073-1ac3229cc7a0")
 	)
 	(no_connect
-		(at 125.73 81.28)
-		(uuid "5db3e374-ae4c-4355-bbaf-1ec65d0ab7b6")
+		(at 92.71 95.25)
+		(uuid "63584fa0-7757-4aea-932e-af1b5e6bc9f6")
 	)
 	(no_connect
-		(at 125.73 106.68)
-		(uuid "698b8fc8-439f-49db-8d55-9d13e468ec34")
+		(at 250.19 93.98)
+		(uuid "6595413d-c999-462f-b543-84ed2b918230")
 	)
 	(no_connect
-		(at 125.73 83.82)
-		(uuid "768ff457-dd63-46d2-8ba5-9dfb0f5aea49")
+		(at 92.71 107.95)
+		(uuid "66b160f1-8cc5-4205-a3c2-ca9cdb39b808")
 	)
 	(no_connect
-		(at 125.73 99.06)
-		(uuid "7a747d0c-466d-4758-84cf-0a4f21528724")
+		(at 240.03 87.63)
+		(uuid "6baa4ce1-c2f8-435e-95fe-a0bbb957d394")
 	)
 	(no_connect
-		(at 86.36 83.82)
-		(uuid "7b037296-11ad-410b-90a3-2107cfba05eb")
+		(at 250.19 105.41)
+		(uuid "7a87e071-8b37-4eef-b5aa-eba529bfc8e5")
 	)
 	(no_connect
-		(at 125.73 86.36)
-		(uuid "89ec3f22-a451-4a95-94d5-291da1dd13a5")
+		(at 92.71 97.79)
+		(uuid "7a92aa29-c9c9-4c58-a79c-cfeeb322f286")
 	)
 	(no_connect
-		(at 125.73 66.04)
-		(uuid "98cf0608-a978-4572-b7d5-a0eff0184fbf")
+		(at 240.03 76.2)
+		(uuid "7cfec166-1e89-473a-bd2d-a3a2d146db7f")
 	)
 	(no_connect
-		(at 125.73 63.5)
-		(uuid "9aba3612-4186-46f1-ac04-72b33f3cf429")
+		(at 250.19 71.12)
+		(uuid "7eed0bb2-15e2-417f-b4ac-2eddc48163cd")
 	)
 	(no_connect
-		(at 125.73 101.6)
-		(uuid "a0930465-b0b3-4c2f-8843-8bcbb7cde693")
+		(at 92.71 80.01)
+		(uuid "8d076bb1-e27f-4cf5-bac4-9cf51e45d751")
 	)
 	(no_connect
-		(at 125.73 73.66)
-		(uuid "adf27b33-3cf2-4b7d-b714-7539d0e9670b")
+		(at 53.34 97.79)
+		(uuid "90235801-5484-4a3f-8062-739b92d518e3")
 	)
 	(no_connect
-		(at 125.73 104.14)
-		(uuid "be584c58-355e-4457-966d-0d0f99337ce7")
+		(at 92.71 90.17)
+		(uuid "a3a3e488-a89d-4baf-bd9c-292b76cd161c")
 	)
 	(no_connect
-		(at 125.73 88.9)
-		(uuid "c553e458-b4aa-43cf-b3a5-240505fc5972")
+		(at 53.34 115.57)
+		(uuid "b61e28b4-b9e2-472c-b255-cda740fb078b")
 	)
 	(no_connect
-		(at 125.73 78.74)
-		(uuid "d4050575-3296-4bbc-abcf-fb1fe75f9e65")
+		(at 92.71 77.47)
+		(uuid "be48a30d-74c2-4012-9c6d-7796a1c51abe")
 	)
 	(no_connect
-		(at 86.36 111.76)
-		(uuid "dd38eed3-8bf9-4e61-b838-e7ef15167fa6")
+		(at 250.19 82.55)
+		(uuid "c2a3c617-d702-47d3-beef-894270208f7c")
 	)
 	(no_connect
-		(at 86.36 86.36)
-		(uuid "de336d99-ab3f-4340-bfd9-691ec4a7667b")
+		(at 92.71 69.85)
+		(uuid "cfa49153-1ca1-4e2b-8be8-c2ab10977a16")
 	)
 	(no_connect
-		(at 125.73 93.98)
-		(uuid "e80f7582-204f-4614-ab56-008b1d87e29e")
+		(at 53.34 69.85)
+		(uuid "d0c3c088-56bb-447b-bdc1-fefad5cde10a")
 	)
 	(no_connect
-		(at 86.36 93.98)
-		(uuid "eaf3dae0-637f-4411-a002-455e7a33da64")
+		(at 92.71 82.55)
+		(uuid "d4618c2c-118a-485f-87ef-c7325764c9df")
 	)
-	(global_label "TOUCH10"
-		(shape input)
-		(at 194.31 102.87 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "07217b1a-1e3a-4f36-b38c-e7e7b6b9c19d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 194.31 114.5033 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
+	(no_connect
+		(at 92.71 110.49)
+		(uuid "d7406922-aca5-405d-99f5-4f415a555e92")
 	)
-	(global_label "TOUCH12"
-		(shape input)
-		(at 198.12 102.87 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "08fbc500-a3c0-4fb7-9567-4b0240e76342")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 198.12 114.5033 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
+	(no_connect
+		(at 92.71 85.09)
+		(uuid "d9623f68-334c-4dea-ae58-ddbff5200bc8")
 	)
-	(global_label "TOUCH5"
-		(shape input)
-		(at 86.36 71.12 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "0de22324-95a8-4b77-8606-2d2d14ebd4b2")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 75.9362 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
+	(no_connect
+		(at 92.71 105.41)
+		(uuid "dcf2a14d-3349-4157-82e0-f5935046b4f8")
 	)
-	(global_label "TOUCH2"
-		(shape input)
-		(at 125.73 71.12 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "150de6cc-5b15-4196-b1d3-55f00bfb8bda")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 136.1538 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
+	(no_connect
+		(at 240.03 110.49)
+		(uuid "f945dc0e-75ca-4b5a-a007-577429393b12")
 	)
 	(global_label "TOUCH9"
 		(shape input)
-		(at 86.36 96.52 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "15233aae-b7c3-48e7-a7d9-b0a2f9e69f75")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 75.9362 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH8"
-		(shape input)
-		(at 86.36 88.9 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "1a8da1ba-5ad9-497d-871c-3adab9eb71bb")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 75.9362 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH13"
-		(shape input)
-		(at 203.2 102.87 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "229bbea4-17f0-4576-88aa-d5f6572a4eaa")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 203.2 114.5033 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH8"
-		(shape input)
-		(at 190.5 102.87 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "27b8b42c-2e0b-47e2-91f4-8cf0830c69dc")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 190.5 113.2938 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH6"
-		(shape input)
-		(at 186.69 102.87 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "29a7f8a8-2c9f-4bb8-b387-6c891080692b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 186.69 113.2938 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH11"
-		(shape input)
-		(at 195.58 86.36 90)
+		(at 166.37 80.01 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1463,383 +1665,9 @@
 			)
 			(justify left)
 		)
-		(uuid "2ea6667f-1ca5-4dc3-a134-52d43f6c7019")
+		(uuid "00eae43f-341b-4f10-9198-97e9df931185")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 195.58 74.7267 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH3"
-		(shape input)
-		(at 179.07 102.87 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "49f29f77-12be-4458-9dff-964332892b18")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 179.07 113.2938 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH1"
-		(shape input)
-		(at 175.26 102.87 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "4ca555e4-9bc1-4e93-9a10-63166d4ea232")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 175.26 113.2938 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH13"
-		(shape input)
-		(at 86.36 106.68 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "4cb2d860-bd4f-4616-990d-1ca2d36fd01a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 74.7267 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH4"
-		(shape input)
-		(at 181.61 86.36 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "638dbe0a-dcc1-4ff8-95c9-c982098375fd")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 181.61 75.9362 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH9"
-		(shape input)
-		(at 191.77 86.36 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "646310e9-3f08-4f56-b48e-972be556a4f6")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 191.77 75.9362 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH14"
-		(shape input)
-		(at 203.2 86.36 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "73651b2c-e432-40e9-b775-3eb0fd61dbe4")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 203.2 74.7267 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH5"
-		(shape input)
-		(at 182.88 102.87 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "7830502b-d0c3-4348-845c-fdbb636a28cd")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 182.88 113.2938 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH10"
-		(shape input)
-		(at 86.36 99.06 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "7d094034-8ae9-4909-9d46-86fa2817c0c6")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 74.7267 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH3"
-		(shape input)
-		(at 86.36 91.44 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "8d02a138-2502-4123-956c-44c5bea1ae02")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 75.9362 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH7"
-		(shape input)
-		(at 86.36 76.2 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "947f6e5d-040e-4649-a0b0-b11431badef4")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 75.9362 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH11"
-		(shape input)
-		(at 86.36 101.6 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "a42ed4ab-5ae2-4e3c-b460-7e9db5cde487")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 74.7267 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH12"
-		(shape input)
-		(at 86.36 104.14 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "a5ed1d30-0487-4bff-8679-d011d6534835")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 74.7267 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH2"
-		(shape input)
-		(at 177.8 86.36 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "aea05e80-912d-4a1a-a6c2-5fb001444507")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 177.8 75.9362 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH14"
-		(shape input)
-		(at 86.36 109.22 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "afd5f653-da29-4f21-a820-7f0ceb6b9d31")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 74.7267 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH1"
-		(shape input)
-		(at 125.73 68.58 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "b3628959-6490-4172-ab88-4a931b6976b3")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 136.1538 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH6"
-		(shape input)
-		(at 86.36 73.66 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "c15b8d35-fcc5-46db-8005-fe4bf9b22d35")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 75.9362 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TOUCH7"
-		(shape input)
-		(at 187.96 86.36 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "c27d98bd-24d3-480d-845f-77de195c36e0")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 187.96 75.9362 90)
+			(at 166.37 69.5862 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1851,7 +1679,7 @@
 	)
 	(global_label "TOUCH4"
 		(shape input)
-		(at 86.36 68.58 180)
+		(at 53.34 72.39 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1859,9 +1687,757 @@
 			)
 			(justify right)
 		)
-		(uuid "eda7afce-e03b-4ce7-9bfa-ce98c0d7aaa0")
+		(uuid "01774afb-1415-48a7-af9a-ce31b13ca6ca")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 75.9362 68.58 0)
+			(at 42.9162 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SELECT1"
+		(shape input)
+		(at 53.34 82.55 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "047d8f04-6e2f-4377-b2f6-d9442dbac9ec")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 42.3721 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH8"
+		(shape input)
+		(at 53.34 92.71 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0b7f93e6-7203-4887-a2e8-2f2b8419302c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 42.9162 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH3"
+		(shape input)
+		(at 153.67 96.52 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0ed754a3-ecd5-42ca-9b5c-9ab87d66282c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 153.67 106.9438 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH14"
+		(shape input)
+		(at 53.34 113.03 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "12f9378f-9ac4-4ed8-81df-b52e70c04039")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 41.7067 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SELECT4"
+		(shape input)
+		(at 240.03 105.41 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1477e813-9797-4805-ba0b-87ff85c8ae3a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 229.0621 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH13"
+		(shape input)
+		(at 177.8 96.52 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "161aebbe-5b42-466b-bf46-ca8f24d1b59b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 177.8 108.1533 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH11"
+		(shape input)
+		(at 170.18 80.01 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "28c9c34c-f039-467f-9372-4813d1ff0f1c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 170.18 68.3767 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH11"
+		(shape input)
+		(at 53.34 105.41 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2cf90752-7995-43c3-ac8a-dd0d3135e69d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 41.7067 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH3"
+		(shape input)
+		(at 53.34 95.25 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2dd3576e-d63f-4591-bfa5-e29da1483e61")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 42.9162 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH5"
+		(shape input)
+		(at 157.48 96.52 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "38b8fd8d-1823-43c0-a6ca-ca5e33e296cb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 157.48 106.9438 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SELECT2"
+		(shape input)
+		(at 240.03 82.55 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3c466da9-016c-431b-90c7-7a0beae6c4b9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 229.0621 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH12"
+		(shape input)
+		(at 53.34 107.95 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "58597f05-0c7d-4a09-9ad5-403660f1c184")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 41.7067 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SELECT1"
+		(shape input)
+		(at 240.03 71.12 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5a819624-5dac-4bd8-b653-f84931c163ab")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 229.0621 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH5"
+		(shape input)
+		(at 53.34 74.93 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5bce60dd-c8f5-4517-9b2b-ded701aebab3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 42.9162 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH12"
+		(shape input)
+		(at 172.72 96.52 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6077ddb4-3e3a-4074-9444-052d218c019d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 172.72 108.1533 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SELECT4"
+		(shape input)
+		(at 53.34 90.17 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "68afc121-3911-4b95-a8c8-3467cb3d3918")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 42.3721 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH7"
+		(shape input)
+		(at 162.56 80.01 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "69ba7831-4b6f-4d6e-95ba-7b682c8ea75a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 162.56 69.5862 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH6"
+		(shape input)
+		(at 53.34 77.47 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6f343ae0-4dd7-4244-ad6e-698d6b419a4c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 42.9162 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH6"
+		(shape input)
+		(at 161.29 96.52 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6fbb8789-65ab-4399-859e-c8a974a818dd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 161.29 106.9438 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH1"
+		(shape input)
+		(at 92.71 72.39 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7d042a46-d308-4f83-b976-0782e5f70925")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 103.1338 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH2"
+		(shape input)
+		(at 92.71 74.93 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9229cefc-b4b1-411a-960d-bc060ddba93e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 103.1338 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH1"
+		(shape input)
+		(at 149.86 96.52 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "933f3656-04be-47ca-b927-96d259cfa9d8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 149.86 106.9438 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SELECT2"
+		(shape input)
+		(at 53.34 85.09 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "98f27122-14fb-49be-a6ff-211508028b92")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 42.3721 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SELECT3"
+		(shape input)
+		(at 53.34 87.63 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a2bfc083-f612-4617-b4f2-5b07d9438f48")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 42.3721 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH13"
+		(shape input)
+		(at 53.34 110.49 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "bca0d397-23e4-4cee-952b-0f92e4a747e4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 41.7067 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH7"
+		(shape input)
+		(at 53.34 80.01 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c101e7fc-04ee-4e80-8447-74c492d32e37")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 42.9162 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH4"
+		(shape input)
+		(at 156.21 80.01 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c13a1e80-2125-44d9-b827-e2d924f0cc7d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 156.21 69.5862 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SELECT3"
+		(shape input)
+		(at 240.03 93.98 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c67ad2ae-0a74-4ab2-95f5-b6ef9e6c088c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 229.0621 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH2"
+		(shape input)
+		(at 152.4 80.01 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c8f4d97e-2a3e-4657-a33c-815731e75681")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 152.4 69.5862 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH8"
+		(shape input)
+		(at 165.1 96.52 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "cb231423-1c57-4303-9522-d30f802d051f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 165.1 106.9438 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH9"
+		(shape input)
+		(at 53.34 100.33 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "de4efabf-e4bf-46b5-ad6d-ea3bb4acd501")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 42.9162 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH10"
+		(shape input)
+		(at 168.91 96.52 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e61e1597-9d4c-4036-89b5-039c93a2958d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 168.91 108.1533 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH14"
+		(shape input)
+		(at 177.8 80.01 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f7ef0c0e-d32c-412b-8492-9aeb1cdace92")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 177.8 68.3767 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TOUCH10"
+		(shape input)
+		(at 53.34 102.87 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "fa571daf-c93f-4bc2-8294-95a5812774a4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 41.7067 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1873,16 +2449,16 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
-		(at 187.96 91.44 270)
+		(at 152.4 85.09 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "023e0e4e-636d-4b36-82bc-4c28e16a288b")
-		(property "Reference" "J12"
-			(at 190.5 90.1699 90)
+		(uuid "0632ac28-3a42-424c-987e-5bfe53e08332")
+		(property "Reference" "J4"
+			(at 154.94 83.8199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1891,7 +2467,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01"
-			(at 190.5 92.7099 90)
+			(at 154.94 86.3599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1899,8 +2475,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-Switch:Pad-CapacitiveTouch"
-			(at 187.96 91.44 0)
+		(property "Footprint" "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
+			(at 152.4 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1909,7 +2485,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 187.96 91.44 0)
+			(at 152.4 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1918,7 +2494,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 187.96 91.44 0)
+			(at 152.4 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1927,146 +2503,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "dc63a8e0-af2c-4c46-8045-4f41175c0969")
+			(uuid "b605deb9-d55c-413e-91df-e356737fc84f")
 		)
 		(instances
-			(project "Keyboard"
+			(project "keyboard"
 				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
-					(reference "J12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x01")
-		(at 190.5 97.79 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0933519f-9252-41b6-8656-0800b51a66bb")
-		(property "Reference" "J7"
-			(at 193.04 99.0601 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x01"
-			(at 193.04 96.5201 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SparkFun-Switch:Pad-CapacitiveTouch"
-			(at 190.5 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 190.5 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 190.5 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8ea25c60-5887-4373-adb1-0559db5155ec")
-		)
-		(instances
-			(project "Keyboard"
-				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
-					(reference "J7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:PWR_FLAG")
-		(at 86.36 60.96 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1032a26c-5dcf-47d2-a2dd-c8088c852b91")
-		(property "Reference" "#FLG01"
-			(at 86.36 59.055 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "PWR_FLAG"
-			(at 86.36 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 86.36 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 86.36 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 86.36 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "de6eb7db-3816-457f-bff0-32e7660396f7")
-		)
-		(instances
-			(project ""
-				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
-					(reference "#FLG01")
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -2074,16 +2516,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 125.73 60.96 90)
+		(at 250.19 87.63 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "1122eeca-f301-4da1-8f15-a0cd6ca30358")
-		(property "Reference" "#PWR04"
-			(at 132.08 60.96 0)
+		(uuid "191c16a7-9aa4-48bd-a5a3-3d4124a5faff")
+		(property "Reference" "#PWR08"
+			(at 256.54 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2092,7 +2534,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 129.54 60.9599 90)
+			(at 254 87.6299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2101,7 +2543,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 125.73 60.96 0)
+			(at 250.19 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2110,7 +2552,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 125.73 60.96 0)
+			(at 250.19 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2119,7 +2561,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 125.73 60.96 0)
+			(at 250.19 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2128,48 +2570,55 @@
 			)
 		)
 		(pin "1"
-			(uuid "0d666e01-09ae-4aa5-ad28-81f96384b966")
+			(uuid "f22f2252-04c3-49b0-938a-4e47929cdded")
 		)
 		(instances
-			(project "Keyboard"
+			(project "keyboard"
 				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
-					(reference "#PWR04")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x01")
-		(at 194.31 97.79 270)
-		(mirror x)
+		(lib_id "SKRPACE010:SKRPACE010")
+		(at 245.11 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "14cd10ae-a083-48ed-bd1f-70b2f30e243e")
-		(property "Reference" "J8"
-			(at 196.85 99.0601 90)
+		(uuid "1bc141c2-076b-42b4-88fe-1c1518dc6290")
+		(property "Reference" "S1"
+			(at 245.11 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x01"
-			(at 196.85 96.5201 90)
+		(property "Value" "SKRPACE010"
+			(at 245.11 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-Switch:Pad-CapacitiveTouch"
-			(at 194.31 97.79 0)
+		(property "Footprint" "SKRPACE010:SKRPACE010"
+			(at 245.11 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 245.11 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2177,8 +2626,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 194.31 97.79 0)
+		(property "Description" ""
+			(at 245.11 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2186,89 +2635,122 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 194.31 97.79 0)
+		(property "MF" "ALPS"
+			(at 245.11 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\n                        \n                            Switch Tactile N.O. SPST Button J-Bend 0.05A 16VDC 2.55N SMD Automotive T/R\n                        \n"
+			(at 245.11 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 245.11 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 245.11 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/SKRPACE010/ALPS/view-part/?ref=eda"
+			(at 245.11 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Maniufacturer Recommendations"
+			(at 245.11 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/SKRPACE010/ALPS/view-part/?ref=snap"
+			(at 245.11 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "SKRPACE010"
+			(at 245.11 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 245.11 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "ALPS"
+			(at 245.11 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
 				(hide yes)
 			)
 		)
 		(pin "1"
-			(uuid "9a414511-6ece-435b-a333-83ea69216a7f")
+			(uuid "d6a23d52-4cc8-4f60-a918-7104389d222e")
+		)
+		(pin "2"
+			(uuid "a5abe204-41cf-48c4-a416-28697b4f9f39")
+		)
+		(pin "4"
+			(uuid "d9d1b2e6-45d7-4018-9cf7-70974053c48a")
+		)
+		(pin "3"
+			(uuid "3136e756-cb9a-4f31-928e-95cadcd38ef6")
 		)
 		(instances
-			(project "Keyboard"
+			(project "keyboard"
 				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
-					(reference "J8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x01")
-		(at 181.61 91.44 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1c63c9d4-67d6-4e6e-9c76-02c2cbfdd3dc")
-		(property "Reference" "J11"
-			(at 184.15 90.1699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x01"
-			(at 184.15 92.7099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SparkFun-Switch:Pad-CapacitiveTouch"
-			(at 181.61 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 181.61 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 181.61 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7bcfb036-324a-430a-98f3-0662438604b8")
-		)
-		(instances
-			(project "Keyboard"
-				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
-					(reference "J11")
+					(reference "S1")
 					(unit 1)
 				)
 			)
@@ -2276,16 +2758,16 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 86.36 63.5 90)
+		(at 53.34 67.31 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "46796165-81e7-4e06-b9be-62b22b26d2c4")
+		(uuid "1d0b4e1b-4afe-4508-82ba-b626cea6e577")
 		(property "Reference" "#PWR02"
-			(at 90.17 63.5 0)
+			(at 57.15 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2294,7 +2776,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 82.55 63.4999 90)
+			(at 49.53 67.3099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2303,7 +2785,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 86.36 63.5 0)
+			(at 53.34 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2312,7 +2794,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 86.36 63.5 0)
+			(at 53.34 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2321,7 +2803,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 86.36 63.5 0)
+			(at 53.34 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2330,10 +2812,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "4275523b-ac3f-4cd3-890a-3fbf8b0275dc")
+			(uuid "08e89522-5d02-40a4-80a7-b6795df1d5af")
 		)
 		(instances
-			(project "Keyboard"
+			(project "keyboard"
 				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
 					(reference "#PWR02")
 					(unit 1)
@@ -2343,16 +2825,17 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
-		(at 191.77 91.44 270)
+		(at 149.86 91.44 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "55f61f93-a3e1-4947-b433-6a39c0e582df")
-		(property "Reference" "J13"
-			(at 194.31 90.1699 90)
+		(uuid "2d97cb24-8f33-4eb9-9841-0f27fc43a8d3")
+		(property "Reference" "J3"
+			(at 152.4 92.7101 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2361,7 +2844,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01"
-			(at 194.31 92.7099 90)
+			(at 152.4 90.1701 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2369,8 +2852,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-Switch:Pad-CapacitiveTouch"
-			(at 191.77 91.44 0)
+		(property "Footprint" "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
+			(at 149.86 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2379,7 +2862,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 191.77 91.44 0)
+			(at 149.86 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2388,7 +2871,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 191.77 91.44 0)
+			(at 149.86 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2397,10 +2880,1161 @@
 			)
 		)
 		(pin "1"
-			(uuid "e15c42f7-f287-4852-bac5-0f200dbaa10f")
+			(uuid "76e9d52c-cdb1-44e2-b4dc-2f3fdf6f25ac")
 		)
 		(instances
-			(project "Keyboard"
+			(project "keyboard"
+				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
+					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 92.71 64.77 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3525fb57-f583-470b-99b8-8fed5e9b7a54")
+		(property "Reference" "#PWR04"
+			(at 99.06 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 96.52 64.7699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 92.71 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 92.71 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 92.71 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2664274e-7b26-4f67-9b69-32a3b6aaa83b")
+		)
+		(instances
+			(project "keyboard"
+				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
+					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 153.67 91.44 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "368e9d1f-2d8e-4b63-9c39-729473b9b4a6")
+		(property "Reference" "J5"
+			(at 156.21 92.7101 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 156.21 90.1701 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
+			(at 153.67 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 153.67 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 153.67 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "098be61f-8238-4bf8-bbc4-91201f2c7fb8")
+		)
+		(instances
+			(project "keyboard"
+				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
+					(reference "J5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 92.71 115.57 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "46872237-b92f-4c61-a914-3a72d1a87c91")
+		(property "Reference" "#PWR05"
+			(at 99.06 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 96.52 115.5699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 92.71 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 92.71 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 92.71 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "93ad2042-91ad-4bd1-96d4-287517be3241")
+		)
+		(instances
+			(project "keyboard"
+				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
+					(reference "#PWR05")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 166.37 85.09 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "500ef963-a4b5-42dc-8d1c-4f0c8c648cae")
+		(property "Reference" "J11"
+			(at 168.91 83.8199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 168.91 86.3599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
+			(at 166.37 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 166.37 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 166.37 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "02a2897c-766f-4d98-9b0f-404813d42eca")
+		)
+		(instances
+			(project "keyboard"
+				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
+					(reference "J11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SKRPACE010:SKRPACE010")
+		(at 245.11 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5557d2f5-abbc-4f09-ae3a-ef7db9fab8b4")
+		(property "Reference" "S4"
+			(at 245.11 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SKRPACE010"
+			(at 245.11 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SKRPACE010:SKRPACE010"
+			(at 245.11 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 245.11 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 245.11 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 245.11 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" ""
+			(at 245.11 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 245.11 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
+			(at 245.11 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" ""
+			(at 245.11 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
+			(at 245.11 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" ""
+			(at 245.11 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
+			(at 245.11 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" ""
+			(at 245.11 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 245.11 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "619c9c2e-6126-4ca9-a60a-755a8dd98967")
+		)
+		(pin "2"
+			(uuid "890517fd-9ab1-4b01-bffb-db29968c0eed")
+		)
+		(pin "4"
+			(uuid "5a212e5b-c1d3-4d57-9fc2-25cdbad4b35d")
+		)
+		(pin "3"
+			(uuid "d786a899-42cf-456f-a968-3773747c2c1a")
+		)
+		(instances
+			(project "keyboard"
+				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
+					(reference "S4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 92.71 64.77 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "558ab8e4-e52b-4aef-8518-d90f13b160e8")
+		(property "Reference" "#FLG02"
+			(at 92.71 62.865 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 92.71 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 92.71 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 92.71 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 92.71 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9b16119c-e851-4c42-a82f-e488bed66fef")
+		)
+		(instances
+			(project "keyboard"
+				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
+					(reference "#FLG02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SKRPACE010:SKRPACE010")
+		(at 245.11 85.09 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5efe0bb5-c120-4114-9da1-dee98012ef7c")
+		(property "Reference" "S2"
+			(at 245.11 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SKRPACE010"
+			(at 245.11 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SKRPACE010:SKRPACE010"
+			(at 245.11 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 245.11 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 245.11 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "ALPS"
+			(at 245.11 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\n                        \n                            Switch Tactile N.O. SPST Button J-Bend 0.05A 16VDC 2.55N SMD Automotive T/R\n                        \n"
+			(at 245.11 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 245.11 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 245.11 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/SKRPACE010/ALPS/view-part/?ref=eda"
+			(at 245.11 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Maniufacturer Recommendations"
+			(at 245.11 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/SKRPACE010/ALPS/view-part/?ref=snap"
+			(at 245.11 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "SKRPACE010"
+			(at 245.11 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 245.11 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "ALPS"
+			(at 245.11 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "057a63e8-fcf7-4dcc-9094-22645c61a6f9")
+		)
+		(pin "2"
+			(uuid "5ca4d40a-e9fb-4fe9-b8b8-f23b813518c5")
+		)
+		(pin "4"
+			(uuid "753945a9-0204-49ba-9617-52709390e3ea")
+		)
+		(pin "3"
+			(uuid "37e5953d-e489-4231-8f5c-b2443d817326")
+		)
+		(instances
+			(project "keyboard"
+				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
+					(reference "S2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 53.34 64.77 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "68910708-11a2-48e6-8162-a074ec874df7")
+		(property "Reference" "#PWR01"
+			(at 57.15 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 49.53 64.7699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 53.34 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 53.34 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 53.34 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b8c18108-146a-48ea-b1e5-aad923863fc1")
+		)
+		(instances
+			(project "keyboard"
+				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
+					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 92.71 118.11 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6b71712e-d012-4a2d-bb0f-63f3af0e570f")
+		(property "Reference" "#PWR06"
+			(at 99.06 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 96.52 118.1099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 92.71 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 92.71 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 92.71 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0f67486f-756d-463a-8835-6acbb0e52233")
+		)
+		(instances
+			(project "keyboard"
+				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
+					(reference "#PWR06")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x22")
+		(at 58.42 90.17 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7c3f4d48-886a-429a-b8c8-c2b0245695a8")
+		(property "Reference" "J1"
+			(at 60.96 90.1699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x22"
+			(at 60.96 92.7099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x22_P2.54mm_Vertical"
+			(at 58.42 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 58.42 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x22, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 58.42 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "14"
+			(uuid "9e814108-c892-4a3f-9c6e-7f3837c4c8f7")
+		)
+		(pin "12"
+			(uuid "1e57e93a-0ffa-4a9b-88d1-847834b6c0db")
+		)
+		(pin "16"
+			(uuid "1b8d4891-6029-45fc-aef8-9164dd486dbf")
+		)
+		(pin "11"
+			(uuid "f5c715e8-43ac-43a0-9fb5-2d14dd319f44")
+		)
+		(pin "10"
+			(uuid "8bc3a4f1-9bf3-41f4-a533-d9bc4a784feb")
+		)
+		(pin "13"
+			(uuid "a72689e2-01e4-423f-8a46-a4256ad70987")
+		)
+		(pin "15"
+			(uuid "dd2af694-a918-4bbb-9a2d-29357a4ba725")
+		)
+		(pin "17"
+			(uuid "c4b9a3df-c1c0-46f5-923c-7511998f7508")
+		)
+		(pin "18"
+			(uuid "a3fb17bb-3c3c-4e26-a418-c5ce96a07365")
+		)
+		(pin "19"
+			(uuid "9c905b8a-d7cc-47d0-b385-0114396e05f6")
+		)
+		(pin "2"
+			(uuid "a68c0080-eb0b-4dcb-96c9-4ea9c40e8fa1")
+		)
+		(pin "20"
+			(uuid "86574415-4113-4b43-b8a9-d40d11cf84b4")
+		)
+		(pin "21"
+			(uuid "1c224c38-350f-4973-8610-edaae61ededf")
+		)
+		(pin "22"
+			(uuid "e5d81ec4-596a-43f4-b74f-40111afe87b5")
+		)
+		(pin "3"
+			(uuid "4b1c7a3d-4101-4559-a45c-d809751d3c1f")
+		)
+		(pin "4"
+			(uuid "5adc1f49-2223-427e-9d8a-a28b37b5b28e")
+		)
+		(pin "5"
+			(uuid "48faa6d3-c7c8-4cda-b4ae-8c1a031ace93")
+		)
+		(pin "6"
+			(uuid "4938d8e0-e2a0-43cf-9369-1836f58c6621")
+		)
+		(pin "7"
+			(uuid "d315ba64-3bbc-4975-92f1-0a65d016d1f1")
+		)
+		(pin "8"
+			(uuid "e624b830-2356-417c-b693-813f24ab7612")
+		)
+		(pin "9"
+			(uuid "c398d817-2564-4f1b-ace8-861e442ffd2f")
+		)
+		(pin "1"
+			(uuid "bae59e42-3335-4ebf-a313-27d1444d84e5")
+		)
+		(instances
+			(project "keyboard"
+				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
+					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 250.19 99.06 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "90590498-0794-422b-bc97-b64edc11df93")
+		(property "Reference" "#PWR09"
+			(at 256.54 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 254 99.0599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 250.19 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 250.19 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 250.19 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0f657604-a033-4ffe-a178-81e09de1b204")
+		)
+		(instances
+			(project "keyboard"
+				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
+					(reference "#PWR09")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 161.29 91.44 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9104b28c-a48f-4b7c-a2b6-323924c64ee5")
+		(property "Reference" "J8"
+			(at 163.83 92.7101 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 163.83 90.1701 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
+			(at 161.29 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 161.29 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 161.29 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cbd460eb-159b-4e9a-bb30-b6d3c11a624a")
+		)
+		(instances
+			(project "keyboard"
+				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
+					(reference "J8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 170.18 85.09 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "96081985-6901-4f5f-a5b6-998889c53061")
+		(property "Reference" "J13"
+			(at 172.72 83.8199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 172.72 86.3599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
+			(at 170.18 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 170.18 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 170.18 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "007675f7-1809-4a1b-9069-d8cb64c221ba")
+		)
+		(instances
+			(project "keyboard"
 				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
 					(reference "J13")
 					(unit 1)
@@ -2410,74 +4044,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
-		(at 177.8 91.44 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5faa2a56-2856-439f-9c99-72bf1d69e8dd")
-		(property "Reference" "J10"
-			(at 180.34 90.1699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x01"
-			(at 180.34 92.7099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SparkFun-Switch:Pad-CapacitiveTouch"
-			(at 177.8 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 177.8 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 177.8 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a03dad0c-e287-4d9b-9a8f-2b553a13ed82")
-		)
-		(instances
-			(project "Keyboard"
-				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
-					(reference "J10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x01")
-		(at 203.2 97.79 270)
+		(at 157.48 91.44 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2485,9 +4052,9 @@
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "68913adb-e4b7-4079-9eca-db4e5ff41be7")
-		(property "Reference" "J16"
-			(at 205.74 99.0601 90)
+		(uuid "a0d270a9-6f7a-4503-8e57-206e2c48f2ef")
+		(property "Reference" "J7"
+			(at 160.02 92.7101 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2496,7 +4063,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01"
-			(at 205.74 96.5201 90)
+			(at 160.02 90.1701 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2504,8 +4071,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-Switch:Pad-CapacitiveTouch"
-			(at 203.2 97.79 0)
+		(property "Footprint" "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
+			(at 157.48 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2514,7 +4081,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 203.2 97.79 0)
+			(at 157.48 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2523,7 +4090,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 203.2 97.79 0)
+			(at 157.48 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2532,10 +4099,213 @@
 			)
 		)
 		(pin "1"
-			(uuid "f19666b1-c3ea-414f-b4c5-f5b65c3966d3")
+			(uuid "91f27a2c-94f6-4556-ab29-03a1aaa2e7c8")
 		)
 		(instances
-			(project "Keyboard"
+			(project "keyboard"
+				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
+					(reference "J7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 168.91 91.44 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a685822e-9d9a-4c7e-8778-0a9c5bfc372d")
+		(property "Reference" "J12"
+			(at 171.45 92.7101 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 171.45 90.1701 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
+			(at 168.91 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 168.91 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 168.91 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "aea0bf0d-a430-4ced-93c3-6374e8b2a9cc")
+		)
+		(instances
+			(project "keyboard"
+				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
+					(reference "J12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 250.19 110.49 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b863c9d3-2997-4f3d-9338-f28061022d70")
+		(property "Reference" "#PWR010"
+			(at 256.54 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 254 110.4899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 250.19 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 250.19 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 250.19 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a03bd2ed-7e47-4a73-b9a0-74d10e7993e3")
+		)
+		(instances
+			(project "keyboard"
+				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
+					(reference "#PWR010")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 177.8 91.44 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "baa3f42e-e157-427a-86b4-24b95207eb25")
+		(property "Reference" "J16"
+			(at 180.34 92.7101 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 180.34 90.1701 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
+			(at 177.8 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 177.8 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 177.8 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0a77878a-15c1-4a62-83da-ed0100bba527")
+		)
+		(instances
+			(project "keyboard"
 				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
 					(reference "J16")
 					(unit 1)
@@ -2544,950 +4314,17 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x01")
-		(at 198.12 97.79 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6f64de14-cd59-4553-a517-2452fbecd3cd")
-		(property "Reference" "J9"
-			(at 200.66 99.0601 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x01"
-			(at 200.66 96.5201 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SparkFun-Switch:Pad-CapacitiveTouch"
-			(at 198.12 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 198.12 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 198.12 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e098dacf-fc67-4983-ab9f-9a4024613e35")
-		)
-		(instances
-			(project "Keyboard"
-				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
-					(reference "J9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
-		(at 125.73 114.3 90)
+		(at 53.34 118.11 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "6f9707c1-06c6-42ce-b456-90ea48e6dd8b")
-		(property "Reference" "#PWR06"
-			(at 132.08 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 129.54 114.2999 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 125.73 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 125.73 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 125.73 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6855b4a7-ffe7-4845-b397-752738008158")
-		)
-		(instances
-			(project "Keyboard"
-				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
-					(reference "#PWR06")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x01")
-		(at 195.58 91.44 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "79acf2be-80b4-4785-850d-8fe12db5201c")
-		(property "Reference" "J14"
-			(at 198.12 90.1699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x01"
-			(at 198.12 92.7099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SparkFun-Switch:Pad-CapacitiveTouch"
-			(at 195.58 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 195.58 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 195.58 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "26f8d4b4-3591-4bc1-9d21-efcfa3589d8f")
-		)
-		(instances
-			(project "Keyboard"
-				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
-					(reference "J14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 125.73 111.76 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7e5d7b49-bd9a-4556-8b4c-9079d0ef54e5")
-		(property "Reference" "#PWR05"
-			(at 132.08 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 129.54 111.7599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 125.73 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 125.73 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 125.73 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e8e2a62d-acf7-4cdb-a3e2-1367fc6757e0")
-		)
-		(instances
-			(project "Keyboard"
-				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
-					(reference "#PWR05")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:PWR_FLAG")
-		(at 125.73 60.96 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "81b9f64a-7178-4aba-b28b-fb4fae145d71")
-		(property "Reference" "#FLG02"
-			(at 125.73 59.055 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "PWR_FLAG"
-			(at 125.73 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 125.73 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 125.73 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 125.73 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c4fb71d0-4436-4779-9378-9c7a0229933b")
-		)
-		(instances
-			(project "Keyboard"
-				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
-					(reference "#FLG02")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x22")
-		(at 120.65 86.36 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9c06d198-6c00-424b-9535-ff8995d5a8b3")
-		(property "Reference" "J2"
-			(at 118.11 86.3599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x22"
-			(at 118.11 88.8999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x22_P2.54mm_Vertical"
-			(at 120.65 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 120.65 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x22, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 120.65 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "14"
-			(uuid "f3e940a0-4d6a-4132-83a8-554674e59313")
-		)
-		(pin "12"
-			(uuid "fc6534ab-6de0-497b-af96-8c560372862e")
-		)
-		(pin "16"
-			(uuid "ed040445-4cef-424e-acf3-8ad5172846b1")
-		)
-		(pin "11"
-			(uuid "3edec38a-f324-4a15-88eb-a6c3083383c5")
-		)
-		(pin "10"
-			(uuid "601f8c40-f27d-40bd-abf9-39aba889f15b")
-		)
-		(pin "13"
-			(uuid "ce2f4b2b-3285-4f5b-916f-011011523b0d")
-		)
-		(pin "15"
-			(uuid "2efe778c-3522-4cc0-8f0e-7ed2c8f07b2a")
-		)
-		(pin "17"
-			(uuid "332833fc-513e-4702-afe7-b4135e515bb1")
-		)
-		(pin "18"
-			(uuid "2e907a71-81e2-41f8-8b05-66ddb0edf269")
-		)
-		(pin "19"
-			(uuid "ed9fe983-f2cd-4580-b040-473c15a8b2d3")
-		)
-		(pin "2"
-			(uuid "6c15d8cc-8b78-4d6c-954f-3ec30981ede3")
-		)
-		(pin "20"
-			(uuid "6a54b10f-6f99-4b46-8dc9-54d570521735")
-		)
-		(pin "21"
-			(uuid "4efcbb6b-3f2c-4e1c-80db-9a7cc97d9a0f")
-		)
-		(pin "22"
-			(uuid "b25229fe-3258-4309-8ae9-0ff8c133c8a4")
-		)
-		(pin "3"
-			(uuid "8709b9a7-43e4-487e-becd-f89704bd6bf1")
-		)
-		(pin "4"
-			(uuid "41a690f3-f8b1-47aa-baf8-bbc0430dcd47")
-		)
-		(pin "5"
-			(uuid "427b931a-057e-4d75-a88c-1977951e791c")
-		)
-		(pin "6"
-			(uuid "2303a570-caca-4e12-9c02-4468ad00b680")
-		)
-		(pin "7"
-			(uuid "73a7ccd9-0760-477f-8caf-b5bf84fabaf3")
-		)
-		(pin "8"
-			(uuid "2f89fa17-7b71-4d46-b66a-909adfb4b5d8")
-		)
-		(pin "9"
-			(uuid "fecc9336-990d-4f39-9294-f7c933fe7288")
-		)
-		(pin "1"
-			(uuid "bfb0191d-4f78-4cb0-ac42-ad4b9c300ae1")
-		)
-		(instances
-			(project "Keyboard"
-				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
-					(reference "J2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x22")
-		(at 91.44 86.36 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9f0f4487-55de-4c38-83fc-205862303c1e")
-		(property "Reference" "J1"
-			(at 93.98 86.3599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x22"
-			(at 93.98 88.8999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x22_P2.54mm_Vertical"
-			(at 91.44 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 91.44 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x22, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 91.44 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "14"
-			(uuid "3fd5fa2c-c9cc-46e6-bbe6-f6f904421856")
-		)
-		(pin "12"
-			(uuid "835f4831-7a84-4edc-9e8b-fcf82d237785")
-		)
-		(pin "16"
-			(uuid "e04eb84c-3537-4413-84d9-afde7007b9eb")
-		)
-		(pin "11"
-			(uuid "49c64621-d4ef-4cb6-b945-46c3c0d2dd0b")
-		)
-		(pin "10"
-			(uuid "b0c16eff-11fb-4cda-8182-0bf56f0d5d9a")
-		)
-		(pin "13"
-			(uuid "60b42614-7cb4-4812-b3db-71c510f99273")
-		)
-		(pin "15"
-			(uuid "9d661bdf-96a4-4965-8b5a-05a1c2988280")
-		)
-		(pin "17"
-			(uuid "453f3402-1355-45ce-8d9d-b24c5dcdaeb5")
-		)
-		(pin "18"
-			(uuid "8f1d5aeb-c7aa-4ca2-b7a2-832babf275dd")
-		)
-		(pin "19"
-			(uuid "c5945926-58ab-4dde-a82c-82fd2aa13897")
-		)
-		(pin "2"
-			(uuid "8c65f31b-7996-44e2-a470-2364b58b5c19")
-		)
-		(pin "20"
-			(uuid "5143aee0-57d8-4689-8506-b4af3b3ce08f")
-		)
-		(pin "21"
-			(uuid "8462c049-f51a-43ec-8a58-2227d07c02c5")
-		)
-		(pin "22"
-			(uuid "666b8ac7-c9d4-4d7f-b6fa-89922d82870c")
-		)
-		(pin "3"
-			(uuid "25958dca-e81e-4221-8d0a-4d3b5894cffe")
-		)
-		(pin "4"
-			(uuid "7e305d96-e612-4003-aa85-3af362f839d1")
-		)
-		(pin "5"
-			(uuid "f03c2218-bd3f-469a-bbe9-b3845a511504")
-		)
-		(pin "6"
-			(uuid "add4f620-bac2-4731-822e-dcc1329b3b0b")
-		)
-		(pin "7"
-			(uuid "a43b2ee7-39cf-4d3a-90cc-49991dea5058")
-		)
-		(pin "8"
-			(uuid "e624ffb9-3f67-45e7-a30c-8b995c95b591")
-		)
-		(pin "9"
-			(uuid "946e7fba-3dae-4408-a650-777ba5623d3e")
-		)
-		(pin "1"
-			(uuid "28fe2a64-35c5-4e86-86bc-4c73d0d2a0ee")
-		)
-		(instances
-			(project ""
-				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
-					(reference "J1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x01")
-		(at 179.07 97.79 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9f238b7c-74bf-4c6e-adbb-5fdc6ed90e3b")
-		(property "Reference" "J4"
-			(at 181.61 99.0601 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x01"
-			(at 181.61 96.5201 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SparkFun-Switch:Pad-CapacitiveTouch"
-			(at 179.07 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 179.07 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 179.07 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b6e71100-ca0e-49f8-b9ad-380f18af25e8")
-		)
-		(instances
-			(project "Keyboard"
-				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
-					(reference "J4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x01")
-		(at 182.88 97.79 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9f3dafd2-74bc-485c-a710-de970d3910d7")
-		(property "Reference" "J5"
-			(at 185.42 99.0601 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x01"
-			(at 185.42 96.5201 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SparkFun-Switch:Pad-CapacitiveTouch"
-			(at 182.88 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 182.88 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 182.88 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fdf1d6ea-26e1-4610-b3bb-bed4905f306a")
-		)
-		(instances
-			(project "Keyboard"
-				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
-					(reference "J5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 86.36 60.96 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a27a3076-5d08-4baf-ac31-4814bad60780")
-		(property "Reference" "#PWR01"
-			(at 90.17 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 82.55 60.9599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 86.36 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 86.36 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 86.36 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2f412869-bae6-4065-a274-bff099cf3bb2")
-		)
-		(instances
-			(project ""
-				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
-					(reference "#PWR01")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x01")
-		(at 186.69 97.79 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "bf2f641c-3736-4bd3-8570-179522feba69")
-		(property "Reference" "J6"
-			(at 189.23 99.0601 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x01"
-			(at 189.23 96.5201 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SparkFun-Switch:Pad-CapacitiveTouch"
-			(at 186.69 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 186.69 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 186.69 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fe321465-5a1e-417e-ad31-0747502ac1ad")
-		)
-		(instances
-			(project "Keyboard"
-				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
-					(reference "J6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x01")
-		(at 203.2 91.44 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "bfac02a7-aab1-41b5-99f4-c07ea48005eb")
-		(property "Reference" "J15"
-			(at 205.74 90.1699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x01"
-			(at 205.74 92.7099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SparkFun-Switch:Pad-CapacitiveTouch"
-			(at 203.2 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 203.2 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 203.2 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "dad9b0fb-3346-4249-aa10-a58c50417f4c")
-		)
-		(instances
-			(project "Keyboard"
-				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
-					(reference "J15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 86.36 114.3 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c18db504-3e6b-429f-b4ae-1be9aa248944")
+		(uuid "bb9bc0a2-c95f-40b0-9fa2-96eff3baa794")
 		(property "Reference" "#PWR03"
-			(at 80.01 114.3 0)
+			(at 46.99 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3496,7 +4333,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 82.55 114.2999 90)
+			(at 49.53 118.1099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3505,7 +4342,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 86.36 114.3 0)
+			(at 53.34 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3514,7 +4351,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 86.36 114.3 0)
+			(at 53.34 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3523,7 +4360,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 86.36 114.3 0)
+			(at 53.34 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3532,10 +4369,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "84b180d5-6462-4461-91a4-81a789bffbb1")
+			(uuid "20fbf85d-f8fc-44a1-b1ce-8808b105f39b")
 		)
 		(instances
-			(project ""
+			(project "keyboard"
 				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
 					(reference "#PWR03")
 					(unit 1)
@@ -3545,17 +4382,16 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
-		(at 175.26 97.79 270)
-		(mirror x)
+		(at 177.8 85.09 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "e868440e-850c-4e8e-998d-8fd9584b18fa")
-		(property "Reference" "J3"
-			(at 177.8 99.0601 90)
+		(uuid "c272022b-7846-458f-852c-eeb9007703d1")
+		(property "Reference" "J15"
+			(at 180.34 83.8199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3564,7 +4400,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01"
-			(at 177.8 96.5201 90)
+			(at 180.34 86.3599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3572,8 +4408,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-Switch:Pad-CapacitiveTouch"
-			(at 175.26 97.79 0)
+		(property "Footprint" "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
+			(at 177.8 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3582,7 +4418,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 175.26 97.79 0)
+			(at 177.8 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3591,7 +4427,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 175.26 97.79 0)
+			(at 177.8 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3600,12 +4436,720 @@
 			)
 		)
 		(pin "1"
-			(uuid "c35bfb62-002a-4417-b775-801d1c53dbde")
+			(uuid "f289cb28-3777-4901-863c-1e7ede2e6541")
 		)
 		(instances
-			(project ""
+			(project "keyboard"
 				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
-					(reference "J3")
+					(reference "J15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 162.56 85.09 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c2bf6dfb-b243-441b-8858-a20bbdc82f32")
+		(property "Reference" "J9"
+			(at 165.1 83.8199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 165.1 86.3599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
+			(at 162.56 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 162.56 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 162.56 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0e34ada8-da4b-476c-8dba-f66ca097dbfe")
+		)
+		(instances
+			(project "keyboard"
+				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
+					(reference "J9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 53.34 64.77 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d23996eb-38c8-4a77-930f-294c3a55b073")
+		(property "Reference" "#FLG01"
+			(at 53.34 62.865 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 53.34 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 53.34 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 53.34 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 53.34 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "66af47c2-8755-4d02-98c5-421f4f877cda")
+		)
+		(instances
+			(project "keyboard"
+				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
+					(reference "#FLG01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 165.1 91.44 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d4332324-f0fa-4358-9f52-2bfab07c7293")
+		(property "Reference" "J10"
+			(at 167.64 92.7101 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 167.64 90.1701 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
+			(at 165.1 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 165.1 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 165.1 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ca709ab8-4046-4947-a8da-ea84a45560b4")
+		)
+		(instances
+			(project "keyboard"
+				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
+					(reference "J10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 172.72 91.44 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d765971b-d629-4fb9-bb3d-f6c414fee6ee")
+		(property "Reference" "J14"
+			(at 175.26 92.7101 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 175.26 90.1701 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
+			(at 172.72 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 172.72 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 172.72 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "179f1b85-92eb-48dd-97b0-0c98189b1330")
+		)
+		(instances
+			(project "keyboard"
+				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
+					(reference "J14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 156.21 85.09 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e199f19e-09a9-47fa-9982-4a2c093c8e40")
+		(property "Reference" "J6"
+			(at 158.75 83.8199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 158.75 86.3599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
+			(at 156.21 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 156.21 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 156.21 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c513defb-6705-4b45-9c9d-678f7527d4da")
+		)
+		(instances
+			(project "keyboard"
+				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
+					(reference "J6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 250.19 76.2 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f1a58d80-d2cf-4688-abc9-5ee79059e00b")
+		(property "Reference" "#PWR07"
+			(at 256.54 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 254 76.1999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 250.19 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 250.19 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 250.19 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "89735da2-26e8-4c60-9d52-3d0dc1bbe99e")
+		)
+		(instances
+			(project "keyboard"
+				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
+					(reference "#PWR07")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x22")
+		(at 87.63 90.17 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f87975e9-cb15-402b-b5d4-81ba56e4b83c")
+		(property "Reference" "J2"
+			(at 85.09 90.1699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x22"
+			(at 85.09 92.7099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x22_P2.54mm_Vertical"
+			(at 87.63 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 87.63 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x22, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 87.63 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "14"
+			(uuid "cce54152-1b83-457e-8d7b-2143ad8efdbd")
+		)
+		(pin "12"
+			(uuid "ab89f2de-f48e-4043-983e-cc11380ffd8b")
+		)
+		(pin "16"
+			(uuid "25d512c3-d1aa-4b86-8da8-cb687062e264")
+		)
+		(pin "11"
+			(uuid "cac62938-0509-45a9-8fc4-1401772db367")
+		)
+		(pin "10"
+			(uuid "a28d5ede-ccba-48e4-854f-ac309172814a")
+		)
+		(pin "13"
+			(uuid "6f97a2c8-62e3-4eab-a87f-b06d9960dd57")
+		)
+		(pin "15"
+			(uuid "ef566cce-8bdc-4342-9cb9-ad97c175d474")
+		)
+		(pin "17"
+			(uuid "d68d3987-5fe6-46d6-99ce-aba206fb59bd")
+		)
+		(pin "18"
+			(uuid "d98f692a-35d2-4c69-bdaa-a3f27e0b10c6")
+		)
+		(pin "19"
+			(uuid "8742704f-ed86-4582-8ab7-9b0de1364f5b")
+		)
+		(pin "2"
+			(uuid "b393ac9a-5db1-4a99-ae8a-4eb4c8e2a565")
+		)
+		(pin "20"
+			(uuid "cdf24d75-f17b-4cdc-a627-cd8c4308be85")
+		)
+		(pin "21"
+			(uuid "fe3e41ff-79fd-4b95-a944-7445cbfa463b")
+		)
+		(pin "22"
+			(uuid "a7222e69-bb09-4aaf-abde-9f58ede5df0d")
+		)
+		(pin "3"
+			(uuid "3491645f-7255-49f8-a308-295dd90fc49c")
+		)
+		(pin "4"
+			(uuid "b5239685-c9de-48ff-9619-ad14afb642c8")
+		)
+		(pin "5"
+			(uuid "627d32e8-ef75-4178-a38b-7275676ce041")
+		)
+		(pin "6"
+			(uuid "1b2e7ed4-b041-4876-9177-cf8c67d4d8e9")
+		)
+		(pin "7"
+			(uuid "a1439547-4041-4973-abf7-22a674d1ab39")
+		)
+		(pin "8"
+			(uuid "723a4c42-acb7-467a-97d2-e4d943b1dee4")
+		)
+		(pin "9"
+			(uuid "79184641-32e5-4c71-8b82-68bdb237817f")
+		)
+		(pin "1"
+			(uuid "7cc3c2cd-4823-49bf-a22d-415ff70ee298")
+		)
+		(instances
+			(project "keyboard"
+				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
+					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SKRPACE010:SKRPACE010")
+		(at 245.11 96.52 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fdfc22cb-f96d-4c0f-bcb5-944ff24b2131")
+		(property "Reference" "S3"
+			(at 245.11 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SKRPACE010"
+			(at 245.11 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SKRPACE010:SKRPACE010"
+			(at 245.11 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 245.11 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 245.11 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "ALPS"
+			(at 245.11 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\n                        \n                            Switch Tactile N.O. SPST Button J-Bend 0.05A 16VDC 2.55N SMD Automotive T/R\n                        \n"
+			(at 245.11 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 245.11 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 245.11 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/SKRPACE010/ALPS/view-part/?ref=eda"
+			(at 245.11 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Maniufacturer Recommendations"
+			(at 245.11 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/SKRPACE010/ALPS/view-part/?ref=snap"
+			(at 245.11 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "SKRPACE010"
+			(at 245.11 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 245.11 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "ALPS"
+			(at 245.11 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "085616fe-cc62-4ac9-92d8-11ac2e57cf28")
+		)
+		(pin "2"
+			(uuid "6f39d2a4-e397-4731-b761-c4a92b1254d0")
+		)
+		(pin "4"
+			(uuid "2c91545d-d10e-42ee-8b29-ecfda7d0ff80")
+		)
+		(pin "3"
+			(uuid "7f570417-7475-4054-ad18-5bce98675c40")
+		)
+		(instances
+			(project "keyboard"
+				(path "/e77fdaa9-127d-430b-b7ed-66bcd534fe2d"
+					(reference "S3")
 					(unit 1)
 				)
 			)
