@@ -3832,6 +3832,248 @@
 		(layer "Edge.Cuts")
 		(uuid "6e2ed497-7302-4423-8803-934f7d1f5d03")
 	)
+	(gr_text "16"
+		(at 43.18 60.96 90)
+		(layer "F.SilkS")
+		(uuid "11024ad9-8255-4d07-ad52-d43cb5762342")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "18"
+		(at 48.26 60.96 90)
+		(layer "F.SilkS")
+		(uuid "425dee35-b030-4490-90ac-67481d58cef1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "14"
+		(at 71.12 60.96 90)
+		(layer "F.SilkS")
+		(uuid "438f7fc9-ac92-4ee0-b7c9-f5183182d8b3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "G"
+		(at 76.2 33.02 90)
+		(layer "F.SilkS")
+		(uuid "43df4c9b-d5e9-45bc-b8f5-b44d44d9cf77")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "5"
+		(at 33.02 60.96 90)
+		(layer "F.SilkS")
+		(uuid "57a21b4a-9bc8-461e-9220-326ef453db32")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "17"
+		(at 45.72 60.96 90)
+		(layer "F.SilkS")
+		(uuid "63d634df-f938-4df6-abef-0cccef64fefa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "6"
+		(at 35.56 60.96 90)
+		(layer "F.SilkS")
+		(uuid "65111155-cc18-474f-9090-19387163c948")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "13"
+		(at 68.58 60.96 90)
+		(layer "F.SilkS")
+		(uuid "721926de-9e45-4185-8d01-bfe76a765af0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "2"
+		(at 33.02 33.02 90)
+		(layer "F.SilkS")
+		(uuid "912686ae-fd57-4b29-bc98-41d3932c379c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "1"
+		(at 30.48 33.02 90)
+		(layer "F.SilkS")
+		(uuid "94b91407-5f8b-45bb-9e6a-0ca9a7606089")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "G"
+		(at 73.66 33.02 90)
+		(layer "F.SilkS")
+		(uuid "bcbce411-cf38-4605-9bc8-86a9ab8af87c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "7"
+		(at 38.1 60.96 90)
+		(layer "F.SilkS")
+		(uuid "c23fd5e8-ff3a-4dec-a5de-2f06acc17c06")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "10"
+		(at 60.96 60.96 90)
+		(layer "F.SilkS")
+		(uuid "c8ee5462-82d4-475a-943b-6ed148bbef1b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "3"
+		(at 53.34 60.96 90)
+		(layer "F.SilkS")
+		(uuid "c98519c7-820e-4eff-a53f-9e13f40de799")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "4"
+		(at 30.48 60.96 90)
+		(layer "F.SilkS")
+		(uuid "d44548ef-0ace-4543-910e-4a826c757be3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "G"
+		(at 76.2 60.96 90)
+		(layer "F.SilkS")
+		(uuid "d863d016-ba8f-4d50-afcf-2130cd32c82b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "G"
+		(at 22.86 33.02 90)
+		(layer "F.SilkS")
+		(uuid "db4682d7-427c-4591-b3b2-093db1972e3f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "9"
+		(at 58.42 60.96 90)
+		(layer "F.SilkS")
+		(uuid "db98aa1f-278c-481a-8efa-c3ecbd0cd69a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "8"
+		(at 50.8 60.96 90)
+		(layer "F.SilkS")
+		(uuid "e02cb9d0-7b05-4be0-8ca7-adb6aa24507d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "11"
+		(at 63.5 60.96 90)
+		(layer "F.SilkS")
+		(uuid "e1ee64c5-b2ac-47c3-bb38-ecc78cc6156d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "15"
+		(at 40.64 60.96 90)
+		(layer "F.SilkS")
+		(uuid "e6709dc4-265b-4d3b-93f3-ef384268298e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "12"
+		(at 66.04 60.96 90)
+		(layer "F.SilkS")
+		(uuid "e7138e74-faba-4a3c-908e-6df45b7ded81")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
 	(segment
 		(start 91.905 44.645)
 		(end 59.495 44.645)
