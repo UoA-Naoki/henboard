@@ -5,4 +5,5 @@
   (lib (name "ESP32-S3-WROOM-1")(type "KiCad")(uri "${KIPRJMOD}/../lib/symbol/ESP32-S3-WROOM-1.kicad_sym")(options "")(descr ""))
   (lib (name "LDL1117S33R")(type "KiCad")(uri "${KIPRJMOD}/../lib/symbol/LDL1117S33R.kicad_sym")(options "")(descr ""))
   (lib (name "SKRPACE010")(type "KiCad")(uri "${KIPRJMOD}/../lib/symbol/SKRPACE010.kicad_sym")(options "")(descr ""))
+  (lib (name "MC-314C-4P16")(type "KiCad")(uri "${KIPRJMOD}/../lib/symbol/MC-314C-4P16.kicad_sym")(options "")(descr ""))
 )
