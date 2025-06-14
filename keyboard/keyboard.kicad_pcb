@@ -138,7 +138,7 @@
 		(property "Reference" "J15"
 			(at 0 6.3 180)
 			(layer "F.Fab")
-			(uuid "9fa28477-d58e-4796-a6ad-b6cd0c24a1b3")
+			(uuid "af4886a3-49fd-4a34-a8e9-48f8e4aeaed9")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -151,7 +151,7 @@
 		(property "Value" "Conn_01x01"
 			(at 0 7.2 180)
 			(layer "F.Fab")
-			(uuid "57b1e8d7-e345-4a46-9241-bad15f6d397f")
+			(uuid "15dbf8ed-64e6-49c8-a58f-60014c789628")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -166,7 +166,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "dbc078f1-88e0-4eaf-8233-e999b184727e")
+			(uuid "5f269713-b98f-4a7a-9e9f-53e38dfd5bc9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -179,7 +179,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "48bf7e88-a59a-447e-9ef7-a67d0ce4279d")
+			(uuid "ff747acd-2857-4feb-b006-6e721c801b83")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -192,7 +192,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b267863b-c489-423e-841c-4f84d2fd3616")
+			(uuid "61cafd3d-df4f-44c0-a26a-83491f9b8b82")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -207,24 +207,13 @@
 		(pad "1" smd roundrect
 			(at 0 0)
 			(size 10 10)
-			(layers "F.Cu")
-			(roundrect_rratio 0.25)
-			(net 12 "TOUCH14")
-			(pinfunction "Pin_1")
-			(pintype "passive")
-			(thermal_bridge_angle 0)
-			(uuid "dda08d76-677c-4ceb-9621-54f4f1fe6cd8")
-		)
-		(pad "1" smd roundrect
-			(at 0 0)
-			(size 10 10)
 			(layers "F.Cu" "F.Mask")
 			(roundrect_rratio 0.25)
 			(net 12 "TOUCH14")
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 0)
-			(uuid "c5296e72-8675-47b2-9566-a0f208692055")
+			(uuid "784c6ce1-3f1d-4fa5-ac04-22f6f0bbd4ab")
 		)
 	)
 	(footprint "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
@@ -236,7 +225,7 @@
 		(property "Reference" "J14"
 			(at 0 6.3 180)
 			(layer "F.Fab")
-			(uuid "d9fbcd44-5e7d-4a8b-92f9-ef2748c9c669")
+			(uuid "61b1d974-0327-4433-82c3-d73b4dfa99bd")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -249,7 +238,7 @@
 		(property "Value" "Conn_01x01"
 			(at 0 7.2 180)
 			(layer "F.Fab")
-			(uuid "01e29a31-94d2-4331-abb4-9f02ebe02cae")
+			(uuid "8d1bdcdb-93a9-44fb-8ee4-b3ca7e7b0550")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -264,7 +253,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "22d636a2-e774-48dc-84b8-892d75aa8689")
+			(uuid "e37923a7-83d7-40fd-8153-4bbbb0cf9dd5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -277,7 +266,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "97e89d3b-7a7c-4da9-9e28-01b53d5b1317")
+			(uuid "e53a610c-32b6-419a-9ec9-a4156dbd9d4b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -290,7 +279,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "52996bbb-57bf-472b-a573-f8251e3cb71a")
+			(uuid "0aae6942-695b-43a5-83af-041cae620764")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -305,24 +294,13 @@
 		(pad "1" smd roundrect
 			(at 0 0)
 			(size 10 10)
-			(layers "F.Cu")
-			(roundrect_rratio 0.25)
-			(net 9 "TOUCH12")
-			(pinfunction "Pin_1")
-			(pintype "passive")
-			(thermal_bridge_angle 0)
-			(uuid "d66f7327-f341-46bf-ae41-91508e89bad5")
-		)
-		(pad "1" smd roundrect
-			(at 0 0)
-			(size 10 10)
 			(layers "F.Cu" "F.Mask")
 			(roundrect_rratio 0.25)
 			(net 9 "TOUCH12")
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 0)
-			(uuid "2d302713-8246-4923-800e-4893a5f18f40")
+			(uuid "55f8cebb-ea68-47e4-9914-2cdc42a555cd")
 		)
 	)
 	(footprint "SKRPACE010:SKRPACE010"
@@ -1196,7 +1174,7 @@
 		(property "Reference" "J16"
 			(at 0 6.3 180)
 			(layer "F.Fab")
-			(uuid "93678cd1-9e31-4455-b131-caf08d1feace")
+			(uuid "e2d313f2-6c08-44f7-ac0f-e44382fb3697")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -1209,7 +1187,7 @@
 		(property "Value" "Conn_01x01"
 			(at 0 7.2 180)
 			(layer "F.Fab")
-			(uuid "2a80e160-2ef5-43bb-b630-1b1980b6d2d3")
+			(uuid "81abe9b1-95af-484d-b882-dfaf18b2866a")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -1224,7 +1202,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "dcd9e913-7d49-4bd6-919b-f1407bf4db3c")
+			(uuid "9789ef14-cea6-4513-99b8-33efe12cff0b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1237,7 +1215,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4a8c2140-e119-4261-8b34-96589672b5c3")
+			(uuid "80a999ab-a257-4e38-9bb6-307c60f9f48e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1250,7 +1228,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8e86f08a-abdc-40db-8af0-b9670df9122a")
+			(uuid "b925f74b-04e4-4004-83bf-937fc308bcae")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1265,24 +1243,13 @@
 		(pad "1" smd roundrect
 			(at 0 0)
 			(size 10 10)
-			(layers "F.Cu")
-			(roundrect_rratio 0.25)
-			(net 3 "TOUCH13")
-			(pinfunction "Pin_1")
-			(pintype "passive")
-			(thermal_bridge_angle 0)
-			(uuid "ee6b7e9c-2877-4c0e-8b36-4bd4ce4d6b48")
-		)
-		(pad "1" smd roundrect
-			(at 0 0)
-			(size 10 10)
 			(layers "F.Cu" "F.Mask")
 			(roundrect_rratio 0.25)
 			(net 3 "TOUCH13")
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 0)
-			(uuid "33db9671-6803-4653-816b-b27f9fb24c48")
+			(uuid "f77c528a-8400-49e4-a8d1-5eb16bf9659c")
 		)
 	)
 	(footprint "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
@@ -1294,7 +1261,7 @@
 		(property "Reference" "J7"
 			(at 0 6.3 180)
 			(layer "F.Fab")
-			(uuid "68907a39-80ef-45b6-881d-6a4328a17b1b")
+			(uuid "66578710-98c9-4266-81f1-8e38e74403d7")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -1307,7 +1274,7 @@
 		(property "Value" "Conn_01x01"
 			(at 0 7.2 180)
 			(layer "F.Fab")
-			(uuid "25aa693e-e7c0-41b7-8d45-f1855ff4e5cd")
+			(uuid "e7d2d3de-28c0-4b6a-a01b-c2a41f031e7b")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -1322,7 +1289,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0d0b6f46-bda5-410d-8a3c-eb3b60440c45")
+			(uuid "70510e3f-1d0a-48be-8780-56fe5cf8fe75")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1335,7 +1302,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "831b8a6f-3860-4609-960d-abaa9bf87a7e")
+			(uuid "79df9a46-0be3-4617-b3e1-2b4ae3bf4272")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1348,7 +1315,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2bd36c83-3478-4b70-afa1-95e3b2cd1cc7")
+			(uuid "54ddb7da-8ec4-4ce7-877e-93acbe2e9f99")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1363,24 +1330,13 @@
 		(pad "1" smd roundrect
 			(at 0 0)
 			(size 10 10)
-			(layers "F.Cu")
-			(roundrect_rratio 0.25)
-			(net 1 "TOUCH5")
-			(pinfunction "Pin_1")
-			(pintype "passive")
-			(thermal_bridge_angle 0)
-			(uuid "6f302a89-ede7-481b-9ffc-3fe8f9d67fb6")
-		)
-		(pad "1" smd roundrect
-			(at 0 0)
-			(size 10 10)
 			(layers "F.Cu" "F.Mask")
 			(roundrect_rratio 0.25)
 			(net 1 "TOUCH5")
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 0)
-			(uuid "5e9b9cc6-9c1e-4289-8cc7-b3ff5af83a2e")
+			(uuid "8b9eddab-882d-45b9-a1af-ab67c86771e4")
 		)
 	)
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x22_P2.54mm_Vertical"
@@ -1879,7 +1835,7 @@
 		(property "Reference" "J8"
 			(at 0 6.3 180)
 			(layer "F.Fab")
-			(uuid "5fb0adfc-a1b5-4ad0-b3de-5147a634fe1d")
+			(uuid "2bda3a58-a68c-4986-9084-222397cf050b")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -1892,7 +1848,7 @@
 		(property "Value" "Conn_01x01"
 			(at 0 7.2 180)
 			(layer "F.Fab")
-			(uuid "7ce95dce-f3c1-4725-8953-400fc968a4b2")
+			(uuid "9c3b73bb-85e5-43ea-93fc-d65338785c8e")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -1907,7 +1863,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "36dba01b-ec45-446a-b206-0f4b39984ab8")
+			(uuid "ee6f7b2c-e9ae-4506-9656-6588a05f07e1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1920,7 +1876,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b8a215c7-1826-4f54-9e21-02e005b927b4")
+			(uuid "319027e4-ef73-436e-adda-1b667343b0ce")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1933,7 +1889,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5a393c5c-9160-4be9-b70f-f9e4ed38c780")
+			(uuid "23c2e32a-8198-4690-9197-5a27c493eb80")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1948,24 +1904,13 @@
 		(pad "1" smd roundrect
 			(at 0 0)
 			(size 10 10)
-			(layers "F.Cu")
-			(roundrect_rratio 0.25)
-			(net 19 "TOUCH6")
-			(pinfunction "Pin_1")
-			(pintype "passive")
-			(thermal_bridge_angle 0)
-			(uuid "d9e29022-bfdb-4bae-acbd-6ad078d59aca")
-		)
-		(pad "1" smd roundrect
-			(at 0 0)
-			(size 10 10)
 			(layers "F.Cu" "F.Mask")
 			(roundrect_rratio 0.25)
 			(net 19 "TOUCH6")
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 0)
-			(uuid "a4eef3d7-3959-48a0-8d49-dad890f34463")
+			(uuid "ff898f53-cd10-41f2-adcc-1dcdfa2cec05")
 		)
 	)
 	(footprint "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
@@ -1977,7 +1922,7 @@
 		(property "Reference" "J13"
 			(at 0 6.3 180)
 			(layer "F.Fab")
-			(uuid "1f0a7040-227b-4f14-9c7e-7e515d380b53")
+			(uuid "11d8b5a0-3a5e-4ce1-8000-041e84d3c59d")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -1990,7 +1935,7 @@
 		(property "Value" "Conn_01x01"
 			(at 0 7.2 180)
 			(layer "F.Fab")
-			(uuid "3b42e621-7c20-440a-8481-cf15c19e3d08")
+			(uuid "7ff0536a-1fc0-4bd8-aee3-2861adae4708")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -2005,7 +1950,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "41fdc040-9660-452e-b72d-0b67b994fa8d")
+			(uuid "9ea490fb-a69f-46f8-9241-e3aba7982372")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2018,7 +1963,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "28623354-527b-45ac-992b-fb1232b72774")
+			(uuid "9e0a8209-66c7-41c6-8be3-c2c99dcd4ffa")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2031,7 +1976,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "72d54ec2-1785-4f93-bf6f-f1f2bab8854e")
+			(uuid "f80d2f44-cb81-4d77-857a-684412fb2132")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2046,24 +1991,13 @@
 		(pad "1" smd roundrect
 			(at 0 0)
 			(size 10 10)
-			(layers "F.Cu")
-			(roundrect_rratio 0.25)
-			(net 14 "TOUCH11")
-			(pinfunction "Pin_1")
-			(pintype "passive")
-			(thermal_bridge_angle 0)
-			(uuid "37c47da9-3783-451b-9036-dbeb8af1a2d2")
-		)
-		(pad "1" smd roundrect
-			(at 0 0)
-			(size 10 10)
 			(layers "F.Cu" "F.Mask")
 			(roundrect_rratio 0.25)
 			(net 14 "TOUCH11")
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 0)
-			(uuid "cfdfe826-9c7f-43f9-9bce-ab3b94b5772f")
+			(uuid "b6eb99ca-7a44-43ab-abe1-6a2d0742c1a4")
 		)
 	)
 	(footprint "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
@@ -2075,7 +2009,7 @@
 		(property "Reference" "J12"
 			(at 0 6.3 180)
 			(layer "F.Fab")
-			(uuid "76e8e23b-1f6d-4c24-98f8-81c28cf4b459")
+			(uuid "b78641b1-0986-47e9-8a0a-da9a6b85f94b")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -2088,7 +2022,7 @@
 		(property "Value" "Conn_01x01"
 			(at 0 7.2 180)
 			(layer "F.Fab")
-			(uuid "e89e0e5c-ec45-4ebd-963d-3f425fbd0ef5")
+			(uuid "e6d41666-9c0d-423a-9c3b-fd9a064b5ea4")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -2103,7 +2037,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "aa9eb7cd-78ca-45fa-bde0-7848490a0ed8")
+			(uuid "faeceb47-f45f-4e6c-8858-7b1608b23c6e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2116,7 +2050,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "dcf9dd21-aee9-4e84-b68c-6d836c7ad156")
+			(uuid "6814b57f-6e6c-48a5-be11-d3310ecce655")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2129,7 +2063,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5e2482d9-ab4c-4385-903f-1f1671778296")
+			(uuid "03d2bf7b-a705-4569-971e-d10769e6a495")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2144,24 +2078,13 @@
 		(pad "1" smd roundrect
 			(at 0 0)
 			(size 10 10)
-			(layers "F.Cu")
-			(roundrect_rratio 0.25)
-			(net 22 "TOUCH10")
-			(pinfunction "Pin_1")
-			(pintype "passive")
-			(thermal_bridge_angle 0)
-			(uuid "49401dfe-f864-4b3e-97c3-46c1351f525e")
-		)
-		(pad "1" smd roundrect
-			(at 0 0)
-			(size 10 10)
 			(layers "F.Cu" "F.Mask")
 			(roundrect_rratio 0.25)
 			(net 22 "TOUCH10")
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 0)
-			(uuid "28e82592-e903-4079-a432-c102acda8a1d")
+			(uuid "918e1f39-4f6d-4ef6-9d49-9fe8cccc9755")
 		)
 	)
 	(footprint "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
@@ -2173,7 +2096,7 @@
 		(property "Reference" "J6"
 			(at 0 6.3 180)
 			(layer "F.Fab")
-			(uuid "a7ac3d22-f7f0-4466-bdf3-ec3dafc51d90")
+			(uuid "018ed00e-c4ed-4b11-8d52-348a13e6056d")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -2186,7 +2109,7 @@
 		(property "Value" "Conn_01x01"
 			(at 0 7.2 180)
 			(layer "F.Fab")
-			(uuid "f272e96e-79d7-4207-8920-03110fee11fe")
+			(uuid "c3b1ca3c-eb59-499e-a1da-d2ebadedb28c")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -2201,7 +2124,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "116ec7b7-2de7-4f37-a48a-474a1f103612")
+			(uuid "74594261-7f22-4d43-9d6b-3d79481d8b70")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2214,7 +2137,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7b177bf0-619e-4cb7-a590-2b544b687570")
+			(uuid "b6967380-f375-4363-b3a0-cfc29d6d82b9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2227,7 +2150,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6ecb14b1-0394-4e28-ba81-068442c5560d")
+			(uuid "16afae00-e551-4017-8ffa-cff5c69aba9e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2242,24 +2165,13 @@
 		(pad "1" smd roundrect
 			(at 0 0)
 			(size 10 10)
-			(layers "F.Cu")
-			(roundrect_rratio 0.25)
-			(net 18 "TOUCH4")
-			(pinfunction "Pin_1")
-			(pintype "passive")
-			(thermal_bridge_angle 0)
-			(uuid "acb72d9b-030f-41d5-894d-c1c6a6a29e9b")
-		)
-		(pad "1" smd roundrect
-			(at 0 0)
-			(size 10 10)
 			(layers "F.Cu" "F.Mask")
 			(roundrect_rratio 0.25)
 			(net 18 "TOUCH4")
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 0)
-			(uuid "2d7b7140-7813-498a-b5e0-f84d8fe73ecb")
+			(uuid "ed347e23-e540-4792-a89b-18d5c005af6a")
 		)
 	)
 	(footprint "SKRPACE010:SKRPACE010"
@@ -2646,7 +2558,7 @@
 		(property "Reference" "J9"
 			(at 0 6.3 180)
 			(layer "F.Fab")
-			(uuid "71f670c9-c295-49b0-9ff4-3263f99e413b")
+			(uuid "1588d266-91f3-49d3-9f4e-e7f85c7705f4")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -2659,7 +2571,7 @@
 		(property "Value" "Conn_01x01"
 			(at 0 7.2 180)
 			(layer "F.Fab")
-			(uuid "0d8729f2-2652-4780-b05e-665b71275cf0")
+			(uuid "3d58c99a-fc8e-4c8e-8ebf-431df1e0e30e")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -2674,7 +2586,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "891aeaa0-4721-4736-adb5-27ba962e9342")
+			(uuid "e2ee6b9d-bd6e-4883-8878-e34c01abbd61")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2687,7 +2599,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c0825c38-5625-40d9-bf50-16a8709ab631")
+			(uuid "b9be63d0-4c62-46b2-a9fd-ae9e2cb689df")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2700,7 +2612,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6bef90a9-d238-443d-9709-3c6498599333")
+			(uuid "6578d0c1-cf72-4088-9f74-9d6bccdca39c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2715,24 +2627,13 @@
 		(pad "1" smd roundrect
 			(at 0 0)
 			(size 10 10)
-			(layers "F.Cu")
-			(roundrect_rratio 0.25)
-			(net 8 "TOUCH7")
-			(pinfunction "Pin_1")
-			(pintype "passive")
-			(thermal_bridge_angle 0)
-			(uuid "093c587a-d666-45f3-95be-e9d4785343a1")
-		)
-		(pad "1" smd roundrect
-			(at 0 0)
-			(size 10 10)
 			(layers "F.Cu" "F.Mask")
 			(roundrect_rratio 0.25)
 			(net 8 "TOUCH7")
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 0)
-			(uuid "d3a4abdf-1640-43cd-ba8e-334ac6208bc3")
+			(uuid "bdc8adda-f8c1-4e22-95e7-df2df695a2a5")
 		)
 	)
 	(footprint "SKRPACE010:SKRPACE010"
@@ -3119,7 +3020,7 @@
 		(property "Reference" "J11"
 			(at 0 6.3 180)
 			(layer "F.Fab")
-			(uuid "517feb33-fa61-490f-88cd-1a45c1cb0505")
+			(uuid "7483eb6d-0e18-460a-ad02-f83291092fd0")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -3132,7 +3033,7 @@
 		(property "Value" "Conn_01x01"
 			(at 0 7.2 180)
 			(layer "F.Fab")
-			(uuid "538a1312-0182-4a26-8869-69ed8587be5e")
+			(uuid "a041fc5a-3e4c-4718-9687-d3df952395db")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -3147,7 +3048,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fd1736bf-2358-44e1-b756-a5dfecc376ef")
+			(uuid "a7217644-90ea-4291-905f-2959fca065b0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3160,7 +3061,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9f39d3bc-994a-46d3-846f-153455580da5")
+			(uuid "00969373-63ae-449d-bc46-b0a4c05a520f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3173,7 +3074,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "43b9ba4a-18c1-4a07-8ada-c927b687b5b1")
+			(uuid "f30bfc51-02f0-435b-a726-d5563f23d0cb")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3188,24 +3089,13 @@
 		(pad "1" smd roundrect
 			(at 0 0)
 			(size 10 10)
-			(layers "F.Cu")
-			(roundrect_rratio 0.25)
-			(net 6 "TOUCH9")
-			(pinfunction "Pin_1")
-			(pintype "passive")
-			(thermal_bridge_angle 0)
-			(uuid "e541db47-4ea6-40a7-ad9c-dac565d76bb7")
-		)
-		(pad "1" smd roundrect
-			(at 0 0)
-			(size 10 10)
 			(layers "F.Cu" "F.Mask")
 			(roundrect_rratio 0.25)
 			(net 6 "TOUCH9")
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 0)
-			(uuid "1f670462-8501-4b97-91bb-2235a7c1d70e")
+			(uuid "29b6b5e2-1bbd-4258-a055-c4a17b3072de")
 		)
 	)
 	(footprint "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
@@ -3217,7 +3107,7 @@
 		(property "Reference" "J5"
 			(at 0 6.3 180)
 			(layer "F.Fab")
-			(uuid "51503de1-684b-48a7-b4dd-00550eb434d7")
+			(uuid "d01c2c0e-f877-430d-9833-55037feb3598")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -3230,7 +3120,7 @@
 		(property "Value" "Conn_01x01"
 			(at 0 7.2 180)
 			(layer "F.Fab")
-			(uuid "0e1367dd-ae3b-47fd-9bae-36607d669cc9")
+			(uuid "b275830e-37d3-454a-9cbd-940a8e833875")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -3245,7 +3135,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "99e02c0c-5fd6-4e58-aee6-f5948411bce7")
+			(uuid "d153b848-d41b-4107-a533-19dd9ef63aa6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3258,7 +3148,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d095a905-19fc-46f8-9568-8f41aa33f22e")
+			(uuid "040cf0bc-7d49-4b76-a919-862b5baa9b4d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3271,7 +3161,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "98850869-f498-433c-b9fd-d5af0076bbec")
+			(uuid "f7fd28fd-af02-4e38-94b9-73b498763678")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3286,24 +3176,13 @@
 		(pad "1" smd roundrect
 			(at 0 0)
 			(size 10 10)
-			(layers "F.Cu")
-			(roundrect_rratio 0.25)
-			(net 11 "TOUCH3")
-			(pinfunction "Pin_1")
-			(pintype "passive")
-			(thermal_bridge_angle 0)
-			(uuid "78ebde93-ab40-47e2-8bcf-0ae7867f8b18")
-		)
-		(pad "1" smd roundrect
-			(at 0 0)
-			(size 10 10)
 			(layers "F.Cu" "F.Mask")
 			(roundrect_rratio 0.25)
 			(net 11 "TOUCH3")
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 0)
-			(uuid "0c2a4412-b2ba-44a2-b1d7-164a98dae5bd")
+			(uuid "0e1209ad-252c-4d20-b7df-4d544e3fa570")
 		)
 	)
 	(footprint "SKRPACE010:SKRPACE010"
@@ -3690,7 +3569,7 @@
 		(property "Reference" "J3"
 			(at 0 6.3 180)
 			(layer "F.Fab")
-			(uuid "450b46fa-5f00-4730-8b90-6cc9b352713c")
+			(uuid "5f7f3262-5ce8-4fc2-ba29-040924a2bbeb")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -3703,7 +3582,7 @@
 		(property "Value" "Conn_01x01"
 			(at 0 7.2 180)
 			(layer "F.Fab")
-			(uuid "cfe7c423-f365-4e0f-b193-927ec5d6916c")
+			(uuid "96b748a5-578d-4394-bf64-b87994ff4fb0")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -3718,7 +3597,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4f9bc603-d859-4333-9c7d-1a501f44fb5d")
+			(uuid "a499cd2d-22a0-45cc-a1bd-80bcee091d89")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3731,7 +3610,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3cbf0712-9fac-4136-a73f-4a78176b872f")
+			(uuid "1ebd0569-39fa-406c-a147-3907c634cde9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3744,7 +3623,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "16302bbe-7c3f-4e83-bef5-75f4d97f0450")
+			(uuid "c2e78915-112f-47f3-ac30-8cf70fae94ec")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3759,24 +3638,13 @@
 		(pad "1" smd roundrect
 			(at 0 0)
 			(size 10 10)
-			(layers "F.Cu")
-			(roundrect_rratio 0.25)
-			(net 28 "TOUCH1")
-			(pinfunction "Pin_1")
-			(pintype "passive")
-			(thermal_bridge_angle 0)
-			(uuid "a8f07028-34a7-4025-8255-fe48f3b54d6f")
-		)
-		(pad "1" smd roundrect
-			(at 0 0)
-			(size 10 10)
 			(layers "F.Cu" "F.Mask")
 			(roundrect_rratio 0.25)
 			(net 28 "TOUCH1")
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 0)
-			(uuid "83e824ce-a276-4de7-a0be-c698be9d8873")
+			(uuid "fb82864b-fcdd-4731-9b23-29209bcc1d11")
 		)
 	)
 	(footprint "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
@@ -3788,7 +3656,7 @@
 		(property "Reference" "J4"
 			(at 0 6.3 180)
 			(layer "F.Fab")
-			(uuid "3d4f819c-f328-4a2b-a099-f0a639fac89c")
+			(uuid "169ff910-8802-4c5f-ac16-6e29104670b3")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -3801,7 +3669,7 @@
 		(property "Value" "Conn_01x01"
 			(at 0 7.2 180)
 			(layer "F.Fab")
-			(uuid "daf436ba-166c-40d5-bbe7-88cd825e0197")
+			(uuid "a3fee65b-ad35-4a51-a769-52360abaa546")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -3816,7 +3684,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e396e351-c97e-4541-bc88-2afb4dbb2802")
+			(uuid "2b3c0b09-1ff9-4e0f-9802-f159408b2d5b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3829,7 +3697,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7380c5c0-a0fe-49e8-8381-6f067149cef7")
+			(uuid "22866842-154b-4fde-921a-cefad19a03e9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3842,7 +3710,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8f60c6bf-aa9b-495b-b9f1-673cf6b55a43")
+			(uuid "264fe9c6-2e8b-4398-83c4-6f61db75e56e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3857,24 +3725,13 @@
 		(pad "1" smd roundrect
 			(at 0 0)
 			(size 10 10)
-			(layers "F.Cu")
-			(roundrect_rratio 0.25)
-			(net 32 "TOUCH2")
-			(pinfunction "Pin_1")
-			(pintype "passive")
-			(thermal_bridge_angle 0)
-			(uuid "618e86c8-fe83-49dd-9493-209b54b43133")
-		)
-		(pad "1" smd roundrect
-			(at 0 0)
-			(size 10 10)
 			(layers "F.Cu" "F.Mask")
 			(roundrect_rratio 0.25)
 			(net 32 "TOUCH2")
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 0)
-			(uuid "64e761af-926c-4912-b21b-12c90cc49989")
+			(uuid "6348d54d-da49-4b2e-a408-25ead88a277e")
 		)
 	)
 	(footprint "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
@@ -3886,7 +3743,7 @@
 		(property "Reference" "J10"
 			(at 0 6.3 180)
 			(layer "F.Fab")
-			(uuid "2a49c22a-4294-4be6-acc3-dd18cc3484c9")
+			(uuid "a2275ad8-d6b8-4f9d-af2f-5924d88f0cbb")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -3899,7 +3756,7 @@
 		(property "Value" "Conn_01x01"
 			(at 0 7.2 180)
 			(layer "F.Fab")
-			(uuid "21b2fb7d-ff23-4410-b88d-7ee5d95210aa")
+			(uuid "e1b57727-a6e5-4c22-b0ad-fc1aa7831848")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -3914,7 +3771,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fcf17a91-e590-4972-a3d6-50a945a729d8")
+			(uuid "ed873879-cbcd-45ca-923f-12bf79012d07")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3927,7 +3784,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8031fb9f-9110-4b56-80dc-a6f2da9ebe49")
+			(uuid "632fc44f-c788-42c8-b6d5-5f8c4632a95e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3940,7 +3797,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9cd970dc-9694-4d1d-b6cd-18fe3271b964")
+			(uuid "4e71573c-7700-485a-90fe-a6e2fe81b9bc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3955,24 +3812,13 @@
 		(pad "1" smd roundrect
 			(at 0 0)
 			(size 10 10)
-			(layers "F.Cu")
-			(roundrect_rratio 0.25)
-			(net 17 "TOUCH8")
-			(pinfunction "Pin_1")
-			(pintype "passive")
-			(thermal_bridge_angle 0)
-			(uuid "1c737cf9-825d-4f76-b9b2-8409cd883d43")
-		)
-		(pad "1" smd roundrect
-			(at 0 0)
-			(size 10 10)
 			(layers "F.Cu" "F.Mask")
 			(roundrect_rratio 0.25)
 			(net 17 "TOUCH8")
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 0)
-			(uuid "92febe50-1327-468a-92a1-1a27a7b49a32")
+			(uuid "f8c42a75-b660-4391-840c-72fb5d9182bd")
 		)
 	)
 	(gr_rect
