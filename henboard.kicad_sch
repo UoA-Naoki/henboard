@@ -6961,7 +6961,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "47.5K(1%)"
 			(at 142.24 138.4299 0)
 			(effects
 				(font
@@ -7608,7 +7608,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10uF/25V(20%)"
 			(at 138.43 126.9999 0)
 			(effects
 				(font
@@ -8030,7 +8030,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1uF/50V(10%)"
 			(at 203.2 59.6899 0)
 			(effects
 				(font
@@ -8571,7 +8571,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1uF/50V(10%)"
 			(at 123.19 36.8299 0)
 			(effects
 				(font
@@ -8641,7 +8641,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "1uF/16V(10%)"
 			(at 207.01 72.3899 0)
 			(effects
 				(font
@@ -8711,7 +8711,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10uF/25V(20%)"
 			(at 198.12 59.6899 0)
 			(effects
 				(font
@@ -8781,7 +8781,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "1uF/16V(10%)"
 			(at 147.32 138.4299 0)
 			(effects
 				(font
@@ -8850,7 +8850,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "22.1K(1%)"
 			(at 135.89 129.54 90)
 			(effects
 				(font
@@ -9121,7 +9121,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10uF/25V(20%)"
 			(at 97.79 36.8299 0)
 			(effects
 				(font
@@ -9753,7 +9753,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "5.1K(1%)"
 			(at 55.88 146.0499 0)
 			(effects
 				(font
@@ -9973,7 +9973,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10uF/25V(20%)"
 			(at 129.54 36.8299 0)
 			(effects
 				(font
@@ -10110,7 +10110,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10K(1%)"
 			(at 205.74 59.6899 0)
 			(effects
 				(font
@@ -10180,7 +10180,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1K(1%)"
 			(at 149.86 138.4299 0)
 			(effects
 				(font
@@ -10383,7 +10383,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "5.1K(1%)"
 			(at 58.42 146.0499 0)
 			(effects
 				(font
@@ -12403,7 +12403,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1uF/50V(10%)"
 			(at 102.87 36.8299 0)
 			(effects
 				(font
