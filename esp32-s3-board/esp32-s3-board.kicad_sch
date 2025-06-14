@@ -7673,7 +7673,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1uF/50V(10%)"
 			(at 33.02 59.6899 0)
 			(effects
 				(font
@@ -7743,7 +7743,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10uF/25V(20%)"
 			(at 59.69 116.8399 0)
 			(effects
 				(font
@@ -7813,7 +7813,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1uF/50V(10%)"
 			(at 93.98 31.7499 0)
 			(effects
 				(font
@@ -8016,7 +8016,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "1uF/16V(10%)"
 			(at 39.37 171.4499 0)
 			(effects
 				(font
@@ -8217,7 +8217,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "22.1K(1%)"
 			(at 27.94 162.56 90)
 			(effects
 				(font
@@ -8554,7 +8554,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10K(1%)"
 			(at 96.52 31.7499 0)
 			(effects
 				(font
@@ -9121,7 +9121,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1K(1%)"
 			(at 41.91 171.4499 0)
 			(effects
 				(font
@@ -9325,7 +9325,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "5.1K(1%)"
 			(at 48.26 116.8399 0)
 			(effects
 				(font
@@ -9624,7 +9624,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a5f1f0fa-e8dd-4f8e-88e2-0a9a0e737dd4")
@@ -9637,7 +9637,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "5.1K(1%)"
 			(at 50.8 116.8399 0)
 			(effects
 				(font
@@ -10241,7 +10241,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "47.5K(1%)"
 			(at 34.29 171.4499 0)
 			(effects
 				(font
@@ -10311,7 +10311,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "1uF/16V(10%)"
 			(at 97.79 44.4499 0)
 			(effects
 				(font
@@ -10511,7 +10511,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10uF/25V(20%)"
 			(at 27.94 59.6899 0)
 			(effects
 				(font
@@ -10666,7 +10666,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10uF/25V(20%)"
 			(at 88.9 31.7499 0)
 			(effects
 				(font
@@ -10951,7 +10951,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1uF/50V(10%)"
 			(at 53.34 59.6899 0)
 			(effects
 				(font
@@ -11339,7 +11339,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10uF/25V(20%)"
 			(at 59.69 59.6899 0)
 			(effects
 				(font
@@ -11409,7 +11409,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10uF/25V(20%)"
 			(at 30.48 160.0199 0)
 			(effects
 				(font
