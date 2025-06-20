@@ -2,7 +2,7 @@ import processing.serial.*;
 import java.awt.Robot;
 import java.awt.event.KeyEvent;
 
-String port = "COM3";
+String port = "/dev/cu.usbserial-110";
 Serial serial;
 Robot robot;
 int i = 0;
@@ -24,7 +24,7 @@ void serialEvent(Serial p) {
   if (data == null) return;
   print(data);
   int keyCode = Integer.parseInt(data.substring(0, data.length() - 2));
+  if (keyCode<65||keyCode>90) return;
   robot.keyPress(keyCode);
-  robot.delay(1);
   robot.keyRelease(keyCode);
 }

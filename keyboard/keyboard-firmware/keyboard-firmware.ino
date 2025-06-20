@@ -45,8 +45,7 @@ void loop() {
   }
   if (send) {
     for (i = 0; i < 7; ++i) output |= pressed[i] << i;
-    if (90 - 64 < output) return;
-    Serial.println(64 + output);
+    Serial.println(output);
     send = false;
   }
 }
