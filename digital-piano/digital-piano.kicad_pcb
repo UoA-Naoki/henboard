@@ -132,13 +132,13 @@
 	(footprint "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
 		(layer "F.Cu")
 		(uuid "08e78513-8198-4693-8787-1efeeccda849")
-		(at 43.18 93.98)
+		(at 67.945 88.265)
 		(descr "<h3>Conductive Button</h3>\n<p>Used with rubber key pads on the <a href=\"https://www.sparkfun.com/products/retired/8602\">Nordic Key FOB</a>. This one was designed and proven to work with the <a href=\"https://www.sparkfun.com/products/retired/9377\">PolyCase Key FOB enclosures</a>.</p>")
 		(tags "SparkFun")
 		(property "Reference" "J5"
 			(at 0 6.3 180)
 			(layer "F.Fab")
-			(uuid "b5281f74-568e-44fd-b596-ad4f611dc382")
+			(uuid "04522910-d77c-4738-a795-a230ea54bb7d")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -151,7 +151,7 @@
 		(property "Value" "Conn_01x01"
 			(at 0 7.2 180)
 			(layer "F.Fab")
-			(uuid "4f2922eb-89ac-4f89-8f9c-a8a0fad8d6ba")
+			(uuid "b52b9ba1-ac31-4184-a7b9-7665757c235b")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -166,7 +166,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d9bc4556-5a22-4ac9-b5e9-e254fd0dd63d")
+			(uuid "3456d4ef-7508-4775-a5d5-cb5b9b20f033")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -179,7 +179,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1306dd5c-7007-49b2-b0a3-30e20fe36ded")
+			(uuid "3a697494-007d-444e-ac6e-ab1746371e41")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -192,7 +192,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c5f33f59-fcea-49a3-ab65-6483b5137078")
+			(uuid "4990893b-1586-49a6-8814-d1d261ce7d33")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -213,19 +213,30 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 0)
-			(uuid "6e35e67a-cd4b-4667-b516-a1eae1bb0ad5")
+			(uuid "8af3051f-1f66-47e9-a6b3-7caae7da3891")
+		)
+		(pad "1" smd roundrect
+			(at 0 0)
+			(size 10 10)
+			(layers "F.Cu" "F.Mask")
+			(roundrect_rratio 0.25)
+			(net 16 "TOUCH3")
+			(pinfunction "Pin_1")
+			(pintype "passive")
+			(thermal_bridge_angle 0)
+			(uuid "0b6e21df-ee49-4afb-8924-79005745c0be")
 		)
 	)
 	(footprint "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
 		(layer "F.Cu")
 		(uuid "1859a8cb-acf8-43af-9c51-e3bad91ece32")
-		(at 81.28 93.98)
+		(at 62.23 75.565)
 		(descr "<h3>Conductive Button</h3>\n<p>Used with rubber key pads on the <a href=\"https://www.sparkfun.com/products/retired/8602\">Nordic Key FOB</a>. This one was designed and proven to work with the <a href=\"https://www.sparkfun.com/products/retired/9377\">PolyCase Key FOB enclosures</a>.</p>")
 		(tags "SparkFun")
 		(property "Reference" "J10"
 			(at 0 6.3 180)
 			(layer "F.Fab")
-			(uuid "12d16488-2988-4818-b849-d07f4cd78996")
+			(uuid "76412514-6e57-4a1f-a55f-832553d64edf")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -238,7 +249,7 @@
 		(property "Value" "Conn_01x01"
 			(at 0 7.2 180)
 			(layer "F.Fab")
-			(uuid "63b77123-3754-407e-9bdd-04483fbb7435")
+			(uuid "b88e0740-a0e5-4b8e-a95b-7e4dd0a9bbbe")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -253,7 +264,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "968736cd-a9aa-438b-a066-a0324febf952")
+			(uuid "661de90f-5c6f-4416-9880-e9c317f1051f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -266,7 +277,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d32eeb97-f389-4ab9-98fe-413657a03288")
+			(uuid "8f428a32-999e-4855-889e-e6aab88e76f0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -279,7 +290,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1473b7e0-5c95-4fd7-859f-500ce64d98ae")
+			(uuid "b7e835ce-ae3e-4e40-ba47-63f73c98b902")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -300,19 +311,30 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 0)
-			(uuid "48524d9d-18eb-4544-9e31-a17aefc675a6")
+			(uuid "2ff5c9ee-ac10-46fa-9cfe-352ca33e11d4")
+		)
+		(pad "1" smd roundrect
+			(at 0 0)
+			(size 10 10)
+			(layers "F.Cu" "F.Mask")
+			(roundrect_rratio 0.25)
+			(net 19 "TOUCH8")
+			(pinfunction "Pin_1")
+			(pintype "passive")
+			(thermal_bridge_angle 0)
+			(uuid "ed07157a-3f5f-4ad1-97a2-6551b285bc4f")
 		)
 	)
 	(footprint "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
 		(layer "F.Cu")
 		(uuid "1b9b724f-c2f0-4865-99aa-169e6158a48b")
-		(at 99.06 78.74)
+		(at 83.82 75.565)
 		(descr "<h3>Conductive Button</h3>\n<p>Used with rubber key pads on the <a href=\"https://www.sparkfun.com/products/retired/8602\">Nordic Key FOB</a>. This one was designed and proven to work with the <a href=\"https://www.sparkfun.com/products/retired/9377\">PolyCase Key FOB enclosures</a>.</p>")
 		(tags "SparkFun")
 		(property "Reference" "J13"
 			(at 0 11.38 180)
 			(layer "F.Fab")
-			(uuid "75523a82-c861-4676-bb69-5e8cb3bf221b")
+			(uuid "79e203e5-8637-49db-85cb-7cd3cf5aaae6")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -325,7 +347,7 @@
 		(property "Value" "Conn_01x01"
 			(at 0 12.28 180)
 			(layer "F.Fab")
-			(uuid "05c8f34d-dbfc-4b71-85ea-d84292630ce2")
+			(uuid "51aa0673-e691-488c-8f4c-a01571195eff")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -340,7 +362,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "782d71f7-97ff-41de-b3ca-09c0863ff40f")
+			(uuid "74dc66bb-fb52-4775-b2bf-77bb543b2831")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -353,7 +375,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ae14cbcb-fef0-4908-be93-8350cdc667cd")
+			(uuid "9ea4d29f-7705-45b6-a447-7fdc82f8b87e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -366,7 +388,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c08108fe-7bd0-422a-bf23-3d70d61f41a4")
+			(uuid "f55bd607-a4e9-4088-8d41-4cb990b17a13")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -387,19 +409,30 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 0)
-			(uuid "1f07a493-4379-4705-a94d-d123c7cccd98")
+			(uuid "83129969-fbfe-45c5-ade6-7a5f064cc7d7")
+		)
+		(pad "1" smd roundrect
+			(at 0 0)
+			(size 10 10)
+			(layers "F.Cu" "F.Mask")
+			(roundrect_rratio 0.25)
+			(net 12 "TOUCH11")
+			(pinfunction "Pin_1")
+			(pintype "passive")
+			(thermal_bridge_angle 0)
+			(uuid "058ec459-af62-468b-88d6-a38f349c0d79")
 		)
 	)
 	(footprint "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
 		(layer "F.Cu")
 		(uuid "2f40f3dc-655f-407f-a6e3-68ebd98d76cd")
-		(at 38.1 78.74)
+		(at 29.845 75.565)
 		(descr "<h3>Conductive Button</h3>\n<p>Used with rubber key pads on the <a href=\"https://www.sparkfun.com/products/retired/8602\">Nordic Key FOB</a>. This one was designed and proven to work with the <a href=\"https://www.sparkfun.com/products/retired/9377\">PolyCase Key FOB enclosures</a>.</p>")
 		(tags "SparkFun")
 		(property "Reference" "J4"
 			(at 0 11.38 180)
 			(layer "F.Fab")
-			(uuid "bfab044a-16db-4339-b413-c8be70f25943")
+			(uuid "17d89115-4950-44fd-8679-d1970109de35")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -412,7 +445,7 @@
 		(property "Value" "Conn_01x01"
 			(at 0 12.28 180)
 			(layer "F.Fab")
-			(uuid "6c6fbf46-f403-4b2a-a1a5-13a217a4fb91")
+			(uuid "f1275fa6-9bc1-4b15-8fce-7cb41c85ebd7")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -427,7 +460,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "feac3326-f1f8-4bb1-b887-84d24ff56c11")
+			(uuid "33ccc8b8-ef9d-44d6-818f-4348fa4a2f25")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -440,7 +473,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "044ea71c-3975-4ed1-850e-e5acc3fa31a8")
+			(uuid "10905a38-29fd-4bb1-8596-6560a1d2a316")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -453,7 +486,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "226544cf-17ce-42de-ac95-708fcde20f72")
+			(uuid "b657229e-7b26-4537-bc7b-2693b2c20887")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -474,19 +507,30 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 0)
-			(uuid "c94c3983-bee8-4dc0-b6f4-bf6384b9cc32")
+			(uuid "4007c2e4-b89f-4260-aa21-6a6bf487e2f9")
+		)
+		(pad "1" smd roundrect
+			(at 0 0)
+			(size 10 10)
+			(layers "F.Cu" "F.Mask")
+			(roundrect_rratio 0.25)
+			(net 35 "TOUCH2")
+			(pinfunction "Pin_1")
+			(pintype "passive")
+			(thermal_bridge_angle 0)
+			(uuid "cdf68476-08e0-4b11-817e-9e098743d85f")
 		)
 	)
 	(footprint "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
 		(layer "F.Cu")
 		(uuid "37a5964d-e1c6-45f3-b6f7-5ba2af25db20")
-		(at 73.66 78.74)
+		(at 57.15 88.265)
 		(descr "<h3>Conductive Button</h3>\n<p>Used with rubber key pads on the <a href=\"https://www.sparkfun.com/products/retired/8602\">Nordic Key FOB</a>. This one was designed and proven to work with the <a href=\"https://www.sparkfun.com/products/retired/9377\">PolyCase Key FOB enclosures</a>.</p>")
 		(tags "SparkFun")
 		(property "Reference" "J9"
 			(at 0 11.38 180)
 			(layer "F.Fab")
-			(uuid "95b8989d-b603-44bd-a3ed-e8c0079130f9")
+			(uuid "e9a3b87e-45d7-4ad5-b0c1-cda8b78f42bd")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -499,7 +543,7 @@
 		(property "Value" "Conn_01x01"
 			(at 0 12.28 180)
 			(layer "F.Fab")
-			(uuid "ed59a8ef-68ba-47f1-a2d4-7b834dde72a1")
+			(uuid "d3cade51-1628-47b9-932c-7ffc7b320015")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -514,7 +558,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e449dc43-9a88-4b33-a4cf-c9f730bbd309")
+			(uuid "29e0c0ae-5930-467e-89c8-609ee68152a6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -527,7 +571,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b595a4a2-f51f-4f1a-a7f9-44b04693ad92")
+			(uuid "4939fb3b-28c2-419a-9524-84b73b556901")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -540,7 +584,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "429249b9-a0d2-41b5-90d8-011b6a4be19c")
+			(uuid "52c9f108-ac88-474c-8861-96582eb21352")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -561,7 +605,18 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 0)
-			(uuid "c75e6a23-91ef-47d5-8df5-e6e33b05120e")
+			(uuid "8958089e-a7fb-425e-8a0a-51945f76d0b8")
+		)
+		(pad "1" smd roundrect
+			(at 0 0)
+			(size 10 10)
+			(layers "F.Cu" "F.Mask")
+			(roundrect_rratio 0.25)
+			(net 6 "TOUCH7")
+			(pinfunction "Pin_1")
+			(pintype "passive")
+			(thermal_bridge_angle 0)
+			(uuid "7f1c32e1-92d9-45d8-b6c6-6e348281b703")
 		)
 	)
 	(footprint "SKRPACE010:SKRPACE010"
@@ -942,13 +997,13 @@
 	(footprint "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
 		(layer "F.Cu")
 		(uuid "40a8210f-a19e-45ad-be7b-78dcf59f6fbe")
-		(at 86.36 78.74)
+		(at 73.025 75.565)
 		(descr "<h3>Conductive Button</h3>\n<p>Used with rubber key pads on the <a href=\"https://www.sparkfun.com/products/retired/8602\">Nordic Key FOB</a>. This one was designed and proven to work with the <a href=\"https://www.sparkfun.com/products/retired/9377\">PolyCase Key FOB enclosures</a>.</p>")
 		(tags "SparkFun")
 		(property "Reference" "J11"
 			(at 0 11.38 180)
 			(layer "F.Fab")
-			(uuid "d928f73c-7c65-4adc-beb1-658fcdd19e17")
+			(uuid "61f97dce-7175-4207-9e3e-ae1ecd5011cc")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -961,7 +1016,7 @@
 		(property "Value" "Conn_01x01"
 			(at 0 12.28 180)
 			(layer "F.Fab")
-			(uuid "c4468efa-96d1-430b-acd8-94f7cbe6e66b")
+			(uuid "9fd0e2ac-a6cf-4363-935a-cf65ef3843dd")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -976,7 +1031,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "891fce55-91ad-4d10-b938-8da59c9f606b")
+			(uuid "915e859b-5127-44fe-b9ea-ae0a3ecfbb50")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -989,7 +1044,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "14d0ae8e-e6f3-4a30-b94e-853a466cd346")
+			(uuid "befeee3c-90ff-45a2-8c36-bcc2e0e43ef2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1002,7 +1057,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "594adc80-c6e6-457a-93f6-7000f72ac65f")
+			(uuid "d8a67b62-25c5-4fdd-8264-22654fe5d87c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1023,7 +1078,18 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 0)
-			(uuid "f9efa48e-4c27-420b-9f2d-251e7daac1a4")
+			(uuid "593c0c28-07b6-48f8-adbc-da982bcec01d")
+		)
+		(pad "1" smd roundrect
+			(at 0 0)
+			(size 10 10)
+			(layers "F.Cu" "F.Mask")
+			(roundrect_rratio 0.25)
+			(net 13 "TOUCH9")
+			(pinfunction "Pin_1")
+			(pintype "passive")
+			(thermal_bridge_angle 0)
+			(uuid "23c43df4-84d3-44ff-a008-feaed291ecc6")
 		)
 	)
 	(footprint "SKRPACE010:SKRPACE010"
@@ -3128,13 +3194,13 @@
 	(footprint "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
 		(layer "F.Cu")
 		(uuid "9f3f48fe-e34c-46ab-9eca-e3b8199e5b0a")
-		(at 93.98 93.98)
+		(at 78.74 88.265)
 		(descr "<h3>Conductive Button</h3>\n<p>Used with rubber key pads on the <a href=\"https://www.sparkfun.com/products/retired/8602\">Nordic Key FOB</a>. This one was designed and proven to work with the <a href=\"https://www.sparkfun.com/products/retired/9377\">PolyCase Key FOB enclosures</a>.</p>")
 		(tags "SparkFun")
 		(property "Reference" "J12"
 			(at 0 6.3 180)
 			(layer "F.Fab")
-			(uuid "2d590d36-b12d-408b-86df-37ca55eeae40")
+			(uuid "ef11c4b5-a1d4-4b8b-8214-758d309b0e1b")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -3147,7 +3213,7 @@
 		(property "Value" "Conn_01x01"
 			(at 0 7.2 180)
 			(layer "F.Fab")
-			(uuid "d4d69c19-5551-41e8-b446-553fbdd31097")
+			(uuid "73cb2055-aa82-4495-be72-2bab81391d45")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -3162,7 +3228,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b9831cb5-271c-4f48-a0b9-afe228e5675b")
+			(uuid "9599205b-3448-46b2-bec6-0535e63899f5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3175,7 +3241,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9ef269d3-feba-4ed3-adb8-96f2a57b874f")
+			(uuid "1c3c92fc-9b63-4c13-bb94-e1de08fd1c3b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3188,7 +3254,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e935e78f-49f9-470e-bea4-07ea5cd524f8")
+			(uuid "9a3da380-dfdf-43cb-b755-4806dc619cc5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3209,19 +3275,30 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 0)
-			(uuid "0a505c15-36fe-4e71-87b7-30b0aea09207")
+			(uuid "622d7720-9264-435f-acb9-af0973af6fed")
+		)
+		(pad "1" smd roundrect
+			(at 0 0)
+			(size 10 10)
+			(layers "F.Cu" "F.Mask")
+			(roundrect_rratio 0.25)
+			(net 2 "TOUCH10")
+			(pinfunction "Pin_1")
+			(pintype "passive")
+			(thermal_bridge_angle 0)
+			(uuid "caf4d5e0-3c4d-4740-97b8-9682d4688ef3")
 		)
 	)
 	(footprint "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
 		(layer "F.Cu")
 		(uuid "b2b96054-abb1-4eb7-a894-628df9a3a016")
-		(at 68.58 93.98)
+		(at 46.355 88.265)
 		(descr "<h3>Conductive Button</h3>\n<p>Used with rubber key pads on the <a href=\"https://www.sparkfun.com/products/retired/8602\">Nordic Key FOB</a>. This one was designed and proven to work with the <a href=\"https://www.sparkfun.com/products/retired/9377\">PolyCase Key FOB enclosures</a>.</p>")
 		(tags "SparkFun")
 		(property "Reference" "J8"
 			(at 0 6.3 180)
 			(layer "F.Fab")
-			(uuid "58a8fc48-650f-4ce0-be01-51d970281efc")
+			(uuid "95c6131d-e6e9-4411-99ad-c847d84ba046")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -3234,7 +3311,7 @@
 		(property "Value" "Conn_01x01"
 			(at 0 7.2 180)
 			(layer "F.Fab")
-			(uuid "56d946aa-cec8-41f1-8ab6-39cdf12f8198")
+			(uuid "fe3623e5-a7e2-40f7-b469-b6061a920607")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -3249,7 +3326,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7cc2425a-90d2-4a53-b001-5589f04a51eb")
+			(uuid "7efe0081-31bf-44c0-b782-361f7b04f96f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3262,7 +3339,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ae887691-f4ea-48d4-bfb7-a82a6e93b202")
+			(uuid "49a06304-52ff-4532-9b04-a76489ec5f8e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3275,7 +3352,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ddf91e20-b8ab-4f47-aa2f-b6a913b59f19")
+			(uuid "f69ade70-3260-4233-b8c7-6cc4db107b9a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3296,19 +3373,30 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 0)
-			(uuid "599fc387-5601-4613-a582-d02b6d9d33e1")
+			(uuid "5a6de1c8-350b-4a5f-9dd5-f644faecec63")
+		)
+		(pad "1" smd roundrect
+			(at 0 0)
+			(size 10 10)
+			(layers "F.Cu" "F.Mask")
+			(roundrect_rratio 0.25)
+			(net 11 "TOUCH6")
+			(pinfunction "Pin_1")
+			(pintype "passive")
+			(thermal_bridge_angle 0)
+			(uuid "c638ebf9-cdf1-407c-bdb2-46f53f353147")
 		)
 	)
 	(footprint "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
 		(layer "F.Cu")
 		(uuid "c8678ccd-bc65-4e5e-b115-665c745a8635")
-		(at 106.68 93.98)
+		(at 89.535 88.265)
 		(descr "<h3>Conductive Button</h3>\n<p>Used with rubber key pads on the <a href=\"https://www.sparkfun.com/products/retired/8602\">Nordic Key FOB</a>. This one was designed and proven to work with the <a href=\"https://www.sparkfun.com/products/retired/9377\">PolyCase Key FOB enclosures</a>.</p>")
 		(tags "SparkFun")
 		(property "Reference" "J14"
 			(at 0 6.3 180)
 			(layer "F.Fab")
-			(uuid "f2962803-1a2c-4f3a-884d-ca7413b93071")
+			(uuid "eb35009e-9dd5-4a99-9545-928caf5ee85a")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -3321,7 +3409,7 @@
 		(property "Value" "Conn_01x01"
 			(at 0 7.2 180)
 			(layer "F.Fab")
-			(uuid "f2fa4d2e-b97a-49ab-9689-eeec9cf2006f")
+			(uuid "0f7aa6af-12b9-443e-b69d-633aadcda8d2")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -3336,7 +3424,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "be5e5f85-f28e-4330-b58d-19e8892d880f")
+			(uuid "967f39b6-5359-4bda-b386-b5d7d27f9829")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3349,7 +3437,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "07385fe9-7766-4bce-afb8-c8ccd01359a5")
+			(uuid "5f4c64bd-ffd6-4dd6-bd48-a7fe2ca748ed")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3362,7 +3450,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f92541e3-595b-49a9-b078-35bd1efbe78f")
+			(uuid "ad68a23a-0907-4693-9648-5da225324c23")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3383,19 +3471,30 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 0)
-			(uuid "0604b1e4-f074-4a68-8db9-aba4a15b65f3")
+			(uuid "f7e44e32-5c96-49ed-986d-d61abd97a293")
+		)
+		(pad "1" smd roundrect
+			(at 0 0)
+			(size 10 10)
+			(layers "F.Cu" "F.Mask")
+			(roundrect_rratio 0.25)
+			(net 17 "TOUCH12")
+			(pinfunction "Pin_1")
+			(pintype "passive")
+			(thermal_bridge_angle 0)
+			(uuid "43861866-9508-4deb-8935-e95efefef746")
 		)
 	)
 	(footprint "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
 		(layer "F.Cu")
 		(uuid "d5924ff4-d26c-47f8-bb20-45d9ff7151f9")
-		(at 30.48 93.98)
+		(at 24.765 88.265)
 		(descr "<h3>Conductive Button</h3>\n<p>Used with rubber key pads on the <a href=\"https://www.sparkfun.com/products/retired/8602\">Nordic Key FOB</a>. This one was designed and proven to work with the <a href=\"https://www.sparkfun.com/products/retired/9377\">PolyCase Key FOB enclosures</a>.</p>")
 		(tags "SparkFun")
 		(property "Reference" "J3"
 			(at 0 6.3 180)
 			(layer "F.Fab")
-			(uuid "7e6e31f8-76cb-4a28-ab9f-1e569eb23e72")
+			(uuid "b54433b0-1c05-42ba-8919-58507073181b")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -3408,7 +3507,7 @@
 		(property "Value" "Conn_01x01"
 			(at 0 7.2 180)
 			(layer "F.Fab")
-			(uuid "6b31a426-c773-4b0f-8069-69099cb0764e")
+			(uuid "c2a092d0-3f10-4aab-a47d-92583376555c")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -3423,7 +3522,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "af57cb61-dbe8-4c29-8ef9-d3da8f5afe98")
+			(uuid "c3224723-2142-4f62-8241-61becf78ae8c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3436,7 +3535,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f1dbe71c-afb1-4e92-9f86-fe409565c6e3")
+			(uuid "ea20db51-b4d3-4796-a006-4c29a5c19aae")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3449,7 +3548,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ef7820ce-0105-491c-ae2d-567c8ee1c420")
+			(uuid "1f577306-d3ba-4c20-a57a-efadf2c827d9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3470,19 +3569,30 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 0)
-			(uuid "dadf2a94-fd43-4d7e-a55c-48874e01203d")
+			(uuid "00736cd5-20b2-4851-8974-97136685ded6")
+		)
+		(pad "1" smd roundrect
+			(at 0 0)
+			(size 10 10)
+			(layers "F.Cu" "F.Mask")
+			(roundrect_rratio 0.25)
+			(net 30 "TOUCH1")
+			(pinfunction "Pin_1")
+			(pintype "passive")
+			(thermal_bridge_angle 0)
+			(uuid "d947e8eb-422f-41f0-a9b0-0211a31b553d")
 		)
 	)
 	(footprint "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
 		(layer "F.Cu")
 		(uuid "e777945c-cd47-4db8-b80e-7aba49c78453")
-		(at 55.88 93.98)
+		(at 40.64 75.565)
 		(descr "<h3>Conductive Button</h3>\n<p>Used with rubber key pads on the <a href=\"https://www.sparkfun.com/products/retired/8602\">Nordic Key FOB</a>. This one was designed and proven to work with the <a href=\"https://www.sparkfun.com/products/retired/9377\">PolyCase Key FOB enclosures</a>.</p>")
 		(tags "SparkFun")
 		(property "Reference" "J7"
 			(at 0 6.3 180)
 			(layer "F.Fab")
-			(uuid "fb3adce1-13b0-4c1e-8291-f04771e6ccc6")
+			(uuid "d1947659-fadb-467d-9c29-c0fad2294244")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -3495,7 +3605,7 @@
 		(property "Value" "Conn_01x01"
 			(at 0 7.2 180)
 			(layer "F.Fab")
-			(uuid "af5956d3-030f-45ba-af33-6d54abfa21b2")
+			(uuid "00a23965-2857-4cd8-99ea-06287446d64a")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -3510,7 +3620,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3bee4560-9716-4946-9325-700111bf207c")
+			(uuid "e51277fb-4bf4-4de6-ad58-9dd7e7923c91")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3523,7 +3633,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4052f148-94ce-4f5a-a21c-82cd7743e7f4")
+			(uuid "171947be-d321-4ee7-a22e-5091e86e6e7d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3536,7 +3646,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fbfc40a3-bf7e-48c3-9f85-ebcdeadc8f2e")
+			(uuid "3a25d3d2-b063-4a95-a760-40311a50dc2f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3557,19 +3667,30 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 0)
-			(uuid "b48cfe92-b0b2-4fbf-bddc-6b6c9727d163")
+			(uuid "a85d2c20-f26e-4459-9acd-7d3cca18acc3")
+		)
+		(pad "1" smd roundrect
+			(at 0 0)
+			(size 10 10)
+			(layers "F.Cu" "F.Mask")
+			(roundrect_rratio 0.25)
+			(net 7 "TOUCH5")
+			(pinfunction "Pin_1")
+			(pintype "passive")
+			(thermal_bridge_angle 0)
+			(uuid "4b5d704f-ac5a-4669-b8de-54cb77a78f87")
 		)
 	)
 	(footprint "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
 		(layer "F.Cu")
 		(uuid "e9367557-2c71-4c03-ab8c-f88be8237cf2")
-		(at 124.46 78.74)
+		(at 102.235 88.265)
 		(descr "<h3>Conductive Button</h3>\n<p>Used with rubber key pads on the <a href=\"https://www.sparkfun.com/products/retired/8602\">Nordic Key FOB</a>. This one was designed and proven to work with the <a href=\"https://www.sparkfun.com/products/retired/9377\">PolyCase Key FOB enclosures</a>.</p>")
 		(tags "SparkFun")
 		(property "Reference" "J16"
 			(at 0 6.3 180)
 			(layer "F.Fab")
-			(uuid "96e1051e-6626-4e34-8df9-37d5f942609d")
+			(uuid "f16786aa-11c7-424f-8b45-f02f2f277ad3")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -3582,7 +3703,7 @@
 		(property "Value" "Conn_01x01"
 			(at 0 7.2 180)
 			(layer "F.Fab")
-			(uuid "8dad8829-9087-482c-8f53-ddb4ed83d1a1")
+			(uuid "fc0f26ae-771f-4421-9104-52a71b0f7220")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -3597,7 +3718,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e8feb2b3-599e-4d64-9f95-1a257a1346f7")
+			(uuid "8d0c161e-474f-4516-82b2-ee70a5856f29")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3610,7 +3731,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "aa620923-4388-4d5a-9971-e810ff7ac4c2")
+			(uuid "09fc4e0f-8150-4cf4-bfbe-54e7650caaa6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3623,7 +3744,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "41ac7b91-9309-441f-b388-d812387fb934")
+			(uuid "7aad14ba-2641-42d9-8014-4b56a24927ca")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3644,19 +3765,30 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 0)
-			(uuid "c5cf97dd-bbef-4d5d-a1f3-fd2115d97d68")
+			(uuid "41238f56-05d1-497e-a8bb-5a7d0b355ebf")
+		)
+		(pad "1" smd roundrect
+			(at 0 0)
+			(size 10 10)
+			(layers "F.Cu" "F.Mask")
+			(roundrect_rratio 0.25)
+			(net 20 "TOUCH13")
+			(pinfunction "Pin_1")
+			(pintype "passive")
+			(thermal_bridge_angle 0)
+			(uuid "8913d74c-ae1e-497c-931c-e478808f4054")
 		)
 	)
 	(footprint "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
 		(layer "F.Cu")
 		(uuid "f00aed14-4c86-40ae-8e2a-4e297297f625")
-		(at 124.46 93.98)
+		(at 102.235 76.2)
 		(descr "<h3>Conductive Button</h3>\n<p>Used with rubber key pads on the <a href=\"https://www.sparkfun.com/products/retired/8602\">Nordic Key FOB</a>. This one was designed and proven to work with the <a href=\"https://www.sparkfun.com/products/retired/9377\">PolyCase Key FOB enclosures</a>.</p>")
 		(tags "SparkFun")
 		(property "Reference" "J15"
 			(at 0 7.62 180)
 			(layer "F.Fab")
-			(uuid "1cd50eca-6e3d-45c0-a624-e5dd012ef1d8")
+			(uuid "eff7fceb-6b22-4c23-a777-0918d9a54994")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -3669,7 +3801,7 @@
 		(property "Value" "Conn_01x01"
 			(at 0 10.16 180)
 			(layer "F.Fab")
-			(uuid "a3a69af5-b986-4bfb-872d-96596fc2ed51")
+			(uuid "5af67b79-9ca1-4d46-abcf-4f2a6e3e91c9")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -3684,7 +3816,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9c488d7f-b522-4c79-9471-3baf4513b342")
+			(uuid "40dd2940-ec2d-4ac1-83c0-e674f7bce9fa")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3697,7 +3829,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a09ff5ce-bfbb-466b-9ea8-bf89744110b1")
+			(uuid "97b06797-a2e4-4893-8b63-d0c78c893094")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3710,7 +3842,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a5a61ec1-7911-4c90-8a64-a47851dd32a6")
+			(uuid "49c0a1a7-9046-4060-a24b-5ed7fb4bc200")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3731,19 +3863,30 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 0)
-			(uuid "2fb1f346-aa01-4078-b7d3-76a0c4853ae2")
+			(uuid "115eda80-efba-4515-a7b2-7b21ab9682ce")
+		)
+		(pad "1" smd roundrect
+			(at 0 0)
+			(size 10 10)
+			(layers "F.Cu" "F.Mask")
+			(roundrect_rratio 0.25)
+			(net 8 "TOUCH14")
+			(pinfunction "Pin_1")
+			(pintype "passive")
+			(thermal_bridge_angle 0)
+			(uuid "3100cad5-2ff9-4804-9adb-d1ce1e7d4998")
 		)
 	)
 	(footprint "Pad-CapacitiveTouch:Pad-CapacitiveTouch"
 		(layer "F.Cu")
 		(uuid "f4c9a8ff-06ff-4005-9dd7-cf1c00082734")
-		(at 50.8 78.74)
+		(at 35.56 88.265)
 		(descr "<h3>Conductive Button</h3>\n<p>Used with rubber key pads on the <a href=\"https://www.sparkfun.com/products/retired/8602\">Nordic Key FOB</a>. This one was designed and proven to work with the <a href=\"https://www.sparkfun.com/products/retired/9377\">PolyCase Key FOB enclosures</a>.</p>")
 		(tags "SparkFun")
 		(property "Reference" "J6"
 			(at 0 11.38 180)
 			(layer "F.Fab")
-			(uuid "a2b33de3-1558-45e6-b4e1-5574fce666d1")
+			(uuid "650f83c6-3b4f-4368-ac4e-8338a08f1935")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -3756,7 +3899,7 @@
 		(property "Value" "Conn_01x01"
 			(at 0 12.28 180)
 			(layer "F.Fab")
-			(uuid "b8fdf9ba-8556-4ca5-85e0-edf65df1eacd")
+			(uuid "0dfdb240-63e2-4269-8374-8276458df6ee")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -3771,7 +3914,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5326f3c2-33e2-45bf-b45d-2194c7d7fd75")
+			(uuid "a9cd3c3f-f845-4d9c-92d5-ef4fb7e29b4a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3784,7 +3927,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "490e7cde-353b-440d-b72d-7857aeb477b0")
+			(uuid "91f5a64f-8091-4158-8d13-66cb9e972938")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3797,7 +3940,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bf0b3005-3e91-492e-9a70-4b997c41e11d")
+			(uuid "c274fb38-87ae-41b6-aba6-a58e675324b4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3818,19 +3961,272 @@
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(thermal_bridge_angle 0)
-			(uuid "11bc9599-5c0b-4848-8f45-3204602f9918")
+			(uuid "dc8a98fe-c313-41b6-a31e-2a141b93fd0c")
+		)
+		(pad "1" smd roundrect
+			(at 0 0)
+			(size 10 10)
+			(layers "F.Cu" "F.Mask")
+			(roundrect_rratio 0.25)
+			(net 10 "TOUCH4")
+			(pinfunction "Pin_1")
+			(pintype "passive")
+			(thermal_bridge_angle 0)
+			(uuid "31a88dc8-765e-4bdd-b63e-ae29b4d1313f")
 		)
 	)
 	(gr_rect
-		(start 17.78 30.48)
-		(end 134.62 101.6)
+		(start 19.05 31.75)
+		(end 108.585 94.615)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(fill none)
 		(layer "Edge.Cuts")
-		(uuid "6e2ed497-7302-4423-8803-934f7d1f5d03")
+		(uuid "89f10ff6-0c93-4c3e-be9a-8d782f11073d")
+	)
+	(gr_text "16"
+		(at 43.18 60.96 90)
+		(layer "F.SilkS")
+		(uuid "11024ad9-8255-4d07-ad52-d43cb5762342")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "18"
+		(at 48.26 60.96 90)
+		(layer "F.SilkS")
+		(uuid "425dee35-b030-4490-90ac-67481d58cef1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "14"
+		(at 71.12 60.96 90)
+		(layer "F.SilkS")
+		(uuid "438f7fc9-ac92-4ee0-b7c9-f5183182d8b3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "G"
+		(at 76.2 33.02 90)
+		(layer "F.SilkS")
+		(uuid "43df4c9b-d5e9-45bc-b8f5-b44d44d9cf77")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "5"
+		(at 33.02 60.96 90)
+		(layer "F.SilkS")
+		(uuid "57a21b4a-9bc8-461e-9220-326ef453db32")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "17"
+		(at 45.72 60.96 90)
+		(layer "F.SilkS")
+		(uuid "63d634df-f938-4df6-abef-0cccef64fefa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "6"
+		(at 35.56 60.96 90)
+		(layer "F.SilkS")
+		(uuid "65111155-cc18-474f-9090-19387163c948")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "13"
+		(at 68.58 60.96 90)
+		(layer "F.SilkS")
+		(uuid "721926de-9e45-4185-8d01-bfe76a765af0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "2"
+		(at 33.02 33.02 90)
+		(layer "F.SilkS")
+		(uuid "912686ae-fd57-4b29-bc98-41d3932c379c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "1"
+		(at 30.48 33.02 90)
+		(layer "F.SilkS")
+		(uuid "94b91407-5f8b-45bb-9e6a-0ca9a7606089")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "G"
+		(at 73.66 33.02 90)
+		(layer "F.SilkS")
+		(uuid "bcbce411-cf38-4605-9bc8-86a9ab8af87c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "7"
+		(at 38.1 60.96 90)
+		(layer "F.SilkS")
+		(uuid "c23fd5e8-ff3a-4dec-a5de-2f06acc17c06")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "10"
+		(at 60.96 60.96 90)
+		(layer "F.SilkS")
+		(uuid "c8ee5462-82d4-475a-943b-6ed148bbef1b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "3"
+		(at 53.34 60.96 90)
+		(layer "F.SilkS")
+		(uuid "c98519c7-820e-4eff-a53f-9e13f40de799")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "4"
+		(at 30.48 60.96 90)
+		(layer "F.SilkS")
+		(uuid "d44548ef-0ace-4543-910e-4a826c757be3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "G"
+		(at 76.2 60.96 90)
+		(layer "F.SilkS")
+		(uuid "d863d016-ba8f-4d50-afcf-2130cd32c82b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "G"
+		(at 22.86 33.02 90)
+		(layer "F.SilkS")
+		(uuid "db4682d7-427c-4591-b3b2-093db1972e3f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "9"
+		(at 58.42 60.96 90)
+		(layer "F.SilkS")
+		(uuid "db98aa1f-278c-481a-8efa-c3ecbd0cd69a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "8"
+		(at 50.8 60.96 90)
+		(layer "F.SilkS")
+		(uuid "e02cb9d0-7b05-4be0-8ca7-adb6aa24507d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "11"
+		(at 63.5 60.96 90)
+		(layer "F.SilkS")
+		(uuid "e1ee64c5-b2ac-47c3-bb38-ecc78cc6156d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "15"
+		(at 40.64 60.96 90)
+		(layer "F.SilkS")
+		(uuid "e6709dc4-265b-4d3b-93f3-ef384268298e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "12"
+		(at 66.04 60.96 90)
+		(layer "F.SilkS")
+		(uuid "e7138e74-faba-4a3c-908e-6df45b7ded81")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
 	)
 	(segment
 		(start 91.905 44.645)
@@ -3865,100 +4261,44 @@
 		(uuid "9dd0d601-4f5b-483a-8d39-7f6bb7d01631")
 	)
 	(segment
-		(start 93.98 93.98)
-		(end 91.66 91.66)
+		(start 78.325 87.85)
+		(end 78.325 71.9052)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 2)
-		(uuid "0e019bc0-ad0e-4ef9-ad03-aac29517e3eb")
+		(uuid "34a028d6-0173-4f9b-9310-696fa1a3d6c1")
 	)
 	(segment
-		(start 76.2 72.84)
-		(end 75.38 72.84)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 2)
-		(uuid "1720ce79-667c-4589-b95c-7ec5c9a79eb7")
-	)
-	(segment
-		(start 93.98 93.98)
-		(end 94.2 93.76)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 2)
-		(uuid "9c3c293b-d48b-4b9f-b3db-a3e59306c41d")
-	)
-	(segment
-		(start 78.96 80.2998)
-		(end 78.96 74.26)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 2)
-		(uuid "ab2451f3-12a8-466b-802a-94c3344f3c25")
-	)
-	(segment
-		(start 78.96 74.26)
-		(end 78.74 74.04)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 2)
-		(uuid "ad5b619a-ee15-4fa0-911e-fc6f3d1c46df")
-	)
-	(segment
-		(start 90.3202 91.66)
-		(end 78.96 80.2998)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 2)
-		(uuid "b19f5a91-abda-496b-9e49-737a30c3079e")
-	)
-	(segment
-		(start 75.38 72.84)
+		(start 72.39 69.85)
 		(end 60.96 58.42)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 2)
-		(uuid "d624dd99-be92-4b19-aa1b-a57c49fbf8f1")
+		(uuid "3e5d5c88-e8d1-4f7b-851e-27d2ce5db7e7")
 	)
 	(segment
-		(start 91.66 91.66)
-		(end 90.3202 91.66)
+		(start 76.2698 69.85)
+		(end 72.39 69.85)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 2)
-		(uuid "eb1c5031-e99b-4fe6-b63c-e92b3964d52d")
-	)
-	(via
-		(at 78.74 74.04)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net 2)
-		(uuid "676c8b5c-4629-49e0-8922-9873c6a1f1f7")
-	)
-	(via
-		(at 76.2 72.84)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net 2)
-		(uuid "9cfe1d9a-6cef-44e3-9f11-40f728d185fb")
+		(uuid "5f7b7317-a9c5-49da-bac4-17bb1dd8710f")
 	)
 	(segment
-		(start 77.4 74.04)
-		(end 76.2 72.84)
+		(start 78.74 88.265)
+		(end 78.325 87.85)
 		(width 0.2)
-		(layer "B.Cu")
+		(layer "F.Cu")
 		(net 2)
-		(uuid "3b647408-1d9f-4a1b-a6aa-0346d4aabf6a")
+		(uuid "99575dea-6419-4ce5-90c8-ec528567b502")
 	)
 	(segment
-		(start 78.74 74.04)
-		(end 77.4 74.04)
+		(start 78.325 71.9052)
+		(end 76.2698 69.85)
 		(width 0.2)
-		(layer "B.Cu")
+		(layer "F.Cu")
 		(net 2)
-		(uuid "55ede2ed-adab-4388-81de-a5ce32c2e8c4")
+		(uuid "d62144e0-db83-41d6-86f4-c76acafa42d4")
 	)
 	(segment
 		(start 96.88 42.54)
@@ -4129,204 +4469,172 @@
 		(uuid "962713a7-cad7-429f-988c-13e18909cc56")
 	)
 	(segment
-		(start 38.1 58.42)
-		(end 48.26 68.58)
+		(start 56.93 77.25)
+		(end 38.1 58.42)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 6)
-		(uuid "47ac6c1a-c363-43a0-a7ee-e56201f36921")
+		(uuid "63735e2a-92ca-4914-a4ba-0f20c41e7b39")
 	)
 	(segment
-		(start 48.26 68.58)
-		(end 63.5 68.58)
+		(start 57.15 88.265)
+		(end 56.93 88.045)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 6)
-		(uuid "a9ec11ab-a8c0-4e3f-949b-99366ddaa985")
+		(uuid "dae52fd3-99a9-4bbb-8ad8-006e8e5aa03e")
 	)
 	(segment
-		(start 63.5 68.58)
-		(end 73.66 78.74)
+		(start 56.93 88.045)
+		(end 56.93 77.25)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 6)
-		(uuid "e14a75f8-901e-47c2-a4ea-4187c1ebb175")
+		(uuid "e432763f-3217-4884-9ce1-3da19b9a265d")
 	)
 	(segment
-		(start 56.1 92.5598)
-		(end 56.1 75.0802)
+		(start 40.64 75.565)
+		(end 40.64 66.04)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 7)
-		(uuid "82fed6de-d4aa-438f-8f88-6c03bdf72158")
+		(uuid "93e3dcdb-d5f9-41da-a528-e3f41e60d7e9")
 	)
 	(segment
-		(start 55.88 93.98)
-		(end 55.88 92.7798)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 7)
-		(uuid "b52a63cf-ea93-4f3d-aa84-c29489f2655f")
-	)
-	(segment
-		(start 55.88 92.7798)
-		(end 56.1 92.5598)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 7)
-		(uuid "b7cd2b16-7301-4a20-b018-f90f7f458a4a")
-	)
-	(segment
-		(start 56.1 75.0802)
-		(end 54.4598 73.44)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 7)
-		(uuid "c6a9ce0e-7f68-4f36-9678-c7845d28dfd5")
-	)
-	(segment
-		(start 53.34 93.98)
-		(end 54.49 92.83)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 7)
-		(uuid "d4410906-e7b4-480c-9c2e-47f0dd9ad44a")
-	)
-	(segment
-		(start 54.4598 73.44)
-		(end 48.04 73.44)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 7)
-		(uuid "ebd842d2-6f24-4686-a605-5408d245655a")
-	)
-	(segment
-		(start 48.04 73.44)
+		(start 40.64 66.04)
 		(end 33.02 58.42)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 7)
-		(uuid "f1bd2618-f421-484c-a54a-95d6d7283186")
+		(uuid "f823cc44-3446-434f-8b7c-c8c5c09353c4")
 	)
 	(segment
-		(start 79.1 66.4)
-		(end 96.88 66.4)
+		(start 95.885 76.2)
+		(end 86.36 66.675)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 8)
-		(uuid "3f2bc8a9-61ad-49d0-8fd2-060d1514ed06")
+		(uuid "18baf4a1-617c-4e56-9f72-7cbff85ff4f6")
 	)
 	(segment
-		(start 71.12 58.42)
-		(end 79.1 66.4)
+		(start 77.47 64.77)
+		(end 71.12 58.42)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 8)
-		(uuid "6398d061-51d1-4075-b1ac-e2dbe0641b63")
+		(uuid "3d6fdf52-0e95-4ec4-8e3c-cab181b7cf08")
 	)
 	(segment
-		(start 96.88 66.4)
-		(end 124.46 93.98)
+		(start 102.235 76.2)
+		(end 95.885 76.2)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 8)
-		(uuid "f7f6824c-eac2-4e15-b4f5-8559b1525bee")
+		(uuid "a053fb6f-4c58-4a57-9486-1657c02077fd")
 	)
 	(segment
-		(start 30.48 58.42)
-		(end 50.8 78.74)
+		(start 86.36 66.675)
+		(end 83.185 66.675)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 8)
+		(uuid "d0867942-6798-49c2-9220-d971bf367e4f")
+	)
+	(segment
+		(start 83.185 66.675)
+		(end 81.28 64.77)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 8)
+		(uuid "e2927674-e909-4bd3-8ab8-276fd2b4a671")
+	)
+	(segment
+		(start 81.28 64.77)
+		(end 77.47 64.77)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 8)
+		(uuid "ff280953-b4fe-413d-8f6e-158cac34d1c8")
+	)
+	(segment
+		(start 35.56 88.265)
+		(end 35.34 88.045)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 10)
-		(uuid "6515e601-1d03-4919-875d-76c918b15815")
+		(uuid "0a1b16ee-7cd5-4089-bc70-299a6d21932e")
 	)
 	(segment
-		(start 53.34 71.12)
-		(end 68.58 86.36)
+		(start 35.34 63.28)
+		(end 30.48 58.42)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 10)
+		(uuid "3383d833-4bfc-4e8b-9b97-d4029eafcb7c")
+	)
+	(segment
+		(start 35.34 88.045)
+		(end 35.34 63.28)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 10)
+		(uuid "592815a0-0d5a-4973-b618-73e63f080324")
+	)
+	(segment
+		(start 46.355 88.265)
+		(end 46.355 69.215)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 11)
-		(uuid "0137208c-6f35-4f84-929b-06d953340644")
+		(uuid "3a59234a-9c31-4ad5-a383-dab0edc58577")
 	)
 	(segment
-		(start 68.58 86.36)
-		(end 68.58 93.98)
+		(start 46.355 69.215)
+		(end 35.56 58.42)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 11)
-		(uuid "3392e897-6db6-4459-a103-9163fd41b813")
+		(uuid "d7c17ba6-7daa-40dc-ac23-597e5a8fa925")
 	)
 	(segment
-		(start 48.26 71.12)
-		(end 53.34 71.12)
+		(start 76.835 68.58)
+		(end 73.66 68.58)
 		(width 0.2)
 		(layer "F.Cu")
-		(net 11)
-		(uuid "6c3aaa65-6539-4429-b4df-18d8edea6cad")
+		(net 12)
+		(uuid "22e3b85e-b236-4f34-a97e-1f60377b8e90")
 	)
 	(segment
-		(start 63.5 93.98)
-		(end 63.5 91.44)
+		(start 83.82 75.565)
+		(end 76.835 68.58)
 		(width 0.2)
 		(layer "F.Cu")
-		(net 11)
-		(uuid "ace9fa49-d872-457f-9e47-508f78ac087f")
+		(net 12)
+		(uuid "9958fbdd-6401-43a4-b5f2-1c31e7bd4e40")
 	)
 	(segment
-		(start 35.56 58.42)
-		(end 48.26 71.12)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 11)
-		(uuid "b3bf099b-a956-42f4-95ed-77b735c507f8")
-	)
-	(segment
-		(start 76.2 71.12)
+		(start 73.66 68.58)
 		(end 63.5 58.42)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 12)
-		(uuid "7185515c-7063-4949-a9b1-b4389f42cb41")
+		(uuid "a226af22-bc92-4fc2-9a8e-836221d72fb9")
 	)
 	(segment
-		(start 99.06 78.74)
-		(end 91.44 71.12)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 12)
-		(uuid "ec09c481-0a49-4484-b1bf-5f053b098f61")
-	)
-	(segment
-		(start 91.44 71.12)
-		(end 76.2 71.12)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 12)
-		(uuid "ed54c2a2-f93c-441e-af1e-8d43d1a045b5")
-	)
-	(segment
-		(start 58.42 58.42)
-		(end 73.44 73.44)
+		(start 58.42 60.96)
+		(end 58.42 58.42)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 13)
-		(uuid "05cc40e3-351b-425d-b2be-31b0acddaedf")
+		(uuid "88c67331-e1a6-4745-92b2-4f88ee374e6f")
 	)
 	(segment
-		(start 81.06 73.44)
-		(end 86.36 78.74)
+		(start 73.025 75.565)
+		(end 58.42 60.96)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 13)
-		(uuid "44224217-d3f2-4261-8788-56320631f99d")
-	)
-	(segment
-		(start 73.44 73.44)
-		(end 81.06 73.44)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 13)
-		(uuid "b74d8c50-3e77-4df8-9eaf-f5dfc5ca9bad")
+		(uuid "9103198f-1551-41cf-a7e7-d35cdc20148c")
 	)
 	(segment
 		(start 55.88 53.34)
@@ -4361,156 +4669,92 @@
 		(uuid "d2186b3b-49e5-48c8-842e-3331fd03fc06")
 	)
 	(segment
-		(start 43.4 93.76)
-		(end 43.4 73.88)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 16)
-		(uuid "0e7e3b41-26f3-4512-ac41-4bb127d7059b")
-	)
-	(segment
-		(start 53.56 58.64)
+		(start 54.61 59.69)
 		(end 53.34 58.42)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 16)
-		(uuid "38e67de3-f289-40d6-bdae-fc117885f19c")
+		(uuid "2621516b-11d3-45f8-a2e7-7d3ac617e9e6")
 	)
 	(segment
-		(start 43.4 73.88)
-		(end 43.18 73.66)
+		(start 67.725 71.535)
+		(end 55.88 59.69)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 16)
-		(uuid "3a55e392-61ea-4a5d-b011-261ee573bb7b")
+		(uuid "307a34be-d197-4dcf-b5a1-dbf7fd9a01e6")
 	)
 	(segment
-		(start 43.18 93.98)
-		(end 43.4 93.76)
+		(start 67.945 88.265)
+		(end 67.725 88.045)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 16)
-		(uuid "80c42ae4-4df3-4251-a977-a5db8e93fc46")
+		(uuid "6cfb5dcd-9299-4571-8553-8245f7152d7f")
 	)
 	(segment
-		(start 53.34 63.5)
-		(end 53.34 58.42)
+		(start 55.88 59.69)
+		(end 54.61 59.69)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 16)
-		(uuid "dac69215-9d60-4585-bb66-7dd5b99842ec")
-	)
-	(via
-		(at 53.34 63.5)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net 16)
-		(uuid "28ac95c5-de2e-489d-8cd1-08167babcbf6")
-	)
-	(via
-		(at 43.18 73.66)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net 16)
-		(uuid "703e113b-8ee8-4910-a0b6-0b6f4e6e83d0")
+		(uuid "787e2c08-5fc3-43dc-aca8-35b4d7c25c2d")
 	)
 	(segment
-		(start 43.18 73.66)
-		(end 53.34 63.5)
+		(start 67.725 88.045)
+		(end 67.725 71.535)
 		(width 0.2)
-		(layer "B.Cu")
+		(layer "F.Cu")
 		(net 16)
-		(uuid "4f417874-9abb-4b54-9f78-fa4527a6925c")
+		(uuid "8d69f084-4f7b-4ded-b447-5c1988de44dd")
 	)
 	(segment
-		(start 104.14 93.98)
-		(end 91.66 81.5)
+		(start 89.535 88.265)
+		(end 89.535 72.3202)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 17)
-		(uuid "2f83f12a-f84a-4dc7-ac11-3610d9d92686")
+		(uuid "036fef4a-fa40-414f-a216-21e58856fbcc")
 	)
 	(segment
-		(start 76.2 68.58)
+		(start 74.93 67.31)
 		(end 66.04 58.42)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 17)
-		(uuid "7c7168a7-627e-4824-b5a5-0591bb3b7575")
+		(uuid "11fed344-6d20-4f9e-afd2-af2e9680c7ad")
 	)
 	(segment
-		(start 106.68 93.98)
-		(end 104.14 93.98)
+		(start 86.4298 69.215)
+		(end 80.01 69.215)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 17)
-		(uuid "904d73d4-f5cc-47aa-b2ce-d6f6ac3e2736")
+		(uuid "51be61ac-ebf6-401f-b2da-7b5e96eff972")
 	)
 	(segment
-		(start 91.66 81.5)
-		(end 91.66 75.0802)
+		(start 78.105 67.31)
+		(end 74.93 67.31)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 17)
-		(uuid "a92950db-4a36-4bce-b942-5a94ff54238b")
+		(uuid "5f589eac-485d-4a8c-a0cd-9460ca0c1634")
 	)
 	(segment
-		(start 78.74 68.58)
-		(end 76.2 68.58)
+		(start 80.01 69.215)
+		(end 78.105 67.31)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 17)
-		(uuid "ad892616-d7b2-495c-b445-7c2604e36f2e")
+		(uuid "8c07f471-a12a-4bee-99c4-41b53114effe")
 	)
 	(segment
-		(start 91.66 75.0802)
-		(end 88.2998 71.72)
+		(start 89.535 72.3202)
+		(end 86.4298 69.215)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 17)
-		(uuid "ea92b1a2-3e60-4cf3-b11e-34e64b06a126")
-	)
-	(segment
-		(start 88.2998 71.72)
-		(end 81.28 71.72)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 17)
-		(uuid "fd61628e-b25b-47bc-89ce-2c8ff302b820")
-	)
-	(via
-		(at 81.28 71.72)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net 17)
-		(uuid "30637f83-e489-47ef-ad28-394028238cdb")
-	)
-	(via
-		(at 78.74 68.58)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net 17)
-		(uuid "33c4fe5f-4766-43b7-b55f-fa7ec1698472")
-	)
-	(segment
-		(start 81.28 71.72)
-		(end 78.74 69.18)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 17)
-		(uuid "0ac26d56-b16c-4c69-bd01-1f337c2e490e")
-	)
-	(segment
-		(start 78.74 69.18)
-		(end 78.74 68.58)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 17)
-		(uuid "28fecfe7-2062-497c-ba2b-21df19864d6b")
+		(uuid "ab7223ce-f0b5-496d-9457-df5aa5775f73")
 	)
 	(segment
 		(start 55.88 55.88)
@@ -4545,171 +4789,123 @@
 		(uuid "e1988c8c-eff5-4034-a8b9-c7fdd9108538")
 	)
 	(segment
-		(start 81.28 93.98)
-		(end 78.96 91.66)
+		(start 62.23 75.565)
+		(end 62.23 69.85)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 19)
-		(uuid "16adf488-e627-45b4-a1a6-d481277ac0f7")
+		(uuid "63509329-759c-4ff8-9178-c1627d7b890d")
 	)
 	(segment
-		(start 52.282132 67.522133)
-		(end 50.8 66.040001)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 19)
-		(uuid "41bc352f-c4fd-484a-b1a6-4b7f0dccd1ab")
-	)
-	(segment
-		(start 78.96 91.66)
-		(end 76.42 91.66)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 19)
-		(uuid "65c79de3-174e-450e-84f9-71156d478992")
-	)
-	(segment
-		(start 76.42 91.66)
-		(end 58.42 73.66)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 19)
-		(uuid "7159ce19-099f-47e7-88c3-e64ce7503c45")
-	)
-	(segment
-		(start 50.8 66.040001)
+		(start 62.23 69.85)
 		(end 50.8 58.42)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 19)
-		(uuid "8bd7d420-8823-4203-9a60-4da7bc4269de")
-	)
-	(via
-		(at 58.42 73.66)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net 19)
-		(uuid "375709ea-27fb-4194-be58-01c92b235ac9")
-	)
-	(via
-		(at 52.282132 67.522133)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net 19)
-		(uuid "e86ec67f-1a96-413c-90e3-290a15894c35")
+		(uuid "7b89c64a-9d2f-4c16-8acc-50a6be01446a")
 	)
 	(segment
-		(start 52.282133 67.522133)
-		(end 52.282132 67.522133)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 19)
-		(uuid "37178c44-cc3c-4370-a36e-01d08b0b4816")
-	)
-	(segment
-		(start 58.42 73.66)
-		(end 52.282133 67.522133)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 19)
-		(uuid "65762ff7-ff14-460d-a8d5-084ec08033c8")
-	)
-	(segment
-		(start 78.74 63.5)
-		(end 109.22 63.5)
+		(start 82.55 67.945)
+		(end 80.645 66.04)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 20)
-		(uuid "89c9a9e7-3e4c-4f8a-989f-d6ad1e6a33a8")
+		(uuid "36d5c4e0-a5f5-4580-947a-23ee2f2cad09")
 	)
 	(segment
-		(start 109.22 63.5)
-		(end 124.46 78.74)
+		(start 85.725486 67.945)
+		(end 82.55 67.945)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 20)
-		(uuid "cb66a762-a2c8-49fa-b094-9fdc2734df98")
+		(uuid "8d9c77f1-1f37-4f31-a721-44d3368bd4cc")
 	)
 	(segment
-		(start 73.66 63.5)
+		(start 76.2 66.04)
 		(end 68.58 58.42)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 20)
-		(uuid "ea5bf32f-8766-4b77-a0f0-9389ac7f3a95")
-	)
-	(via
-		(at 73.66 63.5)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net 20)
-		(uuid "78f3f65d-e455-400c-aec6-546e9e140f88")
-	)
-	(via
-		(at 78.74 63.5)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net 20)
-		(uuid "826f9486-9864-40c0-a0e5-a1e80b8651e1")
+		(uuid "96980224-de18-40a3-a81c-9e9b4992d320")
 	)
 	(segment
-		(start 78.74 63.5)
-		(end 73.66 63.5)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 20)
-		(uuid "b320edb0-49d4-4f9b-8710-dcc152a32cb0")
-	)
-	(segment
-		(start 30.48 93.98)
-		(end 26.79 90.29)
+		(start 96.935 79.154514)
+		(end 85.725486 67.945)
 		(width 0.2)
 		(layer "F.Cu")
-		(net 30)
-		(uuid "369332a8-3f40-4242-bfba-23757de59bfa")
+		(net 20)
+		(uuid "9dbef32b-8388-45bb-9bb7-e0a68d86c12b")
 	)
 	(segment
-		(start 26.79 39.25)
+		(start 96.935 82.965)
+		(end 96.935 79.154514)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 20)
+		(uuid "cfbe63b9-8268-458b-9945-c35be94a3d1a")
+	)
+	(segment
+		(start 102.235 88.265)
+		(end 96.935 82.965)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 20)
+		(uuid "e0950fca-d0cf-4082-ab7e-66e3bdb3c83e")
+	)
+	(segment
+		(start 80.645 66.04)
+		(end 76.2 66.04)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 20)
+		(uuid "f1879fc2-f1eb-44a6-9b61-96e3fe9495b5")
+	)
+	(segment
+		(start 24.25 41.79)
 		(end 30.48 35.56)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 30)
-		(uuid "4b5e2f47-562f-4ddf-a7cb-ad2a21a1bde8")
+		(uuid "3639caac-da3a-4f4c-b478-3f08cccd2a9a")
 	)
 	(segment
-		(start 26.79 90.29)
-		(end 26.79 39.25)
+		(start 24.765 88.265)
+		(end 24.25 87.75)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 30)
-		(uuid "f64fb29d-7a8c-43d7-b33e-bf8172fc34e2")
+		(uuid "91b55aef-74e9-48eb-b507-ffc3509ba0f4")
 	)
 	(segment
-		(start 38.1 78.74)
-		(end 29.09 69.73)
+		(start 24.25 87.75)
+		(end 24.25 41.79)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 30)
+		(uuid "ce88a31f-a30a-4abf-94df-3142c6aa303d")
+	)
+	(segment
+		(start 29.21 39.37)
+		(end 29.21 74.93)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 35)
-		(uuid "199261ce-8ad3-4fd0-b5f6-f20fb03ac6d8")
+		(uuid "388dd0d3-e6ca-4292-afdc-f31165530161")
 	)
 	(segment
-		(start 29.09 39.49)
+		(start 29.21 74.93)
+		(end 29.845 75.565)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 35)
+		(uuid "7b633f52-f60a-46a4-83be-20acb99576b2")
+	)
+	(segment
+		(start 29.21 39.37)
 		(end 33.02 35.56)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 35)
-		(uuid "84d72ed5-1073-43d1-b403-8406d2919aca")
-	)
-	(segment
-		(start 29.09 69.73)
-		(end 29.09 39.49)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 35)
-		(uuid "e371397b-d162-431f-8e2a-8fe1c564364d")
+		(uuid "b8baf886-24c4-4541-9604-bf48d1b65a7a")
 	)
 )
