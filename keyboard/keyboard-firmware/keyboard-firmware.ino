@@ -17,35 +17,28 @@ long thresholds[TOUCH_PINS] = {
   90000,  //13
   95000   //14
 };
-bool previous_pressed[TOUCH_PINS];
-bool pressed[TOUCH_PINS];
-bool send;
 
 void setup() {
-  for (int i = 0; i < TOUCH_PINS; ++i) {
-    previous_pressed[i] = false;
-    pressed[i] = false;
-  }
-  send = false;
   Serial.begin(115200);
 }
 
+uint8_t current=0;
+uint8_t previous=0;
+uint8_t big=0;
+
 void loop() {
-  uint8_t output = 0;
   int i = 0;
+  previous=current;
+  current=0;
   for (; i < 7; ++i) {
-    // Serial.print(i);
-    // Serial.print(":\t");
-    // Serial.print(thresholds[i] < touchRead(pins[i]));
-    // Serial.print(" ");
-    previous_pressed[i] = pressed[i];
-    pressed[i] = thresholds[pins[i]-1] < touchRead(pins[i]);
-    if (previous_pressed[i] == pressed[i] || !pressed[i]) continue;
-    send = true;
+    current |= (thresholds[pins[i]-1] < touchRead(pins[i])) << i;
   }
-  if (send) {
-    for (i = 0; i < 7; ++i) output |= pressed[i] << i;
-    Serial.println(output);
-    send = false;
+  if(current==0&&previous!=0){
+    Serial.println(big);
+    big=0;
+  }else{
+    if(current>big){
+      big=current;
+    }
   }
 }
