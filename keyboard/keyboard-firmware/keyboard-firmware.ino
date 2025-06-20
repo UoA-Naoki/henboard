@@ -1,7 +1,22 @@
 #define TOUCH_PINS 14
 
-uint8_t pins[TOUCH_PINS] = {        1,     4,     6,     7,    10,    12,    14,     2,     5,     9,    11,    13,     8,     3};
-long thresholds[TOUCH_PINS] = { 95000, 85000,110000, 95000, 90000, 90000, 90000,115000, 70000, 90000, 95000, 95000, 90000, 95000};
+uint8_t pins[TOUCH_PINS] = {14,12,10,7,6,4,1,2,5,9,11,13,8,3};
+long thresholds[TOUCH_PINS] = {
+  95000,  // 1
+  85000,  // 2
+  120000, // 3
+  95000,  // 4
+  90000,  // 5
+  90000,  // 6
+  85000,  // 7
+  110000, // 8
+  70000,  // 9
+  90000,  //10
+  95000,  //11
+  100000, //12
+  90000,  //13
+  95000   //14
+};
 bool previous_pressed[TOUCH_PINS];
 bool pressed[TOUCH_PINS];
 bool send;
@@ -24,7 +39,7 @@ void loop() {
     // Serial.print(thresholds[i] < touchRead(pins[i]));
     // Serial.print(" ");
     previous_pressed[i] = pressed[i];
-    pressed[i] = thresholds[i] < touchRead(pins[i]);
+    pressed[i] = thresholds[pins[i]-1] < touchRead(pins[i]);
     if (previous_pressed[i] == pressed[i] || !pressed[i]) continue;
     send = true;
   }
